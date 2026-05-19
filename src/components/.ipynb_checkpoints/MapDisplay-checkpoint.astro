@@ -1,0 +1,146 @@
+---
+import fs from 'fs';
+import path from 'path';
+import { parse } from 'csv-parse/sync';
+
+const mapPath = path.resolve('./src/data/us_map3.txt');
+const mapText = fs.readFileSync(mapPath, 'utf-8');
+
+const directoryRaw = fs.readFileSync(path.resolve('./src/data/city_directory.csv'), 'utf-8');
+const directory = parse(directoryRaw, { columns: true });
+
+const dataRaw = fs.readFileSync(path.resolve('./src/data/city_data.csv'), 'utf-8');
+const cityData = parse(dataRaw, { columns: true });
+
+// Join on name
+const dataIndex = {};
+for (const row of cityData) {
+  if (!row.city) continue;
+  dataIndex[row.city.trim()] = row;
+}
+
+const cityIndex = {};
+for (const row of directory) {
+  if (!row.name) continue;
+  const match = dataIndex[row.name.trim()];
+  if (!match) continue;
+  cityIndex[`${row.row},${row.col}`] = {
+    name: row.name,
+    hex:  match.color,
+    row:  row.row,
+    col:  row.col,
+  };
+}
+
+const lines = mapText.split('\n').map((l) => l.trimEnd() + ' '.repeat(10));
+const html = lines.map((line, r) => {
+  const chars = [...line];
+  const charSpans = chars.map((ch, c) => {
+    const key = `${r},${c}`;
+    const city = cityIndex[key];
+    const escaped = ch.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    if (city) {
+      return `<span class="char city-marker" data-row="${r}" data-col="${c}" data-city="${city.name}" data-name="${city.name}" data-hex="${city.hex}" style="color:${city.hex};cursor:pointer">█</span>`;
+    }
+    return `<span class="char" data-row="${r}" data-col="${c}">${escaped}</span>`;
+  }).join('');
+  return `<span class="map-row" data-row="${r}">${charSpans}</span>`;
+}).join('\n');
+---
+
+<div class="map-container">
+  <pre class="us-map" id="us-map" set:html={html} />
+</div>
+
+<script>
+  const map = document.getElementById('us-map');
+
+  const grid = {};
+  map.querySelectorAll('.char').forEach(span => {
+    grid[span.dataset.row + ',' + span.dataset.col] = span;
+  });
+
+  const expandedMarkers = new Set();
+
+  map.querySelectorAll('.city-marker').forEach(marker => {
+    marker._hex      = marker.dataset.hex;
+    marker._name     = marker.dataset.name;
+    marker._row      = parseInt(marker.dataset.row);
+    marker._col      = parseInt(marker.dataset.col);
+    marker._expanded = false;
+    marker._saved    = null;
+    marker.style.color = marker._hex;
+  });
+
+  function collapse(marker) {
+    if (!marker._expanded) return;
+    for (const entry of marker._saved) {
+      const span = grid[entry.key];
+      if (!span || span === marker) continue;
+      span.textContent = entry.text;
+      if (entry.wasCity) {
+        span.style.color      = span._hex;
+        span.style.fontWeight = '';
+      } else {
+        span.style.color      = '';
+        span.style.fontWeight = '';
+      }
+    }
+    marker._saved    = null;
+    marker._expanded = false;
+    marker.style.color = marker._hex;
+    expandedMarkers.delete(marker);
+  }
+
+</script>
+
+<style>
+    .map-container {
+      width: fit-content;
+      overflow: hidden;
+      background: #1a1a1a
+      padding: 0;
+      box-sizing: border-box;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+      cursor: default;
+    }
+
+    .us-map {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 28 px;
+      line-height: 1.3;
+      letter-spacing: 0;
+      color: #ffffff;
+      margin: 0;
+      white-space: pre;
+      display: block;
+      cursor: default;
+      -webkit-user-select: none;
+      user-select: none;
+      width: fit-content;
+    }
+  .map-row {
+    display: block;
+  }
+
+  .char {
+    font-weight: normal;
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .city-marker {
+    cursor: pointer !important;
+  }
+
+    .city-marker {
+      display: inline;
+      line-height: 1.0;
+      vertical-align: baseline;
+      cursor: pointer !important;
+    }
+</style>

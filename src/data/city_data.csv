@@ -1,0 +1,128 @@
+rank,city,homicides,rate_per_100k,rate_percentile,model,flag,color
+1,St. Louis,39,14.02,100.0,direct_live_endpoint,—,#C0E4D8
+2,Cleveland,46,12.65,98.36,direct_live_endpoint,—,#C0E4D8
+3,Memphis,58,9.51,96.72,direct_live_endpoint,—,#C0E4D8
+4,Birmingham,16,8.14,95.08,direct_live_endpoint,—,#C0E4D8
+5,Kansas City,41,7.87,93.44,direct_live_endpoint,—,#C0E4D8
+6,New Orleans,28,7.73,91.8,direct_live_endpoint,—,#C0E4D8
+7,Baton Rouge,16,7.18,90.16,direct_live_endpoint,—,#C0E4D8
+8,Milwaukee,40,7.11,88.52,live_delayed_modeled,NOT MATCHING,#A8D8D1
+9,Detroit,44,6.78,86.89,direct_live_endpoint,—,#A8D8D1
+10,Baltimore,37,6.49,85.25,direct_live_endpoint,—,#A8D8D1
+11,Atlanta,33,6.24,83.61,direct_live_endpoint,—,#A8D8D1
+12,Chicago,145,5.31,81.97,direct_live_endpoint,—,#A8D8D1
+13,Cincinnati,16,5.09,80.33,direct_live_endpoint,—,#A8D8D1
+14,Washington DC,34,4.9,78.69,direct_live_endpoint,—,#90CACC
+15,Tallahassee,10,4.88,77.05,direct_live_endpoint,CAD_TOPS,#90CACC
+16,Las Vegas,33,4.85,75.41,direct_live_endpoint,—,#90CACC
+17,Louisville,31,4.83,73.77,direct_live_endpoint,—,#90CACC
+18,Little Rock,8,3.91,72.13,scraped,SCRAPED,#90CACC
+19,Indianapolis,35,3.88,70.49,direct_live_endpoint,—,#90CACC
+20,Toledo,10,3.8,68.85,direct_live_endpoint,—,#78B0BF
+21,Richmond,9,3.79,67.21,direct_live_endpoint,—,#78B0BF
+22,Pittsburgh,11,3.58,65.57,direct_live_endpoint,—,#78B0BF
+23,Norfolk,8,3.46,63.93,direct_live_endpoint,—,#78B0BF
+24,Minneapolis,14,3.25,62.3,direct_live_endpoint,—,#78B0BF
+25,Houston,76,3.17,60.66,live_delayed_modeled,NOT MATCHING | as_of 2026-03-31,#78B0BF
+26,Albuquerque,17,3.05,59.02,direct_live_endpoint,—,#6191B2
+27,Colorado Springs,15,3.03,57.38,direct_live_endpoint,—,#6191B2
+28,Oakland,13,2.95,55.74,direct_live_endpoint,—,#6191B2
+29,Philadelphia,46,2.92,54.1,direct_live_endpoint,—,#6191B2
+30,Charlotte,27,2.8,52.46,direct_live_endpoint,—,#6191B2
+31,Buffalo,7,2.55,50.82,direct_live_endpoint,—,#6191B2
+32,San Francisco,21,2.54,49.18,direct_live_endpoint,—,#6191B2
+33,Nashville,18,2.5,47.54,direct_live_endpoint,—,#6191B2
+34,Orlando,8,2.4,45.9,direct_live_endpoint,—,#6191B2
+35,Dallas,31,2.33,44.26,direct_live_endpoint,—,#6191B2
+36,Sacramento,12,2.24,42.62,direct_live_endpoint,—,#6191B2
+37,Spokane,5,2.17,40.98,direct_live_endpoint,—,#6191B2
+38,Columbus,20,2.13,39.34,direct_live_endpoint,—,#4A6FA5
+39,Austin,20,1.99,37.7,direct_live_endpoint,—,#4A6FA5
+40,Salt Lake City,4,1.83,36.07,direct_live_endpoint,—,#4A6FA5
+41,Virginia Beach,8,1.76,34.43,direct_live_endpoint,—,#4A6FA5
+42,San Antonio,26,1.68,32.79,direct_live_endpoint,—,#4A6FA5
+43,Denver,12,1.62,31.15,direct_live_endpoint,—,#4A6FA5
+44,Jacksonville,16,1.57,29.51,direct_live_endpoint,—,#4A6FA5
+45,Los Angeles,51,1.32,27.87,live_delayed_modeled,NOT MATCHING | as_of 2026-04-30,#4A6FA5
+46,Honolulu,4,1.17,26.23,direct_live_endpoint,—,#4A6FA5
+47,New York City,89,1.04,24.59,direct_live_endpoint,—,#4A6FA5
+48,Seattle,8,1.02,22.95,direct_live_endpoint,—,#4A6FA5
+49,Raleigh,5,0.99,21.31,direct_live_endpoint,—,#4A6FA5
+50,Fort Worth,10,0.97,18.03,direct_live_endpoint,—,#4A6FA5
+51,Rochester,2,0.97,18.03,direct_live_endpoint,—,#4A6FA5
+52,Riverside,3,0.93,16.39,direct_live_endpoint,—,#4A6FA5
+53,San Diego,11,0.78,14.75,direct_live_endpoint,—,#4A6FA5
+54,St. Paul,2,0.65,13.11,direct_live_endpoint,—,#4A6FA5
+55,Omaha,3,0.61,11.48,direct_live_endpoint,—,#4A6FA5
+56,Mesa,1,0.19,9.84,direct_live_endpoint,—,#4A6FA5
+57,Portland,0,0.0,0.0,live_delayed_modeled,—,#4A6FA5
+58,Newark,0,0.0,0.0,direct_live_endpoint,—,#4A6FA5
+59,Boise,0,0.0,0.0,direct_live_endpoint,—,#4A6FA5
+60,Greensboro,0,0.0,0.0,direct_live_endpoint,—,#4A6FA5
+61,Tampa,0,0.0,0.0,direct_live_endpoint,—,#4A6FA5
+62,Lincoln,0,0.0,0.0,direct_live_endpoint,—,#4A6FA5
+N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Oklahoma City,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,El Paso,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Fresno,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Tucson,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Miami,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Long Beach,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Bakersfield,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Tulsa,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Aurora,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Arlington,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Wichita,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Henderson,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Anaheim,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Lexington,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Stockton,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Irvine,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Corpus Christi,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Santa Ana,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Jersey City,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,North Las Vegas,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Plano,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Gilbert,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Anchorage,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Madison,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Reno,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Chandler,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Chula Vista,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Fort Wayne,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Lubbock,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Laredo,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Port St. Lucie,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,St. Petersburg,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Glendale,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Winston-Salem,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Irving,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Chesapeake,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Garland,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Scottsdale,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Frisco,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Cape Coral,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,McKinney,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Huntsville,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Hialeah,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Tacoma,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Santa Clarita,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Fremont,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,San Bernardino,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Fontana,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Modesto,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Moreno Valley,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Worcester,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Sioux Falls,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Yonkers,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Des Moines,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Grand Prairie,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Fayetteville,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Amarillo,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Overland Park,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Knoxville,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Augusta,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Grand Rapids,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Peoria,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A
+N/A,Mobile,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,N/A

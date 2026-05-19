@@ -1,0 +1,59 @@
+id,name,row,col,hex
+Seattle,Seattle,3,8,#34D399
+Portland,Seattle,6,7,#34D400
+Boston,Boston,9,109,#34D401
+Minneapolis,Minneapolis,10,69,#34D402
+St. Paul,St. Paul,10,70,#34D403
+Milwaukee,Milwaukee,11,78,#34D404
+Detroit,Detroit,12,87,#34D405
+New York City,New York City,12,104,#34D406
+Chicago,Chicago,13,79,#34D407
+Omaha,Omaha,14,62,#34D408
+Cleveland,Cleveland,14,90,#34D409
+Pittsburgh,Pittsburgh,14,94,#34D410
+Philadelphia,Philadelphia,14,100,#34D411
+Salt Lake City,Salt Lake City,15,26,#34D412
+Indianapolis,Indianapolis,15,82,#34D413
+Columbus,Columbus,15,88,#34D414
+Sacramento,Sacramento,16,7,#34D415
+Cincinnati,Cincinnati,16,86,#34D416
+Baltimore,Baltimore,16,98,#34D417
+Kansas City,Kansas City,17,64,#34D418
+St. Louis,St. Louis,17,74,#34D419
+Louisville,Louisville,17,82,#34D420
+Washington DC,Washington DC,17,96,#34D421
+San Francisco,San Francisco,18,3,#34D422
+Denver,Denver,17,33,#34D423
+San Jose,San Jose,19,4,#34D424
+Colorado Springs,Colorado Springs,18,33,#34D425
+Nashville,Nashville,19,81,#34D426
+Virginia Beach,Virginia Beach,19,100,#34D427
+Memphis,Memphis,20,74,#34D428
+Fresno,Fresno,21,10,#34D429
+Greensboro,Greensboro,21,92,#34D430
+Durham,Durham,21,96,#34D431
+Las Vegas,Las Vegas,22,17,#34D432
+Raleigh,Raleigh,22,97,#34D433
+Charlotte,Charlotte,23,90,#34D434
+Los Ángeles,Los Ángeles,24,9,#34D435
+Riverdale,Riverdale,24,12,#34D436
+San Diego,San Diego,25,10,#34D437
+Mesa,Mesa,25,25,#34D438
+Pheonix,Pheonix,25,26,#34D439
+Albuquerque,Albuquerque,25,33,#34D440
+Oklahoma City,Oklahoma City,26,55,#34D441
+Atlanta,Atlanta,26,87,#34D442
+Tuscon,Tuscon,28,27,#34D443
+El Paso,El Paso,30,35,#34D444
+Forth Worth,Forth Worth,30,53,#34D445
+Dallas,Dallas,30,55,#34D446
+Jacksonville,Jacksonville,30,93,#34D447
+New Orleans,New Orleans,32,71,#34D448
+Houston,Houston,33,57,#34D449
+Orlando,Orlando,33,95,#34D450
+Achorage,Achorage,34,13,#34D451
+Austin,Austin,34,53,#34D452
+Tampa,Tampa,34,92,#34D453
+San Antonia,San Antonia,35,52,#34D454
+Honolulu,Honolulu,36,34,#34D455
+Miami,Miami,36,96,#34D456
