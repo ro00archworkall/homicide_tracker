@@ -9,7 +9,7 @@ const rankings = parse(dataRaw, { columns: true });
 
 const notWired = rankings.filter(city => city.model === 'NOT_WIRED');
 
-const headerHtml = `<div class="sidebar-row header-row"><span class="rank-col">#</span><span class="name-col"> City</span><span class="hom-col">Homicides_YTD</span><span class="rate-col">Rate</span></div>`;
+const headerHtml = `<div class="sidebar-row header-row"><span class="rank-col">#</span><span class="row-fields"><span class="name-col"> City</span><span class="hom-col">Homicides_YTD</span><span class="rate-col">Rate</span><span class="source-col">data_source</span></span></div>`;
 
 const notWiredHtml = notWired
   .map(city => `<div class='nw-row'>${city.city}</div>`)
@@ -19,7 +19,7 @@ let sidebarHtml = '';
 try {
   sidebarHtml = rankings
     .filter(city => city.city && city.rate_per_100k !== 'N/A')
-    .map(city => `<div class='sidebar-row'><span class='rank-col' style='background:${city.color};color:#1a1a1a'> ${city.rank}</span><span class='data-box' style='border:1px solid ${city.color}'><span class='name-col'> ${city.city}</span><span class='hom-col'>${city.homicides}</span><span class='rate-col'>${city.rate_per_100k}</span></span></div>`)
+    .map(city => `<div class='sidebar-row'><span class='rank-col' style='background:${city.color};color:#1a1a1a'> ${city.rank}</span><span class='data-box' style='border-color:${city.color}'><span class='name-col'> ${city.city}</span><span class='hom-col'>${city.homicides}</span><span class='rate-col'>${city.rate_per_100k}</span><span class='source-col'>${city.data_source || city.date_type || '—'}</span></span></div>`)
     .join('\n');
 } catch(e) {
   console.error('sidebar error:', e);
@@ -91,7 +91,12 @@ try {
           display: flex;
           flex-direction: column;
           height: 100vh;
-          padding: 0 1rem;
+          width: 85ch;
+          max-width: calc(100vw - 1rem);
+          min-width: 0;
+          padding: 0 0.5rem 0 0;
+          box-sizing: border-box;
+          overflow-x: hidden;
         }
 
       .sidebar-header {
@@ -99,32 +104,80 @@ try {
         background: #1a1a1a;
         color: #f0ede6;
         border-bottom: 2px solid #f0ede6;
-        padding: -4rem 1rem 0 1rem; 
+        padding: 0.75rem 0 0.35rem 0;
         font-size: 20px;
         line-height: 1.4;
+        overflow-x: hidden;
       }
 
       .sidebar-scroll {
         flex: 1;
+        overflow-x: hidden;
         overflow-y: scroll;
         font-size: 20px;
         line-height: 1.4;
         scrollbar-width: none;
         -ms-overflow-style: none;
+        padding: 0;
       }
 
       .sidebar-scroll::-webkit-scrollbar { display: none; }
 
       .sidebar-row {
-        display: block;
+        display: grid;
+        grid-template-columns: 4ch minmax(0, 1fr);
+        align-items: stretch;
+        width: 100%;
+        max-width: 100%;
         line-height: 1.4;
+        margin: 0;
       }
 
-      .data-box  { display: inline-block; padding: 0 0.5ch; }
-      .rank-col  { display: inline-block; width: 4ch;  text-align: left; color: #555; }
-      .name-col  { display: inline-block; width: 20ch; }
-      .hom-col   { display: inline-block; width: 16ch; text-align: left; }
-      .rate-col  { display: inline-block; width: 8ch;  text-align: left; padding-left: 1ch; }
+      .rank-col {
+        text-align: left;
+        color: #555;
+        padding-left: 0.25ch;
+      }
+
+      .row-fields,
+      .data-box {
+        display: grid;
+        grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr) minmax(0, 0.55fr) minmax(0, 1.1fr);
+        gap: 0.75ch;
+        align-items: baseline;
+        min-width: 0;
+        width: 100%;
+        box-sizing: border-box;
+        padding: 0 1ch;
+      }
+
+      .data-box {
+        border: 1px solid;
+        margin: 1px 0;
+      }
+
+      .name-col,
+      .hom-col,
+      .rate-col,
+      .source-col {
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        text-align: center;
+      }
+
+      .hom-col,
+      .rate-col { text-align: left; }
+
+      .source-col {
+        font-size: 13px;
+        color: #a8b4c4;
+      }
+
+      .header-row .rank-col { color: #f0ede6; }
+      .header-row .hom-col { font-size: 15px; }
+      .header-row .source-col { color: #f0ede6; font-size: 15px; }
 
       #resume-btn {
         display: none;
@@ -520,10 +573,11 @@ try {
               const city = row.querySelector('.name-col')?.textContent.trim();
               const hom  = row.querySelector('.hom-col')?.textContent.trim();
               const rate = row.querySelector('.rate-col')?.textContent.trim();
-              return `${rank},${city},${hom},${rate}`;
+              const src = row.querySelector('.source-col')?.textContent.trim();
+              return `${rank},${city},${hom},${rate},${src}`;
             });
         
-          const csv = ['rank,city,homicides,rate_per_100k', ...rows].join('\n');
+          const csv = ['rank,city,homicides,rate_per_100k,data_source', ...rows].join('\n');
           const blob = new Blob([csv], { type: 'text/csv' });
           const url  = URL.createObjectURL(blob);
           const a    = document.createElement('a');
