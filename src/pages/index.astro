@@ -4,6 +4,18 @@ import fs from 'fs';
 import path from 'path';
 import { parse } from 'csv-parse/sync';
 
+const buildDate = new Date();
+buildDate.setMinutes(0, 0, 0);
+const lastUpdated = buildDate.toLocaleString('sv-SE', {
+  year: 'numeric',
+  month: '2-digit',
+  day: '2-digit',
+  hour: '2-digit',
+  minute: '2-digit',
+  hour12: false,
+  timeZone: 'America/Detroit'
+}).replace(' ', 'T') + ' EST';
+
 const dataRaw = fs.readFileSync(path.resolve('./src/data/city_data.csv'), 'utf-8');
 const rankings = parse(dataRaw, { columns: true });
 
@@ -268,9 +280,21 @@ try {
           line-height: 1.2;
           display: flex;
         }
+
+        .last-updated {
+            position: fixed;
+            top: 0.8rem;
+            left: 1.2rem;
+            color: #5aa9e6;
+            font-size: 12px;
+            font-family: 'Courier New', Courier, monospace;
+            letter-spacing: 0.05em;
+            z-index: 50;
+          }
     </style>
   </head>
   <body>
+    <div class="last-updated">last updated: {lastUpdated}</div>
       <div class="title">
        US YTD Homicides for Cities >= 200k residents
       </div>
