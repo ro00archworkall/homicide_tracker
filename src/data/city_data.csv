@@ -60,6 +60,6 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 59,Boston,3,0.44,7.94,ckan_sql,direct_live_endpoint,—,#4A6FA5
 60,Mesa,2,0.39,6.35,socrata,direct_live_endpoint,—,#4A6FA5
 61,Tampa,1,0.26,4.76,arcgis,direct_live_endpoint,—,#4A6FA5
-62,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-63,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+62,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+63,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 64,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
