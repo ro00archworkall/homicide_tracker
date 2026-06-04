@@ -4,8 +4,16 @@ import fs from 'fs';
 import path from 'path';
 import { parse } from 'csv-parse/sync';
 
-const buildDate = new Date();
-buildDate.setMinutes(0, 0, 0);
+// last_updated.txt is written by the Raspberry Pi pipeline at the end of each run
+// (ISO 8601 with offset, e.g. 2026-06-04T19:00:05-04:00). Reading it here makes the
+// stamp reflect when the data was actually pulled, not when Vercel built the page.
+// Fall back to build time so a missing file never fails the build.
+let buildDate;
+try {
+  buildDate = new Date(fs.readFileSync(path.resolve('./src/data/last_updated.txt'), 'utf-8').trim());
+} catch {
+  buildDate = new Date();
+}
 const lastUpdated = buildDate.toLocaleString('sv-SE', {
   year: 'numeric',
   month: '2-digit',
