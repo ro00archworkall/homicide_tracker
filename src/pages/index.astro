@@ -58,8 +58,6 @@ try {
       * { margin: 0; padding: 0; box-sizing: border-box; }
 
       html, body {
-        height: 100vh;
-        overflow-x: hidden;
         background: #1a1a1a;
         color: #f0ede6;
         font-family: 'Courier New', Courier, monospace;
@@ -67,14 +65,26 @@ try {
       }
 
       body {
+        margin: 0;
+        min-height: 100vh;
+        overflow: auto;
+      }
+
+      /* Fixed design canvas. A load-time script sets `zoom` so it fits the
+         screen; native browser zoom / iPad pinch then enlarges it + scrolls. */
+      .stage {
+        position: relative;
+        width: 2082px;
+        height: 1150px;
+        margin: 0 auto;
         display: flex;
         flex-direction: row;
         align-items: flex-start;
-        padding: 8ch 0 0 3ch;
+        padding: 77px 0 0 29px;
       }
 
         .title {
-          position: fixed;
+          position: absolute;
           top: 2.5rem;
           left: 0 rem;
           font-family: 'Courier New', Courier, monospace;
@@ -87,7 +97,7 @@ try {
         }
 
         #getcsv {
-          position: fixed;
+          position: absolute;
           top: 2.5rem;
           left: 30.45em;
           font-family: 'Courier New', Courier, monospace;
@@ -105,14 +115,14 @@ try {
       }
 
         .sidebar-wrapper {
-          position: fixed;
+          position: absolute;
           top: 0;
           right: 0;
           display: flex;
           flex-direction: column;
-          height: 100vh;
-          width: 86ch;
-          max-width: calc(100vw - 1rem);
+          height: 100%;
+          width: 826px;
+          max-width: calc(100% - 1rem);
           min-width: 0;
           padding: 0 0.5rem 0 0;
           box-sizing: border-box;
@@ -265,14 +275,16 @@ try {
           position: absolute;
           bottom: -240px;
           left: 8px;
+          right: 0;
           font-family: 'Courier New', Courier, monospace;
-          font-size: 9px;
+          font-size: 12px;
           color: #f0ede6;
           line-height: 1.2;
           display: flex;
           flex-wrap: wrap;
+          align-content: flex-start;
+          align-items: flex-start;
           border: .75px solid #f0ede6;
-          width: 68.5rem;
         }
         
         .nw-row {
@@ -290,7 +302,7 @@ try {
         }
 
         .last-updated {
-            position: fixed;
+            position: absolute;
             top: 0.8rem;
             left: 1.2rem;
             color: #5aa9e6;
@@ -302,6 +314,7 @@ try {
     </style>
   </head>
   <body>
+    <div class="stage">
     <div class="last-updated">last updated: {lastUpdated}</div>
       <div class="title">
        US YTD Homicides for Cities >= 200k residents
@@ -341,7 +354,7 @@ try {
         <div id="sidebar-content" set:html={sidebarHtml} />
       </div>
     </div>
-  </body>
+    </div><!-- .stage -->
 
   <script>
     document.addEventListener('DOMContentLoaded', () => {
@@ -600,7 +613,7 @@ try {
             });
 
         document.getElementById('getcsv').addEventListener('click', () => {
-          const rows = [...document.querySelectorAll('.sidebar-row')]
+          const rows = [...document.querySelectorAll('#sidebar-content .sidebar-row')]
             .filter(row => !row.classList.contains('header-row'))
             .map(row => {
               const rank = row.querySelector('.rank-col')?.textContent.trim();
@@ -620,5 +633,36 @@ try {
           a.click();
           URL.revokeObjectURL(url);
         });
+  </script>
+
+  <script is:inline>
+    // Fit the fixed design canvas to the viewport. `zoom` (not transform) so the
+    // scaled box drives layout + scroll; native browser zoom / iPad pinch then
+    // enlarges it and you pan across. Fit by WIDTH only: keeps the composition
+    // identical across browsers (same window width => same scale), independent
+    // of toolbar/innerHeight diffs.
+    //
+    // We re-fit on genuine window resizes but must NOT re-fit on page zoom — a
+    // browser/pinch zoom also fires `resize` and changes innerWidth, so re-fitting
+    // on that would snap the zoom back and kill the pan-around UX. window.outerWidth
+    // tracks the actual window chrome and is unaffected by page zoom, so we gate
+    // the re-fit on it changing.
+    (function () {
+      const stage = document.querySelector('.stage');
+      const W = 2082;
+      let lastOuterWidth = window.outerWidth;
+
+      function fit() {
+        stage.style.zoom = window.innerWidth / W;
+      }
+
+      fit();
+
+      window.addEventListener('resize', () => {
+        if (window.outerWidth === lastOuterWidth) return; // page zoom, not a resize
+        lastOuterWidth = window.outerWidth;
+        fit();
+      });
+    })();
   </script>
 </html>
