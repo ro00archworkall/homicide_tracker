@@ -10,7 +10,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 9,Milwaukee,42,7.47,87.3,ckan_datastore_search,live_delayed_modeled,NOT MATCHING,#A8D8D1
 10,Baltimore,40,7.02,85.71,arcgis,direct_live_endpoint,—,#A8D8D1
 11,Atlanta,36,6.8,84.13,arcgis,direct_live_endpoint,—,#A8D8D1
-12,Chicago,166,6.08,82.54,socrata,direct_live_endpoint,—,#A8D8D1
+12,Chicago,167,6.11,82.54,socrata,direct_live_endpoint,—,#A8D8D1
 13,Cincinnati,18,5.73,80.95,socrata,direct_live_endpoint,—,#A8D8D1
 14,Norfolk,13,5.63,79.37,socrata,direct_live_endpoint,—,#90CACC
 15,Las Vegas,37,5.44,77.78,arcgis,direct_live_endpoint,—,#90CACC
@@ -36,7 +36,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 35,Columbus,25,2.66,46.03,html_count,direct_live_endpoint,—,#6191B2
 36,Nashville,19,2.63,44.44,arcgis,direct_live_endpoint,—,#6191B2
 37,Sacramento,13,2.42,42.86,arcgis,direct_live_endpoint,—,#6191B2
-38,Dallas,31,2.33,41.27,socrata,direct_live_endpoint,—,#6191B2
+38,Dallas,32,2.41,41.27,socrata,direct_live_endpoint,—,#6191B2
 39,San Antonio,36,2.32,39.68,ckan_sql,direct_live_endpoint,—,#4A6FA5
 40,Austin,22,2.19,38.1,socrata,direct_live_endpoint,—,#4A6FA5
 41,Spokane,5,2.17,36.51,arcgis,direct_live_endpoint,—,#4A6FA5
@@ -60,9 +60,9 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 59,Boston,3,0.45,7.94,ckan_sql,direct_live_endpoint,—,#4A6FA5
 60,Mesa,2,0.39,6.35,socrata,direct_live_endpoint,—,#4A6FA5
 61,Tampa,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-62,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-63,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-64,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+62,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+63,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+64,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Oklahoma City,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
