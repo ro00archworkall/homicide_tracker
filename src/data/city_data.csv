@@ -29,7 +29,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 28,Buffalo,10,3.64,57.14,socrata,direct_live_endpoint,—,#6191B2
 29,Houston,87,3.63,55.56,incident_csv,live_delayed_modeled,NOT MATCHING | as_of 2026-03-31,#6191B2
 30,Charlotte,33,3.42,53.97,arcgis,direct_live_endpoint,—,#6191B2
-31,Oakland,14,3.18,52.38,socrata,direct_live_endpoint,—,#6191B2
+31,Oakland,15,3.4,52.38,socrata,direct_live_endpoint,—,#6191B2
 32,San Francisco,23,2.78,50.79,socrata,direct_live_endpoint,—,#6191B2
 33,Salt Lake City,6,2.75,49.21,arcgis,direct_live_endpoint,—,#6191B2
 34,Orlando,9,2.7,47.62,arcgis,direct_live_endpoint,—,#6191B2
