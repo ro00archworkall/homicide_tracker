@@ -37,8 +37,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 36,Dallas,32,2.41,43.55,socrata,direct_live_endpoint,—,#6191B2
 37,San Antonio,36,2.32,41.94,ckan_sql,direct_live_endpoint,—,#6191B2
 38,Denver,17,2.3,40.32,arcgis,direct_live_endpoint,—,#6191B2
-39,Austin,22,2.19,38.71,socrata,direct_live_endpoint,—,#4A6FA5
-40,Spokane,5,2.17,37.1,arcgis,direct_live_endpoint,—,#4A6FA5
+39,Spokane,5,2.17,38.71,arcgis,direct_live_endpoint,—,#4A6FA5
+40,Austin,21,2.09,37.1,socrata,direct_live_endpoint,—,#4A6FA5
 41,Virginia Beach,9,1.98,35.48,arcgis,direct_live_endpoint,—,#4A6FA5
 42,Jacksonville,20,1.97,33.87,arcgis,direct_live_endpoint,—,#4A6FA5
 43,Los Angeles,75,1.94,32.26,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-05-09,#4A6FA5
@@ -58,8 +58,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 57,Boston,3,0.45,9.68,ckan_sql,direct_live_endpoint,—,#4A6FA5
 58,Mesa,2,0.39,8.06,socrata,direct_live_endpoint,—,#4A6FA5
 59,Tampa,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-60,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-61,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+60,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+61,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 62,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
 63,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
