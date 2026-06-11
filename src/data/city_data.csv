@@ -28,10 +28,10 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 27,Buffalo,10,3.64,58.06,socrata,direct_live_endpoint,—,#6191B2
 28,Charlotte,33,3.42,56.45,arcgis,direct_live_endpoint,—,#6191B2
 29,Oakland,15,3.4,54.84,socrata,direct_live_endpoint,—,#6191B2
-30,San Francisco,23,2.78,53.23,socrata,direct_live_endpoint,—,#6191B2
-31,Salt Lake City,6,2.75,51.61,arcgis,direct_live_endpoint,—,#6191B2
-32,Orlando,9,2.7,50.0,arcgis,direct_live_endpoint,—,#6191B2
-33,Columbus,25,2.66,48.39,html_count,direct_live_endpoint,—,#6191B2
+30,Columbus,27,2.88,53.23,html_count,direct_live_endpoint,—,#6191B2
+31,San Francisco,23,2.78,51.61,socrata,direct_live_endpoint,—,#6191B2
+32,Salt Lake City,6,2.75,50.0,arcgis,direct_live_endpoint,—,#6191B2
+33,Orlando,9,2.7,48.39,arcgis,direct_live_endpoint,—,#6191B2
 34,Nashville,19,2.63,46.77,arcgis,direct_live_endpoint,—,#6191B2
 35,Sacramento,13,2.42,45.16,arcgis,direct_live_endpoint,—,#6191B2
 36,Dallas,32,2.41,43.55,socrata,direct_live_endpoint,—,#6191B2
@@ -58,10 +58,10 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 57,Boston,3,0.45,9.68,ckan_sql,direct_live_endpoint,—,#4A6FA5
 58,Mesa,2,0.39,8.06,socrata,direct_live_endpoint,—,#4A6FA5
 59,Tampa,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-60,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-61,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-62,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
-63,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+60,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+61,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+62,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+63,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Oklahoma City,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
