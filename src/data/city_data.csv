@@ -22,7 +22,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 21,Pittsburgh,13,4.23,67.74,ckan_sql,direct_live_endpoint,—,#78B0BF
 22,Minneapolis,18,4.18,66.13,arcgis,direct_live_endpoint,—,#78B0BF
 23,Colorado Springs,20,4.04,64.52,socrata,direct_live_endpoint,—,#78B0BF
-24,Philadelphia,62,3.94,62.9,carto,direct_live_endpoint,—,#78B0BF
+24,Philadelphia,63,4.0,62.9,carto,direct_live_endpoint,—,#78B0BF
 25,Richmond,9,3.79,61.29,html_count,direct_live_endpoint,—,#78B0BF
 26,Albuquerque,21,3.77,59.68,html_regex,direct_live_endpoint,—,#6191B2
 27,Buffalo,10,3.64,58.06,socrata,direct_live_endpoint,—,#6191B2
@@ -59,8 +59,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 58,Mesa,2,0.39,8.06,socrata,direct_live_endpoint,—,#4A6FA5
 59,Tampa,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 60,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-61,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
-62,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+61,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+62,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
 63,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
