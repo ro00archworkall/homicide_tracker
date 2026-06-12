@@ -41,7 +41,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 40,Austin,21,2.09,37.1,socrata,direct_live_endpoint,—,#4A6FA5
 41,Virginia Beach,9,1.98,35.48,arcgis,direct_live_endpoint,—,#4A6FA5
 42,Jacksonville,20,1.97,33.87,arcgis,direct_live_endpoint,—,#4A6FA5
-43,Los Angeles,75,1.94,32.26,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-05-09,#4A6FA5
+43,Los Angeles,76,1.96,32.26,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-05-09,#4A6FA5
 44,Honolulu,6,1.76,30.65,socrata,direct_live_endpoint,—,#4A6FA5
 45,Rochester,3,1.46,29.03,arcgis,direct_live_endpoint,—,#4A6FA5
 46,Seattle,11,1.4,27.42,socrata,direct_live_endpoint,—,#4A6FA5
