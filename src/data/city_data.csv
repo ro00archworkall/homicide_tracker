@@ -45,13 +45,13 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 44,Honolulu,6,1.76,30.65,socrata,direct_live_endpoint,—,#4A6FA5
 45,Rochester,3,1.46,29.03,arcgis,direct_live_endpoint,—,#4A6FA5
 46,Seattle,11,1.4,27.42,socrata,direct_live_endpoint,—,#4A6FA5
-47,San Diego,18,1.28,25.81,incident_csv,direct_live_endpoint,—,#4A6FA5
-48,Fort Worth,13,1.26,24.19,arcgis,direct_live_endpoint,—,#4A6FA5
-49,Riverside,4,1.24,22.58,arcgis,direct_live_endpoint,—,#4A6FA5
-50,New York City,106,1.23,20.97,pdf,direct_live_endpoint,—,#4A6FA5
-51,Omaha,5,1.02,19.35,arcgis,direct_live_endpoint,—,#4A6FA5
-52,Raleigh,5,0.99,17.74,arcgis,direct_live_endpoint,—,#4A6FA5
-53,Durham,3,0.98,16.13,arcgis,direct_live_endpoint,—,#4A6FA5
+47,Durham,4,1.31,25.81,arcgis,direct_live_endpoint,—,#4A6FA5
+48,San Diego,18,1.28,24.19,incident_csv,direct_live_endpoint,—,#4A6FA5
+49,Fort Worth,13,1.26,22.58,arcgis,direct_live_endpoint,—,#4A6FA5
+50,Riverside,4,1.24,20.97,arcgis,direct_live_endpoint,—,#4A6FA5
+51,New York City,106,1.23,19.35,pdf,direct_live_endpoint,—,#4A6FA5
+52,Omaha,5,1.02,17.74,arcgis,direct_live_endpoint,—,#4A6FA5
+53,Raleigh,5,0.99,16.13,arcgis,direct_live_endpoint,—,#4A6FA5
 54,Newark,3,0.93,14.52,tableau_csv,direct_live_endpoint,—,#4A6FA5
 55,St. Paul,2,0.65,12.9,arcgis,direct_live_endpoint,—,#4A6FA5
 56,Portland,4,0.63,11.29,incident_csv,live_delayed_modeled,as_of 2026-03-27,#4A6FA5
