@@ -34,15 +34,15 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 33,Orlando,9,2.7,48.39,arcgis,direct_live_endpoint,—,#6191B2
 34,Nashville,19,2.63,46.77,arcgis,direct_live_endpoint,—,#6191B2
 35,Sacramento,13,2.42,45.16,arcgis,direct_live_endpoint,—,#6191B2
-36,Dallas,31,2.33,43.55,socrata,direct_live_endpoint,—,#6191B2
-37,San Antonio,36,2.32,41.94,ckan_sql,direct_live_endpoint,—,#6191B2
-38,Denver,17,2.3,40.32,arcgis,direct_live_endpoint,—,#6191B2
-39,Spokane,5,2.17,38.71,arcgis,direct_live_endpoint,—,#4A6FA5
-40,Austin,21,2.09,37.1,socrata,direct_live_endpoint,—,#4A6FA5
-41,Jacksonville,21,2.06,35.48,arcgis,direct_live_endpoint,—,#4A6FA5
-42,Los Angeles,77,1.99,33.87,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-05-09,#4A6FA5
-43,Virginia Beach,9,1.98,32.26,arcgis,direct_live_endpoint,—,#4A6FA5
-44,Honolulu,6,1.76,30.65,socrata,direct_live_endpoint,—,#4A6FA5
+36,Honolulu,8,2.34,43.55,socrata,direct_live_endpoint,—,#6191B2
+37,Dallas,31,2.33,41.94,socrata,direct_live_endpoint,—,#6191B2
+38,San Antonio,36,2.32,40.32,ckan_sql,direct_live_endpoint,—,#6191B2
+39,Denver,17,2.3,38.71,arcgis,direct_live_endpoint,—,#4A6FA5
+40,Spokane,5,2.17,37.1,arcgis,direct_live_endpoint,—,#4A6FA5
+41,Austin,21,2.09,35.48,socrata,direct_live_endpoint,—,#4A6FA5
+42,Jacksonville,21,2.06,33.87,arcgis,direct_live_endpoint,—,#4A6FA5
+43,Los Angeles,77,1.99,32.26,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-05-09,#4A6FA5
+44,Virginia Beach,9,1.98,30.65,arcgis,direct_live_endpoint,—,#4A6FA5
 45,Rochester,3,1.46,29.03,arcgis,direct_live_endpoint,—,#4A6FA5
 46,Seattle,11,1.4,27.42,socrata,direct_live_endpoint,—,#4A6FA5
 47,San Diego,19,1.35,25.81,incident_csv,direct_live_endpoint,—,#4A6FA5
@@ -59,8 +59,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 58,Mesa,2,0.39,8.06,socrata,direct_live_endpoint,—,#4A6FA5
 59,Tampa,1,0.24,6.45,arcgis,direct_live_endpoint,—,#4A6FA5
 60,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-61,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-62,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+61,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+62,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 63,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
