@@ -48,8 +48,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 47,Seattle,11,1.4,25.81,socrata,direct_live_endpoint,—,#4A6FA5
 48,Fort Worth,14,1.36,24.19,arcgis,direct_live_endpoint,—,#4A6FA5
 49,Durham,4,1.31,22.58,arcgis,direct_live_endpoint,—,#4A6FA5
-50,Riverside,4,1.24,20.97,arcgis,direct_live_endpoint,—,#4A6FA5
-51,New York City,106,1.23,19.35,pdf,direct_live_endpoint,—,#4A6FA5
+50,New York City,111,1.29,20.97,pdf,direct_live_endpoint,—,#4A6FA5
+51,Riverside,4,1.24,19.35,arcgis,direct_live_endpoint,—,#4A6FA5
 52,Omaha,5,1.02,17.74,arcgis,direct_live_endpoint,—,#4A6FA5
 53,Raleigh,5,0.99,16.13,arcgis,direct_live_endpoint,—,#4A6FA5
 54,Newark,3,0.93,14.52,tableau_csv,direct_live_endpoint,—,#4A6FA5
