@@ -16,8 +16,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 15,Las Vegas,40,5.88,77.42,arcgis,direct_live_endpoint,—,#90CACC
 16,Washington DC,40,5.77,75.81,arcgis,direct_live_endpoint,—,#90CACC
 17,Little Rock,10,4.89,74.19,scraped_event_count,scraped,SCRAPED,#90CACC
-18,Indianapolis,44,4.88,70.97,arcgis,direct_live_endpoint,—,#90CACC
-19,Tallahassee,10,4.88,70.97,arcgis,direct_live_endpoint,CAD_TOPS,#90CACC
+18,Tallahassee,10,4.88,70.97,arcgis,direct_live_endpoint,CAD_TOPS,#90CACC
+19,Indianapolis,44,4.88,70.97,arcgis,direct_live_endpoint,—,#90CACC
 20,Toledo,12,4.56,69.35,html_count,direct_live_endpoint,—,#78B0BF
 21,Minneapolis,19,4.42,67.74,arcgis,direct_live_endpoint,—,#78B0BF
 22,Pittsburgh,13,4.23,66.13,ckan_sql,direct_live_endpoint,—,#78B0BF
