@@ -9,15 +9,15 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 8,Kansas City,41,7.87,88.71,socrata,direct_live_endpoint,—,#A8D8D1
 9,Baltimore,42,7.37,87.1,arcgis,direct_live_endpoint,—,#A8D8D1
 10,Atlanta,37,6.99,85.48,arcgis,direct_live_endpoint,—,#A8D8D1
-11,Chicago,173,6.33,83.87,socrata,direct_live_endpoint,—,#A8D8D1
+11,Chicago,174,6.37,83.87,socrata,direct_live_endpoint,—,#A8D8D1
 12,Louisville,39,6.08,82.26,arcgis,direct_live_endpoint,—,#A8D8D1
 13,Norfolk,14,6.06,80.65,socrata,direct_live_endpoint,—,#A8D8D1
 14,Washington DC,42,6.05,79.03,arcgis,direct_live_endpoint,—,#90CACC
 15,Cincinnati,19,6.04,77.42,socrata,direct_live_endpoint,—,#90CACC
 16,Las Vegas,40,5.88,75.81,arcgis,direct_live_endpoint,—,#90CACC
 17,Little Rock,10,4.89,74.19,scraped_event_count,scraped,SCRAPED,#90CACC
-18,Indianapolis,44,4.88,70.97,arcgis,direct_live_endpoint,—,#90CACC
-19,Tallahassee,10,4.88,70.97,arcgis,direct_live_endpoint,CAD_TOPS,#90CACC
+18,Tallahassee,10,4.88,70.97,arcgis,direct_live_endpoint,CAD_TOPS,#90CACC
+19,Indianapolis,44,4.88,70.97,arcgis,direct_live_endpoint,—,#90CACC
 20,Toledo,12,4.56,69.35,html_count,direct_live_endpoint,—,#78B0BF
 21,Minneapolis,19,4.42,67.74,arcgis,direct_live_endpoint,—,#78B0BF
 22,Pittsburgh,13,4.23,66.13,ckan_sql,direct_live_endpoint,—,#78B0BF
@@ -34,8 +34,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 33,Orlando,9,2.7,48.39,arcgis,direct_live_endpoint,—,#6191B2
 34,Nashville,19,2.63,46.77,arcgis,direct_live_endpoint,—,#6191B2
 35,Sacramento,13,2.42,45.16,arcgis,direct_live_endpoint,—,#6191B2
-36,Honolulu,8,2.34,43.55,socrata,direct_live_endpoint,—,#6191B2
-37,Dallas,31,2.33,41.94,socrata,direct_live_endpoint,—,#6191B2
+36,Dallas,32,2.41,43.55,socrata,direct_live_endpoint,—,#6191B2
+37,Honolulu,8,2.34,41.94,socrata,direct_live_endpoint,—,#6191B2
 38,San Antonio,36,2.32,40.32,ckan_sql,direct_live_endpoint,—,#6191B2
 39,Denver,17,2.3,38.71,arcgis,direct_live_endpoint,—,#4A6FA5
 40,Spokane,5,2.17,37.1,arcgis,direct_live_endpoint,—,#4A6FA5
