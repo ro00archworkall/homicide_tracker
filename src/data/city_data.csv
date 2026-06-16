@@ -15,10 +15,10 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 14,Norfolk,14,6.06,79.03,socrata,direct_live_endpoint,—,#90CACC
 15,Washington DC,42,6.05,77.42,arcgis,direct_live_endpoint,—,#90CACC
 16,Las Vegas,40,5.88,75.81,arcgis,direct_live_endpoint,—,#90CACC
-17,Toledo,13,4.94,74.19,html_count,direct_live_endpoint,—,#90CACC
-18,Little Rock,10,4.89,72.58,scraped_event_count,scraped,SCRAPED,#90CACC
-19,Tallahassee,10,4.88,69.35,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
-20,Indianapolis,44,4.88,69.35,arcgis,direct_live_endpoint,—,#78B0BF
+17,Indianapolis,45,4.99,74.19,arcgis,direct_live_endpoint,—,#90CACC
+18,Toledo,13,4.94,72.58,html_count,direct_live_endpoint,—,#90CACC
+19,Little Rock,10,4.89,70.97,scraped_event_count,scraped,SCRAPED,#90CACC
+20,Tallahassee,10,4.88,69.35,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
 21,Minneapolis,19,4.42,67.74,arcgis,direct_live_endpoint,—,#78B0BF
 22,Pittsburgh,13,4.23,66.13,ckan_sql,direct_live_endpoint,—,#78B0BF
 23,Philadelphia,66,4.19,64.52,carto,direct_live_endpoint,—,#78B0BF
@@ -59,8 +59,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 58,Mesa,2,0.39,8.06,socrata,direct_live_endpoint,—,#4A6FA5
 59,Tampa,1,0.24,6.45,arcgis,direct_live_endpoint,—,#4A6FA5
 60,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-61,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-62,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+61,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+62,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 63,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
