@@ -45,23 +45,23 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 44,Riverside,5,1.55,30.65,arcgis,direct_live_endpoint,—,#4A6FA5
 45,San Diego,21,1.49,29.03,incident_csv,direct_live_endpoint,—,#4A6FA5
 46,Rochester,3,1.46,27.42,arcgis,direct_live_endpoint,—,#4A6FA5
-47,Seattle,11,1.4,25.81,socrata,direct_live_endpoint,—,#4A6FA5
-48,Fort Worth,14,1.36,24.19,arcgis,direct_live_endpoint,—,#4A6FA5
-49,Durham,4,1.31,22.58,arcgis,direct_live_endpoint,—,#4A6FA5
-50,New York City,111,1.29,20.97,pdf,direct_live_endpoint,—,#4A6FA5
-51,Omaha,6,1.23,19.35,arcgis,direct_live_endpoint,—,#4A6FA5
+47,Omaha,7,1.43,25.81,arcgis,direct_live_endpoint,—,#4A6FA5
+48,Seattle,11,1.4,24.19,socrata,direct_live_endpoint,—,#4A6FA5
+49,Fort Worth,14,1.36,22.58,arcgis,direct_live_endpoint,—,#4A6FA5
+50,Durham,4,1.31,20.97,arcgis,direct_live_endpoint,—,#4A6FA5
+51,New York City,111,1.29,19.35,pdf,direct_live_endpoint,—,#4A6FA5
 52,Raleigh,5,0.99,17.74,arcgis,direct_live_endpoint,—,#4A6FA5
 53,Newark,3,0.93,16.13,tableau_csv,direct_live_endpoint,—,#4A6FA5
 54,St. Paul,2,0.65,14.52,arcgis,direct_live_endpoint,—,#4A6FA5
 55,Portland,4,0.63,12.9,incident_csv,live_delayed_modeled,as_of 2026-03-27,#4A6FA5
-56,Boston,3,0.45,11.29,ckan_sql,direct_live_endpoint,—,#4A6FA5
+56,Boston,4,0.59,11.29,ckan_sql,direct_live_endpoint,—,#4A6FA5
 57,Mesa,2,0.39,9.68,socrata,direct_live_endpoint,—,#4A6FA5
 58,Tampa,1,0.24,8.06,arcgis,direct_live_endpoint,—,#4A6FA5
 59,Atlanta,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 60,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 61,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-62,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
-63,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+62,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+63,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Oklahoma City,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
