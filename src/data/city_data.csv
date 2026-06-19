@@ -34,8 +34,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 33,Salt Lake City,6,2.75,48.39,arcgis,direct_live_endpoint,—,#6191B2
 34,Orlando,9,2.7,46.77,arcgis,direct_live_endpoint,—,#6191B2
 35,Sacramento,14,2.61,45.16,arcgis,direct_live_endpoint,—,#6191B2
-36,Honolulu,8,2.34,43.55,socrata,direct_live_endpoint,—,#6191B2
-37,Dallas,31,2.33,41.94,socrata,direct_live_endpoint,—,#6191B2
+36,Dallas,33,2.48,43.55,socrata,direct_live_endpoint,—,#6191B2
+37,Honolulu,8,2.34,41.94,socrata,direct_live_endpoint,—,#6191B2
 38,San Antonio,36,2.32,40.32,ckan_sql,direct_live_endpoint,—,#6191B2
 39,Denver,17,2.3,38.71,arcgis,direct_live_endpoint,—,#4A6FA5
 40,Spokane,5,2.17,37.1,arcgis,direct_live_endpoint,—,#4A6FA5
