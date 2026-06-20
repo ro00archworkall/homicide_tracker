@@ -51,7 +51,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 50,Fort Worth,14,1.36,20.97,arcgis,direct_live_endpoint,—,#4A6FA5
 51,Durham,4,1.31,19.35,arcgis,direct_live_endpoint,—,#4A6FA5
 52,New York City,111,1.29,17.74,pdf,direct_live_endpoint,—,#4A6FA5
-53,Raleigh,5,0.99,16.13,arcgis,direct_live_endpoint,—,#4A6FA5
+53,Raleigh,6,1.19,16.13,arcgis,direct_live_endpoint,—,#4A6FA5
 54,Newark,3,0.93,14.52,tableau_csv,direct_live_endpoint,—,#4A6FA5
 55,St. Paul,2,0.65,12.9,arcgis,direct_live_endpoint,—,#4A6FA5
 56,Portland,4,0.63,11.29,incident_csv,live_delayed_modeled,as_of 2026-03-27,#4A6FA5
