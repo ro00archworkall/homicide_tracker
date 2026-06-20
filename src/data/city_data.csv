@@ -19,13 +19,13 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 18,Toledo,13,4.94,72.58,html_count,direct_live_endpoint,—,#90CACC
 19,Little Rock,10,4.89,70.97,scraped_event_count,scraped,SCRAPED,#90CACC
 20,Tallahassee,10,4.88,69.35,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
-21,Colorado Springs,22,4.45,67.74,socrata,direct_live_endpoint,—,#78B0BF
-22,Minneapolis,19,4.42,66.13,arcgis,direct_live_endpoint,—,#78B0BF
-23,Philadelphia,67,4.26,64.52,carto,direct_live_endpoint,—,#78B0BF
-24,Pittsburgh,13,4.23,62.9,ckan_sql,direct_live_endpoint,—,#78B0BF
-25,Albuquerque,23,4.13,61.29,html_regex,direct_live_endpoint,—,#78B0BF
-26,Richmond,9,3.79,59.68,html_count,direct_live_endpoint,—,#6191B2
-27,Charlotte,36,3.73,58.06,arcgis,direct_live_endpoint,—,#6191B2
+21,Albuquerque,25,4.49,67.74,html_regex,direct_live_endpoint,—,#78B0BF
+22,Colorado Springs,22,4.45,66.13,socrata,direct_live_endpoint,—,#78B0BF
+23,Minneapolis,19,4.42,64.52,arcgis,direct_live_endpoint,—,#78B0BF
+24,Philadelphia,67,4.26,62.9,carto,direct_live_endpoint,—,#78B0BF
+25,Pittsburgh,13,4.23,61.29,ckan_sql,direct_live_endpoint,—,#78B0BF
+26,Charlotte,37,3.84,59.68,arcgis,direct_live_endpoint,—,#6191B2
+27,Richmond,9,3.79,58.06,html_count,direct_live_endpoint,—,#6191B2
 28,Buffalo,10,3.64,56.45,socrata,direct_live_endpoint,—,#6191B2
 29,Virginia Beach,16,3.53,54.84,arcgis,direct_live_endpoint,—,#6191B2
 30,Oakland,15,3.4,53.23,socrata,direct_live_endpoint,—,#6191B2
