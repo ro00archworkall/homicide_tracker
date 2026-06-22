@@ -24,7 +24,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 23,Minneapolis,19,4.42,64.52,arcgis,direct_live_endpoint,—,#78B0BF
 24,Philadelphia,67,4.26,62.9,carto,direct_live_endpoint,—,#78B0BF
 25,Pittsburgh,13,4.23,61.29,ckan_sql,direct_live_endpoint,—,#78B0BF
-26,Charlotte,37,3.84,59.68,arcgis,direct_live_endpoint,—,#6191B2
+26,Charlotte,38,3.94,59.68,arcgis,direct_live_endpoint,—,#6191B2
 27,Richmond,9,3.79,58.06,html_count,direct_live_endpoint,—,#6191B2
 28,Buffalo,10,3.64,56.45,socrata,direct_live_endpoint,—,#6191B2
 29,Virginia Beach,16,3.53,54.84,arcgis,direct_live_endpoint,—,#6191B2
