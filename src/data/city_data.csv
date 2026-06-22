@@ -36,11 +36,11 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 35,Orlando,9,2.7,45.16,arcgis,direct_live_endpoint,—,#6191B2
 36,Sacramento,14,2.61,43.55,arcgis,direct_live_endpoint,—,#6191B2
 37,Dallas,32,2.41,41.94,socrata,direct_live_endpoint,—,#6191B2
-38,Honolulu,8,2.34,40.32,socrata,direct_live_endpoint,—,#6191B2
-39,San Antonio,36,2.32,38.71,ckan_sql,direct_live_endpoint,—,#4A6FA5
-40,Denver,17,2.3,37.1,arcgis,direct_live_endpoint,—,#4A6FA5
-41,Spokane,5,2.17,35.48,arcgis,direct_live_endpoint,—,#4A6FA5
-42,Austin,21,2.09,33.87,socrata,direct_live_endpoint,—,#4A6FA5
+38,Austin,24,2.39,40.32,socrata,direct_live_endpoint,—,#6191B2
+39,Honolulu,8,2.34,38.71,socrata,direct_live_endpoint,—,#4A6FA5
+40,San Antonio,36,2.32,37.1,ckan_sql,direct_live_endpoint,—,#4A6FA5
+41,Denver,17,2.3,35.48,arcgis,direct_live_endpoint,—,#4A6FA5
+42,Spokane,5,2.17,33.87,arcgis,direct_live_endpoint,—,#4A6FA5
 43,Los Angeles,80,2.07,32.26,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-05-09,#4A6FA5
 44,Jacksonville,21,2.06,30.65,arcgis,direct_live_endpoint,—,#4A6FA5
 45,Fort Worth,17,1.65,29.03,arcgis,direct_live_endpoint,—,#4A6FA5
