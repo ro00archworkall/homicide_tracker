@@ -15,7 +15,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 14,Louisville,42,6.54,79.03,arcgis,direct_live_endpoint,—,#90CACC
 15,Norfolk,15,6.49,77.42,socrata,direct_live_endpoint,—,#90CACC
 16,Las Vegas,43,6.33,75.81,arcgis,direct_live_endpoint,—,#90CACC
-17,Indianapolis,47,5.22,74.19,arcgis,direct_live_endpoint,—,#90CACC
+17,Indianapolis,48,5.33,74.19,arcgis,direct_live_endpoint,—,#90CACC
 18,Toledo,13,4.94,72.58,html_count,direct_live_endpoint,—,#90CACC
 19,Little Rock,10,4.89,70.97,scraped_event_count,scraped,SCRAPED,#90CACC
 20,Tallahassee,10,4.88,69.35,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
