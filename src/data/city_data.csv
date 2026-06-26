@@ -5,7 +5,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 4,Kansas City,85,16.31,95.16,socrata,direct_live_endpoint,—,#C0E4D8
 5,Baton Rouge,25,11.22,93.55,socrata,direct_live_endpoint,—,#C0E4D8
 6,Birmingham,22,11.19,91.94,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
-7,Detroit,60,9.24,90.32,arcgis,direct_live_endpoint,—,#C0E4D8
+7,Detroit,61,9.4,90.32,arcgis,direct_live_endpoint,—,#C0E4D8
 8,New Orleans,33,9.11,88.71,socrata,direct_live_endpoint,—,#A8D8D1
 9,Baltimore,47,8.25,87.1,arcgis,direct_live_endpoint,—,#A8D8D1
 10,Atlanta,40,7.56,85.48,arcgis,direct_live_endpoint,—,#A8D8D1
