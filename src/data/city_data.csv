@@ -16,13 +16,13 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 15,Las Vegas,45,6.62,77.42,arcgis,direct_live_endpoint,—,#90CACC
 16,Louisville,42,6.54,75.81,arcgis,direct_live_endpoint,—,#90CACC
 17,Indianapolis,48,5.33,74.19,arcgis,direct_live_endpoint,—,#90CACC
-18,Toledo,13,4.94,72.58,html_count,direct_live_endpoint,—,#90CACC
-19,Little Rock,10,4.89,70.97,scraped_event_count,scraped,SCRAPED,#90CACC
-20,Minneapolis,21,4.88,67.74,arcgis,direct_live_endpoint,—,#78B0BF
-21,Tallahassee,10,4.88,67.74,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
-22,Albuquerque,26,4.67,66.13,html_regex,direct_live_endpoint,—,#78B0BF
-23,Colorado Springs,22,4.45,64.52,socrata,direct_live_endpoint,—,#78B0BF
-24,Philadelphia,67,4.26,62.9,carto,direct_live_endpoint,—,#78B0BF
+18,Philadelphia,78,4.95,72.58,carto,direct_live_endpoint,—,#90CACC
+19,Toledo,13,4.94,70.97,html_count,direct_live_endpoint,—,#90CACC
+20,Little Rock,10,4.89,69.35,scraped_event_count,scraped,SCRAPED,#78B0BF
+21,Minneapolis,21,4.88,66.13,arcgis,direct_live_endpoint,—,#78B0BF
+22,Tallahassee,10,4.88,66.13,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
+23,Albuquerque,26,4.67,64.52,html_regex,direct_live_endpoint,—,#78B0BF
+24,Colorado Springs,22,4.45,62.9,socrata,direct_live_endpoint,—,#78B0BF
 25,Pittsburgh,13,4.23,61.29,ckan_sql,direct_live_endpoint,—,#78B0BF
 26,Charlotte,38,3.94,59.68,arcgis,direct_live_endpoint,—,#6191B2
 27,Richmond,9,3.79,58.06,html_count,direct_live_endpoint,—,#6191B2
