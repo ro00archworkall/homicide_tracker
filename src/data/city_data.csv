@@ -12,9 +12,9 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 11,Atlanta,40,7.56,83.87,arcgis,direct_live_endpoint,—,#A8D8D1
 12,Chicago,197,7.21,82.26,socrata,direct_live_endpoint,—,#A8D8D1
 13,Cincinnati,22,7.0,80.65,socrata,direct_live_endpoint,—,#A8D8D1
-14,Washington DC,46,6.63,79.03,arcgis,direct_live_endpoint,—,#90CACC
-15,Las Vegas,45,6.62,77.42,arcgis,direct_live_endpoint,—,#90CACC
-16,Louisville,42,6.54,75.81,arcgis,direct_live_endpoint,—,#90CACC
+14,Louisville,44,6.85,79.03,arcgis,direct_live_endpoint,—,#90CACC
+15,Washington DC,46,6.63,77.42,arcgis,direct_live_endpoint,—,#90CACC
+16,Las Vegas,45,6.62,75.81,arcgis,direct_live_endpoint,—,#90CACC
 17,Indianapolis,48,5.33,74.19,arcgis,direct_live_endpoint,—,#90CACC
 18,Toledo,14,5.31,72.58,html_count,direct_live_endpoint,—,#90CACC
 19,Minneapolis,22,5.11,70.97,arcgis,direct_live_endpoint,—,#90CACC
