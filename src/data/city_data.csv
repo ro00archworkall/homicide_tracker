@@ -21,7 +21,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 20,Philadelphia,78,4.95,69.35,carto,direct_live_endpoint,—,#78B0BF
 21,Little Rock,10,4.89,67.74,scraped_event_count,scraped,SCRAPED,#78B0BF
 22,Tallahassee,10,4.88,66.13,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
-23,Albuquerque,26,4.67,64.52,html_regex,direct_live_endpoint,—,#78B0BF
+23,Albuquerque,27,4.85,64.52,html_regex,direct_live_endpoint,—,#78B0BF
 24,Colorado Springs,23,4.65,62.9,socrata,direct_live_endpoint,—,#78B0BF
 25,Pittsburgh,13,4.23,61.29,ckan_sql,direct_live_endpoint,—,#78B0BF
 26,Virginia Beach,18,3.97,59.68,arcgis,direct_live_endpoint,—,#6191B2
