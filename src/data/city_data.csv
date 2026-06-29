@@ -1,6 +1,6 @@
 rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 1,Memphis,340,55.77,100.0,arcgis,direct_live_endpoint,—,#C0E4D8
-2,St. Louis,59,21.21,98.39,pdf,direct_live_endpoint,—,#C0E4D8
+2,St. Louis,62,22.29,98.39,pdf,direct_live_endpoint,—,#C0E4D8
 3,Cleveland,64,17.6,96.77,arcgis,direct_live_endpoint,—,#C0E4D8
 4,Kansas City,85,16.31,95.16,socrata,direct_live_endpoint,—,#C0E4D8
 5,Baton Rouge,26,11.67,93.55,socrata,direct_live_endpoint,—,#C0E4D8
@@ -15,9 +15,9 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 14,Louisville,44,6.85,79.03,arcgis,direct_live_endpoint,—,#90CACC
 15,Washington DC,46,6.63,77.42,arcgis,direct_live_endpoint,—,#90CACC
 16,Las Vegas,45,6.62,75.81,arcgis,direct_live_endpoint,—,#90CACC
-17,Indianapolis,48,5.33,74.19,arcgis,direct_live_endpoint,—,#90CACC
-18,Toledo,14,5.31,72.58,html_count,direct_live_endpoint,—,#90CACC
-19,Minneapolis,22,5.11,70.97,arcgis,direct_live_endpoint,—,#90CACC
+17,Minneapolis,23,5.34,74.19,arcgis,direct_live_endpoint,—,#90CACC
+18,Indianapolis,48,5.33,72.58,arcgis,direct_live_endpoint,—,#90CACC
+19,Toledo,14,5.31,70.97,html_count,direct_live_endpoint,—,#90CACC
 20,Philadelphia,78,4.95,69.35,carto,direct_live_endpoint,—,#78B0BF
 21,Little Rock,10,4.89,67.74,scraped_event_count,scraped,SCRAPED,#78B0BF
 22,Tallahassee,10,4.88,66.13,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
