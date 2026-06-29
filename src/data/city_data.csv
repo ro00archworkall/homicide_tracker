@@ -42,7 +42,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 41,Honolulu,8,2.34,35.48,socrata,direct_live_endpoint,—,#4A6FA5
 42,San Antonio,36,2.32,33.87,ckan_sql,direct_live_endpoint,—,#4A6FA5
 43,Spokane,5,2.17,32.26,arcgis,direct_live_endpoint,—,#4A6FA5
-44,Los Angeles,82,2.12,30.65,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-06-08,#4A6FA5
+44,Los Angeles,83,2.15,30.65,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-06-08,#4A6FA5
 45,Jacksonville,21,2.06,29.03,arcgis,direct_live_endpoint,—,#4A6FA5
 46,Fort Worth,19,1.85,27.42,arcgis,direct_live_endpoint,—,#4A6FA5
 47,Omaha,9,1.84,25.81,arcgis,direct_live_endpoint,—,#4A6FA5
