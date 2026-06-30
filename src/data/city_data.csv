@@ -36,10 +36,10 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 35,Salt Lake City,6,2.75,45.16,arcgis,direct_live_endpoint,—,#6191B2
 36,Orlando,9,2.7,43.55,arcgis,direct_live_endpoint,—,#6191B2
 37,Austin,25,2.49,41.94,socrata,direct_live_endpoint,—,#6191B2
-38,Dallas,33,2.48,38.71,socrata,direct_live_endpoint,—,#4A6FA5
-39,Philadelphia,39,2.48,38.71,carto,direct_live_endpoint,—,#4A6FA5
-40,Rochester,5,2.43,35.48,arcgis,direct_live_endpoint,—,#4A6FA5
-41,Denver,18,2.43,35.48,arcgis,direct_live_endpoint,—,#4A6FA5
+38,Philadelphia,39,2.48,38.71,carto,direct_live_endpoint,—,#4A6FA5
+39,Dallas,33,2.48,38.71,socrata,direct_live_endpoint,—,#4A6FA5
+40,Denver,18,2.43,35.48,arcgis,direct_live_endpoint,—,#4A6FA5
+41,Rochester,5,2.43,35.48,arcgis,direct_live_endpoint,—,#4A6FA5
 42,Honolulu,8,2.34,33.87,socrata,direct_live_endpoint,—,#4A6FA5
 43,San Antonio,36,2.32,32.26,ckan_sql,direct_live_endpoint,—,#4A6FA5
 44,Spokane,5,2.17,30.65,arcgis,direct_live_endpoint,—,#4A6FA5
@@ -59,9 +59,9 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 58,St. Paul,2,0.65,8.06,arcgis,direct_live_endpoint,—,#4A6FA5
 59,Mesa,2,0.39,6.45,socrata,direct_live_endpoint,—,#4A6FA5
 60,Tampa,1,0.24,4.84,arcgis,direct_live_endpoint,—,#4A6FA5
-61,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-62,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-63,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+61,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+62,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+63,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Oklahoma City,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
