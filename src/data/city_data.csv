@@ -51,17 +51,17 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 50,Riverside,5,1.55,20.97,arcgis,direct_live_endpoint,—,#4A6FA5
 51,Seattle,11,1.4,19.35,socrata,direct_live_endpoint,—,#4A6FA5
 52,New York City,119,1.39,17.74,pdf,direct_live_endpoint,—,#4A6FA5
-53,Raleigh,6,1.19,16.13,arcgis,direct_live_endpoint,—,#4A6FA5
-54,Portland,7,1.1,14.52,incident_csv,live_delayed_modeled,as_of 2026-05-24,#4A6FA5
-55,Boston,7,1.04,12.9,ckan_sql,direct_live_endpoint,—,#4A6FA5
+53,Boston,8,1.19,14.52,ckan_sql,direct_live_endpoint,—,#4A6FA5
+54,Raleigh,6,1.19,14.52,arcgis,direct_live_endpoint,—,#4A6FA5
+55,Portland,7,1.1,12.9,incident_csv,live_delayed_modeled,as_of 2026-05-24,#4A6FA5
 56,Durham,3,0.98,11.29,arcgis,direct_live_endpoint,—,#4A6FA5
 57,Newark,3,0.93,9.68,tableau_csv,direct_live_endpoint,—,#4A6FA5
 58,St. Paul,2,0.65,8.06,arcgis,direct_live_endpoint,—,#4A6FA5
 59,Mesa,2,0.39,6.45,socrata,direct_live_endpoint,—,#4A6FA5
 60,Tampa,1,0.24,4.84,arcgis,direct_live_endpoint,—,#4A6FA5
 61,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-62,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
-63,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+62,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+63,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Oklahoma City,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
