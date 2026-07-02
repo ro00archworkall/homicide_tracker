@@ -43,7 +43,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 42,Rochester,5,2.43,32.79,arcgis,direct_live_endpoint,—,#4A6FA5
 43,Honolulu,8,2.34,31.15,socrata,direct_live_endpoint,—,#4A6FA5
 44,Los Angeles,84,2.17,29.51,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-06-08,#4A6FA5
-45,Jacksonville,20,1.97,27.87,arcgis,direct_live_endpoint,—,#4A6FA5
+45,Jacksonville,21,2.06,27.87,arcgis,direct_live_endpoint,—,#4A6FA5
 46,Fort Worth,19,1.85,26.23,arcgis,direct_live_endpoint,—,#4A6FA5
 47,Omaha,9,1.84,24.59,arcgis,direct_live_endpoint,—,#4A6FA5
 48,San Diego,23,1.64,22.95,incident_csv,direct_live_endpoint,—,#4A6FA5
