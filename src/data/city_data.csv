@@ -3,8 +3,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 2,St. Louis,63,22.65,98.36,pdf,direct_live_endpoint,—,#C0E4D8
 3,Cleveland,65,17.88,96.72,arcgis,direct_live_endpoint,—,#C0E4D8
 4,Kansas City,85,16.31,95.08,socrata,direct_live_endpoint,—,#C0E4D8
-5,Baton Rouge,28,12.57,93.44,socrata,direct_live_endpoint,—,#C0E4D8
-6,Birmingham,24,12.2,91.8,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
+5,Birmingham,24,12.2,93.44,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
+6,Baton Rouge,27,12.12,91.8,socrata,direct_live_endpoint,—,#C0E4D8
 7,Detroit,63,9.71,90.16,arcgis,direct_live_endpoint,—,#C0E4D8
 8,New Orleans,34,9.39,88.52,socrata,direct_live_endpoint,—,#A8D8D1
 9,Baltimore,49,8.6,86.89,arcgis,direct_live_endpoint,—,#A8D8D1
@@ -14,7 +14,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 13,Las Vegas,50,7.35,80.33,arcgis,direct_live_endpoint,—,#A8D8D1
 14,Cincinnati,22,7.0,78.69,socrata,direct_live_endpoint,—,#90CACC
 15,Louisville,44,6.85,77.05,arcgis,direct_live_endpoint,—,#90CACC
-16,Washington DC,46,6.63,75.41,arcgis,direct_live_endpoint,—,#90CACC
+16,Washington DC,45,6.49,75.41,arcgis,direct_live_endpoint,—,#90CACC
 17,Minneapolis,23,5.34,73.77,arcgis,direct_live_endpoint,—,#90CACC
 18,Indianapolis,48,5.33,72.13,arcgis,direct_live_endpoint,—,#90CACC
 19,Toledo,14,5.31,70.49,html_count,direct_live_endpoint,—,#90CACC
@@ -37,9 +37,9 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 36,San Antonio,44,2.84,42.62,ckan_sql,direct_live_endpoint,—,#6191B2
 37,Salt Lake City,6,2.75,40.98,arcgis,direct_live_endpoint,—,#6191B2
 38,Orlando,9,2.7,39.34,arcgis,direct_live_endpoint,—,#4A6FA5
-39,Austin,25,2.49,37.7,socrata,direct_live_endpoint,—,#4A6FA5
-40,Dallas,33,2.48,36.07,socrata,direct_live_endpoint,—,#4A6FA5
-41,Denver,18,2.43,32.79,arcgis,direct_live_endpoint,—,#4A6FA5
+39,Denver,19,2.57,37.7,arcgis,direct_live_endpoint,—,#4A6FA5
+40,Austin,25,2.49,36.07,socrata,direct_live_endpoint,—,#4A6FA5
+41,Dallas,33,2.48,34.43,socrata,direct_live_endpoint,—,#4A6FA5
 42,Rochester,5,2.43,32.79,arcgis,direct_live_endpoint,—,#4A6FA5
 43,Honolulu,8,2.34,31.15,socrata,direct_live_endpoint,—,#4A6FA5
 44,Los Angeles,84,2.17,29.51,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-06-08,#4A6FA5
