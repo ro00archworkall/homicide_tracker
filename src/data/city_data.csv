@@ -15,12 +15,12 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 14,Cincinnati,22,7.0,78.69,socrata,direct_live_endpoint,—,#90CACC
 15,Louisville,44,6.85,77.05,arcgis,direct_live_endpoint,—,#90CACC
 16,Washington DC,46,6.63,75.41,arcgis,direct_live_endpoint,—,#90CACC
-17,Minneapolis,23,5.34,73.77,arcgis,direct_live_endpoint,—,#90CACC
-18,Indianapolis,48,5.33,72.13,arcgis,direct_live_endpoint,—,#90CACC
-19,Toledo,14,5.31,70.49,html_count,direct_live_endpoint,—,#90CACC
-20,Philadelphia,83,5.27,68.85,carto,direct_live_endpoint,—,#78B0BF
-21,Little Rock,10,4.89,67.21,scraped_event_count,scraped,SCRAPED,#78B0BF
-22,Tallahassee,10,4.88,65.57,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
+17,Tallahassee,11,5.37,73.77,arcgis,direct_live_endpoint,CAD_TOPS,#90CACC
+18,Minneapolis,23,5.34,72.13,arcgis,direct_live_endpoint,—,#90CACC
+19,Indianapolis,48,5.33,70.49,arcgis,direct_live_endpoint,—,#90CACC
+20,Toledo,14,5.31,68.85,html_count,direct_live_endpoint,—,#78B0BF
+21,Philadelphia,83,5.27,67.21,carto,direct_live_endpoint,—,#78B0BF
+22,Little Rock,10,4.89,65.57,scraped_event_count,scraped,SCRAPED,#78B0BF
 23,Albuquerque,27,4.85,63.93,html_regex,direct_live_endpoint,—,#78B0BF
 24,Colorado Springs,23,4.65,62.3,socrata,direct_live_endpoint,—,#78B0BF
 25,Pittsburgh,13,4.23,60.66,ckan_sql,direct_live_endpoint,—,#78B0BF
