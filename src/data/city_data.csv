@@ -10,12 +10,12 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 9,Baltimore,49,8.6,86.89,arcgis,direct_live_endpoint,—,#A8D8D1
 10,Norfolk,19,8.22,85.25,socrata,direct_live_endpoint,—,#A8D8D1
 11,Atlanta,43,8.13,83.61,arcgis,direct_live_endpoint,—,#A8D8D1
-12,Chicago,210,7.69,81.97,socrata,direct_live_endpoint,—,#A8D8D1
-13,Las Vegas,50,7.35,80.33,arcgis,direct_live_endpoint,—,#A8D8D1
-14,Cincinnati,22,7.0,78.69,socrata,direct_live_endpoint,—,#90CACC
-15,Washington DC,48,6.92,77.05,arcgis,direct_live_endpoint,—,#90CACC
-16,Louisville,44,6.85,75.41,arcgis,direct_live_endpoint,—,#90CACC
-17,Richmond,16,6.74,73.77,html_count,direct_live_endpoint,—,#90CACC
+12,Richmond,19,8.01,81.97,html_count,direct_live_endpoint,—,#A8D8D1
+13,Chicago,210,7.69,80.33,socrata,direct_live_endpoint,—,#A8D8D1
+14,Las Vegas,50,7.35,78.69,arcgis,direct_live_endpoint,—,#90CACC
+15,Cincinnati,22,7.0,77.05,socrata,direct_live_endpoint,—,#90CACC
+16,Washington DC,48,6.92,75.41,arcgis,direct_live_endpoint,—,#90CACC
+17,Louisville,44,6.85,73.77,arcgis,direct_live_endpoint,—,#90CACC
 18,Indianapolis,49,5.44,72.13,arcgis,direct_live_endpoint,—,#90CACC
 19,Tallahassee,11,5.37,70.49,arcgis,direct_live_endpoint,CAD_TOPS,#90CACC
 20,Minneapolis,23,5.34,68.85,arcgis,direct_live_endpoint,—,#78B0BF
