@@ -21,10 +21,10 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 20,Minneapolis,23,5.34,68.85,arcgis,direct_live_endpoint,—,#78B0BF
 21,Toledo,14,5.31,67.21,html_count,direct_live_endpoint,—,#78B0BF
 22,Philadelphia,83,5.27,65.57,carto,direct_live_endpoint,—,#78B0BF
-23,Little Rock,10,4.89,63.93,scraped_event_count,scraped,SCRAPED,#78B0BF
-24,Albuquerque,27,4.85,62.3,html_regex,direct_live_endpoint,—,#78B0BF
-25,Colorado Springs,23,4.65,60.66,socrata,direct_live_endpoint,—,#78B0BF
-26,Pittsburgh,13,4.23,59.02,ckan_sql,direct_live_endpoint,—,#6191B2
+23,Pittsburgh,16,5.2,63.93,ckan_sql,direct_live_endpoint,—,#78B0BF
+24,Little Rock,10,4.89,62.3,scraped_event_count,scraped,SCRAPED,#78B0BF
+25,Albuquerque,27,4.85,60.66,html_regex,direct_live_endpoint,—,#78B0BF
+26,Colorado Springs,23,4.65,59.02,socrata,direct_live_endpoint,—,#6191B2
 27,Houston,100,4.17,57.38,incident_csv,live_delayed_modeled,NOT MATCHING | as_of 2026-05-31,#6191B2
 28,Oakland,18,4.08,55.74,socrata,direct_live_endpoint,—,#6191B2
 29,Columbus,38,4.05,54.1,html_count,direct_live_endpoint,—,#6191B2
