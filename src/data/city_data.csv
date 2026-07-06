@@ -15,21 +15,21 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 14,Cincinnati,22,7.0,78.69,socrata,direct_live_endpoint,—,#90CACC
 15,Washington DC,48,6.92,77.05,arcgis,direct_live_endpoint,—,#90CACC
 16,Louisville,44,6.85,75.41,arcgis,direct_live_endpoint,—,#90CACC
-17,Indianapolis,49,5.44,73.77,arcgis,direct_live_endpoint,—,#90CACC
-18,Tallahassee,11,5.37,72.13,arcgis,direct_live_endpoint,CAD_TOPS,#90CACC
-19,Minneapolis,23,5.34,70.49,arcgis,direct_live_endpoint,—,#90CACC
-20,Toledo,14,5.31,68.85,html_count,direct_live_endpoint,—,#78B0BF
-21,Philadelphia,83,5.27,67.21,carto,direct_live_endpoint,—,#78B0BF
-22,Little Rock,10,4.89,65.57,scraped_event_count,scraped,SCRAPED,#78B0BF
-23,Albuquerque,27,4.85,63.93,html_regex,direct_live_endpoint,—,#78B0BF
-24,Colorado Springs,23,4.65,62.3,socrata,direct_live_endpoint,—,#78B0BF
-25,Pittsburgh,13,4.23,60.66,ckan_sql,direct_live_endpoint,—,#78B0BF
-26,Houston,100,4.17,59.02,incident_csv,live_delayed_modeled,NOT MATCHING | as_of 2026-05-31,#6191B2
-27,Oakland,18,4.08,57.38,socrata,direct_live_endpoint,—,#6191B2
-28,Columbus,38,4.05,55.74,html_count,direct_live_endpoint,—,#6191B2
-29,Virginia Beach,18,3.97,54.1,arcgis,direct_live_endpoint,—,#6191B2
-30,Charlotte,38,3.94,52.46,arcgis,direct_live_endpoint,—,#6191B2
-31,Richmond,9,3.79,50.82,html_count,direct_live_endpoint,—,#6191B2
+17,Richmond,16,6.74,73.77,html_count,direct_live_endpoint,—,#90CACC
+18,Indianapolis,49,5.44,72.13,arcgis,direct_live_endpoint,—,#90CACC
+19,Tallahassee,11,5.37,70.49,arcgis,direct_live_endpoint,CAD_TOPS,#90CACC
+20,Minneapolis,23,5.34,68.85,arcgis,direct_live_endpoint,—,#78B0BF
+21,Toledo,14,5.31,67.21,html_count,direct_live_endpoint,—,#78B0BF
+22,Philadelphia,83,5.27,65.57,carto,direct_live_endpoint,—,#78B0BF
+23,Little Rock,10,4.89,63.93,scraped_event_count,scraped,SCRAPED,#78B0BF
+24,Albuquerque,27,4.85,62.3,html_regex,direct_live_endpoint,—,#78B0BF
+25,Colorado Springs,23,4.65,60.66,socrata,direct_live_endpoint,—,#78B0BF
+26,Pittsburgh,13,4.23,59.02,ckan_sql,direct_live_endpoint,—,#6191B2
+27,Houston,100,4.17,57.38,incident_csv,live_delayed_modeled,NOT MATCHING | as_of 2026-05-31,#6191B2
+28,Oakland,18,4.08,55.74,socrata,direct_live_endpoint,—,#6191B2
+29,Columbus,38,4.05,54.1,html_count,direct_live_endpoint,—,#6191B2
+30,Virginia Beach,18,3.97,52.46,arcgis,direct_live_endpoint,—,#6191B2
+31,Charlotte,38,3.94,50.82,arcgis,direct_live_endpoint,—,#6191B2
 32,Buffalo,10,3.64,49.18,socrata,direct_live_endpoint,—,#6191B2
 33,Nashville,23,3.19,47.54,arcgis,direct_live_endpoint,—,#6191B2
 34,Sacramento,16,2.98,45.9,arcgis,direct_live_endpoint,—,#6191B2
@@ -48,8 +48,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 47,Omaha,9,1.84,24.59,arcgis,direct_live_endpoint,—,#4A6FA5
 48,San Diego,23,1.64,22.95,incident_csv,direct_live_endpoint,—,#4A6FA5
 49,Riverside,5,1.55,21.31,arcgis,direct_live_endpoint,—,#4A6FA5
-50,Seattle,11,1.4,19.67,socrata,direct_live_endpoint,—,#4A6FA5
-51,New York City,119,1.39,18.03,pdf,direct_live_endpoint,—,#4A6FA5
+50,New York City,131,1.53,19.67,pdf,direct_live_endpoint,—,#4A6FA5
+51,Seattle,11,1.4,18.03,socrata,direct_live_endpoint,—,#4A6FA5
 52,Raleigh,7,1.38,16.39,arcgis,direct_live_endpoint,—,#4A6FA5
 53,Boston,8,1.19,14.75,ckan_sql,direct_live_endpoint,—,#4A6FA5
 54,Portland,7,1.1,13.11,incident_csv,live_delayed_modeled,as_of 2026-05-24,#4A6FA5
