@@ -12,13 +12,13 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 11,Norfolk,19,8.22,83.61,socrata,direct_live_endpoint,—,#A8D8D1
 12,Richmond,19,8.01,81.97,html_count,direct_live_endpoint,—,#A8D8D1
 13,Chicago,212,7.76,80.33,socrata,direct_live_endpoint,—,#A8D8D1
-14,Las Vegas,50,7.35,78.69,arcgis,direct_live_endpoint,—,#90CACC
+14,Las Vegas,51,7.5,78.69,arcgis,direct_live_endpoint,—,#90CACC
 15,Washington DC,49,7.06,77.05,arcgis,direct_live_endpoint,—,#90CACC
 16,Cincinnati,22,7.0,75.41,socrata,direct_live_endpoint,—,#90CACC
 17,Louisville,44,6.85,73.77,arcgis,direct_live_endpoint,—,#90CACC
-18,Indianapolis,50,5.55,72.13,arcgis,direct_live_endpoint,—,#90CACC
-19,Tallahassee,11,5.37,70.49,arcgis,direct_live_endpoint,CAD_TOPS,#90CACC
-20,Minneapolis,23,5.34,68.85,arcgis,direct_live_endpoint,—,#78B0BF
+18,Minneapolis,24,5.58,72.13,arcgis,direct_live_endpoint,—,#90CACC
+19,Indianapolis,50,5.55,70.49,arcgis,direct_live_endpoint,—,#90CACC
+20,Tallahassee,11,5.37,68.85,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
 21,Toledo,14,5.31,67.21,html_count,direct_live_endpoint,—,#78B0BF
 22,Philadelphia,83,5.27,65.57,carto,direct_live_endpoint,—,#78B0BF
 23,Pittsburgh,16,5.2,63.93,ckan_sql,direct_live_endpoint,—,#78B0BF
