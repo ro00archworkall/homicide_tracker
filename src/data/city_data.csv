@@ -7,7 +7,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 6,Birmingham,25,12.71,91.8,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
 7,Detroit,66,10.17,90.16,arcgis,direct_live_endpoint,—,#C0E4D8
 8,New Orleans,34,9.39,88.52,socrata,direct_live_endpoint,—,#A8D8D1
-9,Baltimore,49,8.6,86.89,arcgis,direct_live_endpoint,—,#A8D8D1
+9,Baltimore,51,8.95,86.89,arcgis,direct_live_endpoint,—,#A8D8D1
 10,Atlanta,45,8.5,85.25,arcgis,direct_live_endpoint,—,#A8D8D1
 11,Norfolk,19,8.22,83.61,socrata,direct_live_endpoint,—,#A8D8D1
 12,Richmond,19,8.01,81.97,html_count,direct_live_endpoint,—,#A8D8D1
@@ -42,8 +42,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 41,Rochester,5,2.43,34.43,arcgis,direct_live_endpoint,—,#4A6FA5
 42,Dallas,32,2.41,32.79,socrata,direct_live_endpoint,—,#4A6FA5
 43,Honolulu,8,2.34,31.15,socrata,direct_live_endpoint,—,#4A6FA5
-44,Jacksonville,23,2.26,29.51,arcgis,direct_live_endpoint,—,#4A6FA5
-45,Los Angeles,86,2.22,27.87,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-06-08,#4A6FA5
+44,Los Angeles,89,2.3,29.51,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-06-23,#4A6FA5
+45,Jacksonville,23,2.26,27.87,arcgis,direct_live_endpoint,—,#4A6FA5
 46,Fort Worth,20,1.95,26.23,arcgis,direct_live_endpoint,—,#4A6FA5
 47,Omaha,9,1.84,24.59,arcgis,direct_live_endpoint,—,#4A6FA5
 48,San Diego,23,1.64,22.95,incident_csv,direct_live_endpoint,—,#4A6FA5
@@ -58,8 +58,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 57,St. Paul,2,0.65,8.2,arcgis,direct_live_endpoint,—,#4A6FA5
 58,Mesa,2,0.39,6.56,socrata,direct_live_endpoint,—,#4A6FA5
 59,Tampa,1,0.24,4.92,arcgis,direct_live_endpoint,—,#4A6FA5
-60,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-61,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+60,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+61,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 62,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
