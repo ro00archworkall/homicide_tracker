@@ -40,7 +40,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 39,Salt Lake City,6,2.75,37.7,arcgis,direct_live_endpoint,—,#4A6FA5
 40,Orlando,9,2.7,36.07,arcgis,direct_live_endpoint,—,#4A6FA5
 41,Austin,26,2.59,34.43,socrata,direct_live_endpoint,—,#4A6FA5
-42,Dallas,32,2.41,32.79,socrata,direct_live_endpoint,—,#4A6FA5
+42,Dallas,33,2.48,32.79,socrata,direct_live_endpoint,—,#4A6FA5
 43,Los Angeles,90,2.33,31.15,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-06-23,#4A6FA5
 44,Jacksonville,23,2.26,29.51,arcgis,direct_live_endpoint,—,#4A6FA5
 45,Honolulu,7,2.05,27.87,socrata,direct_live_endpoint,—,#4A6FA5
