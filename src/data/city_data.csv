@@ -16,11 +16,11 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 15,Washington DC,50,7.21,77.05,arcgis,direct_live_endpoint,—,#90CACC
 16,Cincinnati,22,7.0,75.41,socrata,direct_live_endpoint,—,#90CACC
 17,Louisville,44,6.85,73.77,arcgis,direct_live_endpoint,—,#90CACC
-18,Minneapolis,24,5.58,72.13,arcgis,direct_live_endpoint,—,#90CACC
-19,Indianapolis,50,5.55,70.49,arcgis,direct_live_endpoint,—,#90CACC
-20,Tallahassee,11,5.37,68.85,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
-21,Toledo,14,5.31,67.21,html_count,direct_live_endpoint,—,#78B0BF
-22,Philadelphia,83,5.27,65.57,carto,direct_live_endpoint,—,#78B0BF
+18,Philadelphia,89,5.65,72.13,carto,direct_live_endpoint,—,#90CACC
+19,Minneapolis,24,5.58,70.49,arcgis,direct_live_endpoint,—,#90CACC
+20,Indianapolis,50,5.55,68.85,arcgis,direct_live_endpoint,—,#78B0BF
+21,Tallahassee,11,5.37,67.21,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
+22,Toledo,14,5.31,65.57,html_count,direct_live_endpoint,—,#78B0BF
 23,Pittsburgh,16,5.2,63.93,ckan_sql,direct_live_endpoint,—,#78B0BF
 24,Little Rock,10,4.89,62.3,scraped_event_count,scraped,SCRAPED,#78B0BF
 25,Albuquerque,27,4.85,60.66,html_regex,direct_live_endpoint,—,#78B0BF
