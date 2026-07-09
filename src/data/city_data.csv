@@ -18,10 +18,10 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 17,Louisville,44,6.85,72.88,arcgis,direct_live_endpoint,—,#90CACC
 18,Minneapolis,24,5.58,71.19,arcgis,direct_live_endpoint,—,#90CACC
 19,Indianapolis,50,5.55,69.49,arcgis,direct_live_endpoint,—,#78B0BF
-20,Toledo,14,5.31,67.8,html_count,direct_live_endpoint,—,#78B0BF
-21,Philadelphia,83,5.27,66.1,carto,direct_live_endpoint,—,#78B0BF
-22,Pittsburgh,16,5.2,64.41,ckan_sql,direct_live_endpoint,—,#78B0BF
-23,Little Rock,10,4.89,62.71,scraped_event_count,scraped,SCRAPED,#78B0BF
+20,Tallahassee,11,5.37,67.8,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
+21,Toledo,14,5.31,66.1,html_count,direct_live_endpoint,—,#78B0BF
+22,Philadelphia,83,5.27,64.41,carto,direct_live_endpoint,—,#78B0BF
+23,Pittsburgh,16,5.2,62.71,ckan_sql,direct_live_endpoint,—,#78B0BF
 24,Albuquerque,27,4.85,61.02,html_regex,direct_live_endpoint,—,#78B0BF
 25,Colorado Springs,23,4.65,59.32,socrata,direct_live_endpoint,—,#6191B2
 26,Columbus,41,4.37,57.63,html_count,direct_live_endpoint,—,#6191B2
@@ -32,8 +32,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 31,Buffalo,10,3.64,49.15,socrata,direct_live_endpoint,—,#6191B2
 32,Nashville,23,3.19,47.46,arcgis,direct_live_endpoint,—,#6191B2
 33,Sacramento,16,2.98,45.76,arcgis,direct_live_endpoint,—,#6191B2
-34,Rochester,6,2.91,42.37,arcgis,direct_live_endpoint,—,#6191B2
-35,San Francisco,24,2.91,42.37,socrata,direct_live_endpoint,—,#6191B2
+34,San Francisco,24,2.91,42.37,socrata,direct_live_endpoint,—,#6191B2
+35,Rochester,6,2.91,42.37,arcgis,direct_live_endpoint,—,#6191B2
 36,San Antonio,44,2.84,40.68,ckan_sql,direct_live_endpoint,—,#6191B2
 37,Salt Lake City,6,2.75,38.98,arcgis,direct_live_endpoint,—,#4A6FA5
 38,Orlando,9,2.7,37.29,arcgis,direct_live_endpoint,—,#4A6FA5
@@ -117,6 +117,7 @@ N/A,Yonkers,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Des Moines,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Grand Prairie,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Fayetteville,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
+N/A,Little Rock,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Amarillo,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Overland Park,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Knoxville,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
