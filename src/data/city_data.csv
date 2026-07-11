@@ -12,8 +12,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 11,Norfolk,19,8.22,83.61,socrata,direct_live_endpoint,—,#A8D8D1
 12,Chicago,219,8.02,81.97,socrata,direct_live_endpoint,—,#A8D8D1
 13,Richmond,19,8.01,80.33,html_count,direct_live_endpoint,—,#A8D8D1
-14,Washington DC,52,7.5,77.05,arcgis,direct_live_endpoint,—,#90CACC
-15,Las Vegas,51,7.5,77.05,arcgis,direct_live_endpoint,—,#90CACC
+14,Las Vegas,51,7.5,77.05,arcgis,direct_live_endpoint,—,#90CACC
+15,Washington DC,52,7.5,77.05,arcgis,direct_live_endpoint,—,#90CACC
 16,Cincinnati,22,7.0,75.41,socrata,direct_live_endpoint,—,#90CACC
 17,Louisville,44,6.85,73.77,arcgis,direct_live_endpoint,—,#90CACC
 18,Philadelphia,91,5.78,72.13,carto,direct_live_endpoint,—,#90CACC
@@ -35,8 +35,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 34,Sacramento,17,3.17,45.9,arcgis,direct_live_endpoint,—,#6191B2
 35,San Francisco,24,2.91,42.62,socrata,direct_live_endpoint,—,#6191B2
 36,Rochester,6,2.91,42.62,arcgis,direct_live_endpoint,—,#6191B2
-37,Denver,21,2.84,39.34,arcgis,direct_live_endpoint,—,#4A6FA5
-38,San Antonio,44,2.84,39.34,ckan_sql,direct_live_endpoint,—,#4A6FA5
+37,San Antonio,44,2.84,39.34,ckan_sql,direct_live_endpoint,—,#4A6FA5
+38,Denver,21,2.84,39.34,arcgis,direct_live_endpoint,—,#4A6FA5
 39,Salt Lake City,6,2.75,37.7,arcgis,direct_live_endpoint,—,#4A6FA5
 40,Orlando,9,2.7,36.07,arcgis,direct_live_endpoint,—,#4A6FA5
 41,Austin,26,2.59,34.43,socrata,direct_live_endpoint,—,#4A6FA5
@@ -58,9 +58,9 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 57,Durham,2,0.65,8.2,arcgis,direct_live_endpoint,—,#4A6FA5
 58,Mesa,2,0.39,6.56,socrata,direct_live_endpoint,—,#4A6FA5
 59,Tampa,1,0.24,4.92,arcgis,direct_live_endpoint,—,#4A6FA5
-60,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-61,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
-62,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+60,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+61,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+62,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Oklahoma City,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
