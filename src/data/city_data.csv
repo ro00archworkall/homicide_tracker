@@ -49,8 +49,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 48,Riverside,6,1.86,22.95,arcgis,direct_live_endpoint,—,#4A6FA5
 49,San Diego,25,1.78,21.31,incident_csv,direct_live_endpoint,—,#4A6FA5
 50,Boston,11,1.63,19.67,ckan_sql,direct_live_endpoint,—,#4A6FA5
-51,Seattle,12,1.53,16.39,socrata,direct_live_endpoint,—,#4A6FA5
-52,New York City,131,1.53,16.39,pdf,direct_live_endpoint,—,#4A6FA5
+51,New York City,137,1.6,18.03,pdf,direct_live_endpoint,—,#4A6FA5
+52,Seattle,12,1.53,16.39,socrata,direct_live_endpoint,—,#4A6FA5
 53,Raleigh,7,1.38,14.75,arcgis,direct_live_endpoint,—,#4A6FA5
 54,Portland,7,1.1,13.11,incident_csv,live_delayed_modeled,as_of 2026-05-24,#4A6FA5
 55,Newark,3,0.93,11.48,tableau_csv,direct_live_endpoint,—,#4A6FA5
