@@ -22,8 +22,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 21,Minneapolis,24,5.58,67.21,arcgis,direct_live_endpoint,—,#78B0BF
 22,Tallahassee,11,5.37,65.57,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
 23,Pittsburgh,16,5.2,63.93,ckan_sql,direct_live_endpoint,—,#78B0BF
-24,Little Rock,10,4.89,62.3,scraped_event_count,scraped,SCRAPED,#78B0BF
-25,Albuquerque,27,4.85,60.66,html_regex,direct_live_endpoint,—,#78B0BF
+24,Albuquerque,28,5.03,62.3,html_regex,direct_live_endpoint,—,#78B0BF
+25,Little Rock,10,4.89,60.66,scraped_event_count,scraped,SCRAPED,#78B0BF
 26,Columbus,44,4.69,59.02,html_count,direct_live_endpoint,—,#6191B2
 27,Colorado Springs,23,4.65,57.38,socrata,direct_live_endpoint,—,#6191B2
 28,Virginia Beach,20,4.41,55.74,arcgis,direct_live_endpoint,—,#6191B2
