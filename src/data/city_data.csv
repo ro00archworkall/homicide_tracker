@@ -1,8 +1,8 @@
 rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 1,St. Louis,68,24.45,100.0,pdf,direct_live_endpoint,—,#C0E4D8
 2,Kansas City,108,20.72,98.36,socrata,direct_live_endpoint,—,#C0E4D8
-3,Cleveland,68,18.7,96.72,arcgis,direct_live_endpoint,—,#C0E4D8
-4,Baton Rouge,31,13.91,95.08,socrata,direct_live_endpoint,—,#C0E4D8
+3,Cleveland,70,19.25,96.72,arcgis,direct_live_endpoint,—,#C0E4D8
+4,Baton Rouge,32,14.36,95.08,socrata,direct_live_endpoint,—,#C0E4D8
 5,Birmingham,25,12.71,93.44,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
 6,Memphis,76,12.47,91.8,arcgis,direct_live_endpoint,—,#C0E4D8
 7,New Orleans,40,11.05,90.16,socrata,direct_live_endpoint,—,#C0E4D8
