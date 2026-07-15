@@ -24,8 +24,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 23,Pittsburgh,16,5.2,63.93,ckan_sql,direct_live_endpoint,—,#78B0BF
 24,Albuquerque,28,5.03,62.3,html_regex,direct_live_endpoint,—,#78B0BF
 25,Little Rock,10,4.89,60.66,scraped_event_count,scraped,SCRAPED,#78B0BF
-26,Columbus,45,4.8,59.02,html_count,direct_live_endpoint,—,#6191B2
-27,Colorado Springs,23,4.65,57.38,socrata,direct_live_endpoint,—,#6191B2
+26,Colorado Springs,24,4.85,59.02,socrata,direct_live_endpoint,—,#6191B2
+27,Columbus,45,4.8,57.38,html_count,direct_live_endpoint,—,#6191B2
 28,Virginia Beach,20,4.41,55.74,arcgis,direct_live_endpoint,—,#6191B2
 29,Houston,105,4.38,54.1,incident_csv,live_delayed_modeled,NOT MATCHING | as_of 2026-05-31,#6191B2
 30,Charlotte,42,4.35,52.46,arcgis,direct_live_endpoint,—,#6191B2
