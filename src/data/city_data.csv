@@ -55,7 +55,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 54,Raleigh,7,1.38,13.11,arcgis,direct_live_endpoint,—,#4A6FA5
 55,Portland,7,1.1,11.48,incident_csv,live_delayed_modeled,as_of 2026-05-24,#4A6FA5
 56,St. Paul,2,0.65,9.84,arcgis,direct_live_endpoint,—,#4A6FA5
-57,Mesa,2,0.39,8.2,socrata,direct_live_endpoint,—,#4A6FA5
+57,Mesa,3,0.58,8.2,socrata,direct_live_endpoint,—,#4A6FA5
 58,Durham,1,0.33,6.56,arcgis,direct_live_endpoint,—,#4A6FA5
 59,Tampa,1,0.24,4.92,arcgis,direct_live_endpoint,—,#4A6FA5
 60,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
