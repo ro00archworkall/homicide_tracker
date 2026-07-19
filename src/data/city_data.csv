@@ -14,8 +14,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 13,Washington DC,57,8.22,80.33,arcgis,direct_live_endpoint,—,#A8D8D1
 14,Richmond,19,8.01,78.69,html_count,direct_live_endpoint,—,#90CACC
 15,Las Vegas,54,7.94,77.05,arcgis,direct_live_endpoint,—,#90CACC
-16,Cincinnati,22,7.0,75.41,socrata,direct_live_endpoint,—,#90CACC
-17,Louisville,44,6.85,73.77,arcgis,direct_live_endpoint,—,#90CACC
+16,Louisville,45,7.01,75.41,arcgis,direct_live_endpoint,—,#90CACC
+17,Cincinnati,22,7.0,73.77,socrata,direct_live_endpoint,—,#90CACC
 18,Toledo,17,6.45,72.13,html_count,direct_live_endpoint,—,#90CACC
 19,Philadelphia,95,6.03,70.49,carto,direct_live_endpoint,—,#90CACC
 20,Indianapolis,53,5.88,68.85,arcgis,direct_live_endpoint,—,#78B0BF
