@@ -21,11 +21,11 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 20,Indianapolis,55,6.1,68.85,arcgis,direct_live_endpoint,—,#78B0BF
 21,Minneapolis,26,6.04,67.21,arcgis,direct_live_endpoint,—,#78B0BF
 22,Philadelphia,95,6.03,65.57,carto,direct_live_endpoint,—,#78B0BF
-23,Albuquerque,31,5.57,63.93,html_regex,direct_live_endpoint,—,#78B0BF
+23,Albuquerque,32,5.75,63.93,html_regex,direct_live_endpoint,—,#78B0BF
 24,Tallahassee,11,5.37,62.3,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
 25,Pittsburgh,16,5.2,60.66,ckan_sql,direct_live_endpoint,—,#78B0BF
-26,Columbus,46,4.9,59.02,html_count,direct_live_endpoint,—,#6191B2
-27,Colorado Springs,24,4.85,57.38,socrata,direct_live_endpoint,—,#6191B2
+26,Colorado Springs,25,5.05,59.02,socrata,direct_live_endpoint,—,#6191B2
+27,Columbus,46,4.9,57.38,html_count,direct_live_endpoint,—,#6191B2
 28,Houston,109,4.55,55.74,incident_csv,live_delayed_modeled,NOT MATCHING | as_of 2026-05-31,#6191B2
 29,Charlotte,43,4.46,54.1,arcgis,direct_live_endpoint,—,#6191B2
 30,Virginia Beach,20,4.41,52.46,arcgis,direct_live_endpoint,—,#6191B2
@@ -58,8 +58,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 57,St. Paul,2,0.65,8.2,arcgis,direct_live_endpoint,—,#4A6FA5
 58,Durham,1,0.33,6.56,arcgis,direct_live_endpoint,—,#4A6FA5
 59,Tampa,1,0.24,4.92,arcgis,direct_live_endpoint,—,#4A6FA5
-60,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-61,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+60,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+61,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 62,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
