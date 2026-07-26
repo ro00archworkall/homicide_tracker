@@ -11,7 +11,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 10,Norfolk,22,9.52,85.25,socrata,direct_live_endpoint,—,#A8D8D1
 11,Richmond,22,9.27,83.61,html_count,direct_live_endpoint,—,#A8D8D1
 12,Atlanta,49,9.26,81.97,arcgis,direct_live_endpoint,—,#A8D8D1
-13,Chicago,235,8.6,80.33,socrata,direct_live_endpoint,—,#A8D8D1
+13,Chicago,238,8.71,80.33,socrata,direct_live_endpoint,—,#A8D8D1
 14,Washington DC,57,8.22,78.69,arcgis,direct_live_endpoint,—,#90CACC
 15,Las Vegas,55,8.09,77.05,arcgis,direct_live_endpoint,—,#90CACC
 16,Louisville,45,7.01,75.41,arcgis,direct_live_endpoint,—,#90CACC
