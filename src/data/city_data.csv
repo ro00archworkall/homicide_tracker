@@ -34,8 +34,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 33,Buffalo,10,3.64,47.54,socrata,direct_live_endpoint,—,#6191B2
 34,Los Angeles,129,3.33,45.9,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-07-10,#6191B2
 35,Sacramento,17,3.17,44.26,arcgis,direct_live_endpoint,—,#6191B2
-36,San Francisco,24,2.91,40.98,socrata,direct_live_endpoint,—,#6191B2
-37,Rochester,6,2.91,40.98,arcgis,direct_live_endpoint,—,#6191B2
+36,Rochester,6,2.91,40.98,arcgis,direct_live_endpoint,—,#6191B2
+37,San Francisco,24,2.91,40.98,socrata,direct_live_endpoint,—,#6191B2
 38,Austin,29,2.89,39.34,socrata,direct_live_endpoint,—,#4A6FA5
 39,Jacksonville,29,2.85,37.7,arcgis,direct_live_endpoint,—,#4A6FA5
 40,San Antonio,44,2.84,36.07,ckan_sql,direct_live_endpoint,—,#4A6FA5
