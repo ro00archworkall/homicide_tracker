@@ -1,6 +1,6 @@
 rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 1,St. Louis,71,25.53,100.0,pdf,direct_live_endpoint,—,#C0E4D8
-2,Cleveland,78,21.45,98.36,arcgis,direct_live_endpoint,—,#C0E4D8
+2,Cleveland,80,22.0,98.36,arcgis,direct_live_endpoint,—,#C0E4D8
 3,Kansas City,108,20.72,96.72,socrata,direct_live_endpoint,—,#C0E4D8
 4,Baton Rouge,35,15.71,95.08,socrata,direct_live_endpoint,—,#C0E4D8
 5,Memphis,82,13.45,93.44,arcgis,direct_live_endpoint,—,#C0E4D8
@@ -12,7 +12,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 11,Richmond,22,9.27,83.61,html_count,direct_live_endpoint,—,#A8D8D1
 12,Atlanta,49,9.26,81.97,arcgis,direct_live_endpoint,—,#A8D8D1
 13,Chicago,239,8.75,80.33,socrata,direct_live_endpoint,—,#A8D8D1
-14,Washington DC,58,8.36,78.69,arcgis,direct_live_endpoint,—,#90CACC
+14,Washington DC,59,8.51,78.69,arcgis,direct_live_endpoint,—,#90CACC
 15,Las Vegas,55,8.09,77.05,arcgis,direct_live_endpoint,—,#90CACC
 16,Little Rock,15,7.34,75.41,scraped_event_count,scraped,SCRAPED,#90CACC
 17,Louisville,47,7.32,73.77,arcgis,direct_live_endpoint,—,#90CACC
@@ -35,12 +35,12 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 34,Los Angeles,130,3.36,45.9,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-07-10,#6191B2
 35,Sacramento,17,3.17,44.26,arcgis,direct_live_endpoint,—,#6191B2
 36,Austin,30,2.99,42.62,socrata,direct_live_endpoint,—,#6191B2
-37,San Francisco,24,2.91,39.34,socrata,direct_live_endpoint,—,#4A6FA5
-38,Rochester,6,2.91,39.34,arcgis,direct_live_endpoint,—,#4A6FA5
-39,Omaha,14,2.86,37.7,arcgis,direct_live_endpoint,—,#4A6FA5
-40,Jacksonville,29,2.85,36.07,arcgis,direct_live_endpoint,—,#4A6FA5
-41,San Antonio,44,2.84,34.43,ckan_sql,direct_live_endpoint,—,#4A6FA5
-42,Nashville,20,2.77,32.79,arcgis,direct_live_endpoint,—,#4A6FA5
+37,San Francisco,24,2.91,37.7,socrata,direct_live_endpoint,—,#4A6FA5
+38,Nashville,21,2.91,37.7,arcgis,direct_live_endpoint,—,#4A6FA5
+39,Rochester,6,2.91,37.7,arcgis,direct_live_endpoint,—,#4A6FA5
+40,Omaha,14,2.86,36.07,arcgis,direct_live_endpoint,—,#4A6FA5
+41,Jacksonville,29,2.85,34.43,arcgis,direct_live_endpoint,—,#4A6FA5
+42,San Antonio,44,2.84,32.79,ckan_sql,direct_live_endpoint,—,#4A6FA5
 43,Salt Lake City,6,2.75,31.15,arcgis,direct_live_endpoint,—,#4A6FA5
 44,Orlando,9,2.7,29.51,arcgis,direct_live_endpoint,—,#4A6FA5
 45,Dallas,34,2.56,27.87,socrata,direct_live_endpoint,—,#4A6FA5
