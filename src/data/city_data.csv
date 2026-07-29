@@ -26,12 +26,12 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 25,Columbus,49,5.22,60.66,html_count,direct_live_endpoint,—,#78B0BF
 26,Pittsburgh,16,5.2,59.02,ckan_sql,direct_live_endpoint,—,#6191B2
 27,Charlotte,46,4.77,57.38,arcgis,direct_live_endpoint,—,#6191B2
-28,Houston,112,4.67,55.74,incident_csv,live_delayed_modeled,NOT MATCHING | as_of 2026-05-31,#6191B2
+28,Houston,113,4.71,55.74,incident_csv,live_delayed_modeled,NOT MATCHING | as_of 2026-05-31,#6191B2
 29,Virginia Beach,21,4.63,54.1,arcgis,direct_live_endpoint,—,#6191B2
 30,Oakland,20,4.54,52.46,socrata,direct_live_endpoint,—,#6191B2
 31,Denver,28,3.78,50.82,arcgis,direct_live_endpoint,—,#6191B2
 32,Buffalo,10,3.64,49.18,socrata,direct_live_endpoint,—,#6191B2
-33,Los Angeles,130,3.36,47.54,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-07-10,#6191B2
+33,Los Angeles,131,3.39,47.54,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-07-10,#6191B2
 34,Sacramento,17,3.17,45.9,arcgis,direct_live_endpoint,—,#6191B2
 35,Austin,30,2.99,44.26,socrata,direct_live_endpoint,—,#6191B2
 36,Nashville,21,2.91,39.34,arcgis,direct_live_endpoint,—,#4A6FA5
