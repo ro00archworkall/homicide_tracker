@@ -1,5 +1,5 @@
 rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
-1,St. Louis,71,25.53,100.0,pdf,direct_live_endpoint,—,#C0E4D8
+1,St. Louis,73,26.25,100.0,pdf,direct_live_endpoint,—,#C0E4D8
 2,Cleveland,81,22.28,98.36,arcgis,direct_live_endpoint,—,#C0E4D8
 3,Kansas City,108,20.72,96.72,socrata,direct_live_endpoint,—,#C0E4D8
 4,Baton Rouge,35,15.71,95.08,socrata,direct_live_endpoint,—,#C0E4D8
