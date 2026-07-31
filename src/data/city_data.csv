@@ -1,66 +1,65 @@
 rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 1,St. Louis,71,25.53,100.0,pdf,direct_live_endpoint,—,#C0E4D8
-2,Cleveland,81,22.28,98.36,arcgis,direct_live_endpoint,—,#C0E4D8
-3,Kansas City,108,20.72,96.72,socrata,direct_live_endpoint,—,#C0E4D8
-4,Baton Rouge,35,15.71,95.08,socrata,direct_live_endpoint,—,#C0E4D8
-5,Memphis,82,13.45,93.44,arcgis,direct_live_endpoint,—,#C0E4D8
-6,Birmingham,26,13.22,91.8,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
-7,Detroit,77,11.86,90.16,arcgis,direct_live_endpoint,—,#C0E4D8
-8,New Orleans,41,11.32,88.52,socrata,direct_live_endpoint,—,#A8D8D1
-9,Norfolk,24,10.39,86.89,socrata,direct_live_endpoint,—,#A8D8D1
-10,Baltimore,57,10.0,85.25,arcgis,direct_live_endpoint,—,#A8D8D1
-11,Richmond,22,9.27,83.61,html_count,direct_live_endpoint,—,#A8D8D1
-12,Atlanta,49,9.26,81.97,arcgis,direct_live_endpoint,—,#A8D8D1
-13,Washington DC,61,8.79,78.69,arcgis,direct_live_endpoint,—,#90CACC
-14,Chicago,240,8.79,78.69,socrata,direct_live_endpoint,—,#90CACC
-15,Las Vegas,56,8.24,77.05,arcgis,direct_live_endpoint,—,#90CACC
-16,Little Rock,15,7.34,75.41,scraped_event_count,scraped,SCRAPED,#90CACC
-17,Louisville,47,7.32,73.77,arcgis,direct_live_endpoint,—,#90CACC
-18,Cincinnati,22,7.0,72.13,socrata,direct_live_endpoint,—,#90CACC
-19,Toledo,18,6.83,70.49,html_count,direct_live_endpoint,—,#90CACC
-20,Indianapolis,56,6.21,68.85,arcgis,direct_live_endpoint,—,#78B0BF
-21,Philadelphia,97,6.16,67.21,carto,direct_live_endpoint,—,#78B0BF
-22,Minneapolis,26,6.04,65.57,arcgis,direct_live_endpoint,—,#78B0BF
-23,Albuquerque,32,5.75,63.93,html_regex,direct_live_endpoint,—,#78B0BF
-24,Colorado Springs,28,5.66,62.3,socrata,direct_live_endpoint,—,#78B0BF
-25,Tallahassee,11,5.37,60.66,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
-26,Columbus,49,5.22,59.02,html_count,direct_live_endpoint,—,#6191B2
-27,Pittsburgh,16,5.2,57.38,ckan_sql,direct_live_endpoint,—,#6191B2
-28,Charlotte,47,4.87,55.74,arcgis,direct_live_endpoint,—,#6191B2
-29,Virginia Beach,21,4.63,54.1,arcgis,direct_live_endpoint,—,#6191B2
-30,Oakland,20,4.54,52.46,socrata,direct_live_endpoint,—,#6191B2
-31,Denver,28,3.78,50.82,arcgis,direct_live_endpoint,—,#6191B2
-32,Buffalo,10,3.64,49.18,socrata,direct_live_endpoint,—,#6191B2
-33,Los Angeles,132,3.41,47.54,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-07-10,#6191B2
-34,Sacramento,18,3.36,45.9,arcgis,direct_live_endpoint,—,#6191B2
-35,Austin,30,2.99,44.26,socrata,direct_live_endpoint,—,#6191B2
-36,Nashville,21,2.91,39.34,arcgis,direct_live_endpoint,—,#4A6FA5
-37,Rochester,6,2.91,39.34,arcgis,direct_live_endpoint,—,#4A6FA5
-38,San Francisco,24,2.91,39.34,socrata,direct_live_endpoint,—,#4A6FA5
-39,Jacksonville,29,2.85,37.7,arcgis,direct_live_endpoint,—,#4A6FA5
-40,San Antonio,44,2.84,36.07,ckan_sql,direct_live_endpoint,—,#4A6FA5
-41,Salt Lake City,6,2.75,34.43,arcgis,direct_live_endpoint,—,#4A6FA5
-42,Orlando,9,2.7,32.79,arcgis,direct_live_endpoint,—,#4A6FA5
-43,Omaha,13,2.66,31.15,arcgis,direct_live_endpoint,—,#4A6FA5
-44,Dallas,34,2.56,29.51,socrata,direct_live_endpoint,—,#4A6FA5
-45,Riverside,8,2.48,27.87,arcgis,direct_live_endpoint,—,#4A6FA5
-46,Honolulu,8,2.34,26.23,socrata,direct_live_endpoint,—,#4A6FA5
-47,Portland,13,2.05,24.59,incident_csv,live_delayed_modeled,as_of 2026-06-16,#4A6FA5
-48,Fort Worth,21,2.04,22.95,arcgis,direct_live_endpoint,—,#4A6FA5
-49,San Diego,28,1.99,21.31,incident_csv,direct_live_endpoint,—,#4A6FA5
-50,Boston,13,1.93,19.67,ckan_sql,direct_live_endpoint,—,#4A6FA5
-51,Newark,6,1.85,18.03,tableau_csv,direct_live_endpoint,—,#4A6FA5
-52,New York City,148,1.72,16.39,pdf,direct_live_endpoint,—,#4A6FA5
-53,Seattle,12,1.53,14.75,socrata,direct_live_endpoint,—,#4A6FA5
-54,Raleigh,7,1.38,13.11,arcgis,direct_live_endpoint,—,#4A6FA5
-55,Mesa,5,0.97,11.48,socrata,direct_live_endpoint,—,#4A6FA5
-56,St. Paul,2,0.65,9.84,arcgis,direct_live_endpoint,—,#4A6FA5
-57,Durham,1,0.33,8.2,arcgis,direct_live_endpoint,—,#4A6FA5
-58,Tampa,1,0.24,6.56,arcgis,direct_live_endpoint,—,#4A6FA5
-59,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-60,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-61,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
-62,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
+2,Cleveland,81,22.28,98.33,arcgis,direct_live_endpoint,—,#C0E4D8
+3,Kansas City,108,20.72,96.67,socrata,direct_live_endpoint,—,#C0E4D8
+4,Baton Rouge,35,15.71,95.0,socrata,direct_live_endpoint,—,#C0E4D8
+5,Memphis,82,13.45,93.33,arcgis,direct_live_endpoint,—,#C0E4D8
+6,Birmingham,26,13.22,91.67,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
+7,Detroit,77,11.86,90.0,arcgis,direct_live_endpoint,—,#C0E4D8
+8,New Orleans,41,11.32,88.33,socrata,direct_live_endpoint,—,#A8D8D1
+9,Norfolk,24,10.39,86.67,socrata,direct_live_endpoint,—,#A8D8D1
+10,Baltimore,57,10.0,85.0,arcgis,direct_live_endpoint,—,#A8D8D1
+11,Richmond,22,9.27,83.33,html_count,direct_live_endpoint,—,#A8D8D1
+12,Atlanta,49,9.26,81.67,arcgis,direct_live_endpoint,—,#A8D8D1
+13,Chicago,241,8.82,80.0,socrata,direct_live_endpoint,—,#A8D8D1
+14,Washington DC,61,8.79,78.33,arcgis,direct_live_endpoint,—,#90CACC
+15,Las Vegas,56,8.24,76.67,arcgis,direct_live_endpoint,—,#90CACC
+16,Little Rock,15,7.34,75.0,scraped_event_count,scraped,SCRAPED,#90CACC
+17,Louisville,47,7.32,73.33,arcgis,direct_live_endpoint,—,#90CACC
+18,Cincinnati,22,7.0,71.67,socrata,direct_live_endpoint,—,#90CACC
+19,Toledo,18,6.83,70.0,html_count,direct_live_endpoint,—,#90CACC
+20,Indianapolis,56,6.21,68.33,arcgis,direct_live_endpoint,—,#78B0BF
+21,Philadelphia,97,6.16,66.67,carto,direct_live_endpoint,—,#78B0BF
+22,Minneapolis,26,6.04,65.0,arcgis,direct_live_endpoint,—,#78B0BF
+23,Albuquerque,32,5.75,63.33,html_regex,direct_live_endpoint,—,#78B0BF
+24,Colorado Springs,28,5.66,61.67,socrata,direct_live_endpoint,—,#78B0BF
+25,Tallahassee,11,5.37,60.0,arcgis,direct_live_endpoint,CAD_TOPS,#78B0BF
+26,Columbus,49,5.22,58.33,html_count,direct_live_endpoint,—,#6191B2
+27,Pittsburgh,16,5.2,56.67,ckan_sql,direct_live_endpoint,—,#6191B2
+28,Charlotte,47,4.87,55.0,arcgis,direct_live_endpoint,—,#6191B2
+29,Virginia Beach,21,4.63,53.33,arcgis,direct_live_endpoint,—,#6191B2
+30,Oakland,20,4.54,51.67,socrata,direct_live_endpoint,—,#6191B2
+31,Buffalo,10,3.64,50.0,socrata,direct_live_endpoint,—,#6191B2
+32,Los Angeles,132,3.41,48.33,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-07-10,#6191B2
+33,Sacramento,18,3.36,46.67,arcgis,direct_live_endpoint,—,#6191B2
+34,Austin,30,2.99,45.0,socrata,direct_live_endpoint,—,#6191B2
+35,San Francisco,24,2.91,41.67,socrata,direct_live_endpoint,—,#6191B2
+36,Rochester,6,2.91,41.67,arcgis,direct_live_endpoint,—,#6191B2
+37,Jacksonville,29,2.85,40.0,arcgis,direct_live_endpoint,—,#6191B2
+38,San Antonio,44,2.84,38.33,ckan_sql,direct_live_endpoint,—,#4A6FA5
+39,Salt Lake City,6,2.75,36.67,arcgis,direct_live_endpoint,—,#4A6FA5
+40,Orlando,9,2.7,35.0,arcgis,direct_live_endpoint,—,#4A6FA5
+41,Omaha,13,2.66,33.33,arcgis,direct_live_endpoint,—,#4A6FA5
+42,Dallas,34,2.56,31.67,socrata,direct_live_endpoint,—,#4A6FA5
+43,Riverside,8,2.48,30.0,arcgis,direct_live_endpoint,—,#4A6FA5
+44,Honolulu,8,2.34,28.33,socrata,direct_live_endpoint,—,#4A6FA5
+45,Portland,13,2.05,26.67,incident_csv,live_delayed_modeled,as_of 2026-06-16,#4A6FA5
+46,Fort Worth,21,2.04,25.0,arcgis,direct_live_endpoint,—,#4A6FA5
+47,San Diego,28,1.99,23.33,incident_csv,direct_live_endpoint,—,#4A6FA5
+48,Boston,13,1.93,21.67,ckan_sql,direct_live_endpoint,—,#4A6FA5
+49,Newark,6,1.85,20.0,tableau_csv,direct_live_endpoint,—,#4A6FA5
+50,New York City,148,1.72,18.33,pdf,direct_live_endpoint,—,#4A6FA5
+51,Seattle,12,1.53,16.67,socrata,direct_live_endpoint,—,#4A6FA5
+52,Raleigh,7,1.38,15.0,arcgis,direct_live_endpoint,—,#4A6FA5
+53,Mesa,5,0.97,13.33,socrata,direct_live_endpoint,—,#4A6FA5
+54,St. Paul,2,0.65,11.67,arcgis,direct_live_endpoint,—,#4A6FA5
+55,Durham,1,0.33,10.0,arcgis,direct_live_endpoint,—,#4A6FA5
+56,Tampa,1,0.24,8.33,arcgis,direct_live_endpoint,—,#4A6FA5
+57,Nashville,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+58,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+59,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+60,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+61,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Oklahoma City,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
