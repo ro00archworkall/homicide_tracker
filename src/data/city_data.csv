@@ -29,7 +29,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 28,Charlotte,49,5.08,55.74,arcgis,direct_live_endpoint,—,#6191B2
 29,Virginia Beach,22,4.85,54.1,arcgis,direct_live_endpoint,—,#6191B2
 30,Oakland,21,4.76,52.46,socrata,direct_live_endpoint,—,#6191B2
-31,Los Angeles,165,4.26,50.82,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-07-21,#6191B2
+31,Los Angeles,166,4.29,50.82,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-07-21,#6191B2
 32,Denver,28,3.78,49.18,arcgis,direct_live_endpoint,—,#6191B2
 33,Buffalo,10,3.64,47.54,socrata,direct_live_endpoint,—,#6191B2
 34,Sacramento,18,3.36,45.9,arcgis,direct_live_endpoint,—,#6191B2
