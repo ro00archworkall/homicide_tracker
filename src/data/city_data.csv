@@ -41,8 +41,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 40,Salt Lake City,6,2.75,36.07,arcgis,direct_live_endpoint,—,#4A6FA5
 41,Orlando,9,2.7,34.43,arcgis,direct_live_endpoint,—,#4A6FA5
 42,Omaha,13,2.66,32.79,arcgis,direct_live_endpoint,—,#4A6FA5
-43,Dallas,35,2.63,29.51,socrata,direct_live_endpoint,—,#4A6FA5
-44,Nashville,19,2.63,29.51,arcgis,direct_live_endpoint,—,#4A6FA5
+43,Nashville,19,2.63,29.51,arcgis,direct_live_endpoint,—,#4A6FA5
+44,Dallas,35,2.63,29.51,socrata,direct_live_endpoint,—,#4A6FA5
 45,Riverside,8,2.48,27.87,arcgis,direct_live_endpoint,—,#4A6FA5
 46,Honolulu,8,2.34,26.23,socrata,direct_live_endpoint,—,#4A6FA5
 47,Portland,13,2.05,24.59,incident_csv,live_delayed_modeled,as_of 2026-06-16,#4A6FA5
