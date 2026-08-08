@@ -19,7 +19,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 18,Toledo,19,7.21,72.13,html_count,direct_live_endpoint,—,#90CACC
 19,Cincinnati,22,7.0,70.49,socrata,direct_live_endpoint,—,#90CACC
 20,Indianapolis,59,6.55,68.85,arcgis,direct_live_endpoint,—,#78B0BF
-21,Philadelphia,102,6.48,67.21,carto,direct_live_endpoint,—,#78B0BF
+21,Philadelphia,103,6.54,67.21,carto,direct_live_endpoint,—,#78B0BF
 22,Colorado Springs,31,6.27,65.57,socrata,direct_live_endpoint,—,#78B0BF
 23,Minneapolis,26,6.04,63.93,arcgis,direct_live_endpoint,—,#78B0BF
 24,Albuquerque,33,5.93,62.3,html_regex,direct_live_endpoint,—,#78B0BF
