@@ -5,7 +5,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 4,Baton Rouge,37,16.61,95.08,socrata,direct_live_endpoint,—,#C0E4D8
 5,Memphis,84,13.78,93.44,arcgis,direct_live_endpoint,—,#C0E4D8
 6,Birmingham,26,13.22,91.8,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
-7,Detroit,83,12.79,90.16,arcgis,direct_live_endpoint,—,#C0E4D8
+7,Detroit,84,12.94,90.16,arcgis,direct_live_endpoint,—,#C0E4D8
 8,New Orleans,43,11.87,88.52,socrata,direct_live_endpoint,—,#A8D8D1
 9,Baltimore,61,10.7,86.89,arcgis,direct_live_endpoint,—,#A8D8D1
 10,Norfolk,24,10.39,85.25,socrata,direct_live_endpoint,—,#A8D8D1
@@ -44,9 +44,9 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 43,Omaha,13,2.66,31.15,arcgis,direct_live_endpoint,—,#4A6FA5
 44,Riverside,8,2.48,29.51,arcgis,direct_live_endpoint,—,#4A6FA5
 45,Honolulu,8,2.34,27.87,socrata,direct_live_endpoint,—,#4A6FA5
-46,San Diego,29,2.06,26.23,incident_csv,direct_live_endpoint,—,#4A6FA5
-47,Portland,13,2.05,24.59,incident_csv,live_delayed_modeled,as_of 2026-06-16,#4A6FA5
-48,Fort Worth,21,2.04,22.95,arcgis,direct_live_endpoint,—,#4A6FA5
+46,Fort Worth,22,2.14,26.23,arcgis,direct_live_endpoint,—,#4A6FA5
+47,San Diego,29,2.06,24.59,incident_csv,direct_live_endpoint,—,#4A6FA5
+48,Portland,13,2.05,22.95,incident_csv,live_delayed_modeled,as_of 2026-06-16,#4A6FA5
 49,Boston,13,1.93,21.31,ckan_sql,direct_live_endpoint,—,#4A6FA5
 50,Newark,6,1.85,19.67,tableau_csv,direct_live_endpoint,—,#4A6FA5
 51,New York City,151,1.76,18.03,pdf,direct_live_endpoint,—,#4A6FA5
