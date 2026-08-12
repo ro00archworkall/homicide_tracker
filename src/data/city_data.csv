@@ -4,7 +4,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 3,Kansas City,126,24.17,96.72,socrata,direct_live_endpoint,—,#C0E4D8
 4,Baton Rouge,38,17.06,95.08,socrata,direct_live_endpoint,—,#C0E4D8
 5,Birmingham,28,14.24,93.44,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
-6,Memphis,85,13.94,91.8,arcgis,direct_live_endpoint,—,#C0E4D8
+6,Memphis,86,14.11,91.8,arcgis,direct_live_endpoint,—,#C0E4D8
 7,Detroit,85,13.1,90.16,arcgis,direct_live_endpoint,—,#C0E4D8
 8,New Orleans,43,11.87,88.52,socrata,direct_live_endpoint,—,#A8D8D1
 9,Baltimore,62,10.88,86.89,arcgis,direct_live_endpoint,—,#A8D8D1
@@ -21,8 +21,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 20,Indianapolis,60,6.66,68.85,arcgis,direct_live_endpoint,—,#78B0BF
 21,Philadelphia,103,6.54,67.21,carto,direct_live_endpoint,—,#78B0BF
 22,Albuquerque,35,6.29,65.57,html_regex,direct_live_endpoint,—,#78B0BF
-23,Colorado Springs,31,6.27,62.3,socrata,direct_live_endpoint,—,#78B0BF
-24,Minneapolis,27,6.27,62.3,arcgis,direct_live_endpoint,—,#78B0BF
+23,Minneapolis,27,6.27,62.3,arcgis,direct_live_endpoint,—,#78B0BF
+24,Colorado Springs,31,6.27,62.3,socrata,direct_live_endpoint,—,#78B0BF
 25,Columbus,54,5.75,60.66,html_count,direct_live_endpoint,—,#78B0BF
 26,Tallahassee,11,5.37,59.02,arcgis,direct_live_endpoint,CAD_TOPS,#6191B2
 27,Pittsburgh,16,5.2,57.38,ckan_sql,direct_live_endpoint,—,#6191B2
