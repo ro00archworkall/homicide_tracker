@@ -26,17 +26,17 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 25,Oakland,26,5.9,60.66,socrata,direct_live_endpoint,—,#78B0BF
 26,Columbus,53,5.65,59.02,html_count,direct_live_endpoint,—,#6191B2
 27,Tallahassee,11,5.37,57.38,arcgis,direct_live_endpoint,CAD_TOPS,#6191B2
-28,Virginia Beach,24,5.29,54.1,arcgis,direct_live_endpoint,—,#6191B2
-29,Charlotte,51,5.29,54.1,arcgis,direct_live_endpoint,—,#6191B2
+28,Charlotte,51,5.29,54.1,arcgis,direct_live_endpoint,—,#6191B2
+29,Virginia Beach,24,5.29,54.1,arcgis,direct_live_endpoint,—,#6191B2
 30,Pittsburgh,16,5.2,52.46,ckan_sql,direct_live_endpoint,—,#6191B2
 31,Los Angeles,181,4.68,50.82,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-08-07,#6191B2
 32,Rochester,9,4.37,49.18,arcgis,direct_live_endpoint,—,#6191B2
 33,Denver,31,4.19,47.54,arcgis,direct_live_endpoint,—,#6191B2
 34,Buffalo,10,3.64,45.9,socrata,direct_live_endpoint,—,#6191B2
 35,Sacramento,18,3.36,44.26,arcgis,direct_live_endpoint,—,#6191B2
-36,Jacksonville,33,3.24,42.62,arcgis,direct_live_endpoint,—,#6191B2
-37,Nashville,23,3.19,40.98,arcgis,direct_live_endpoint,—,#6191B2
-38,San Francisco,26,3.15,39.34,socrata,direct_live_endpoint,—,#4A6FA5
+36,San Francisco,27,3.27,42.62,socrata,direct_live_endpoint,—,#6191B2
+37,Jacksonville,33,3.24,40.98,arcgis,direct_live_endpoint,—,#6191B2
+38,Nashville,23,3.19,39.34,arcgis,direct_live_endpoint,—,#4A6FA5
 39,San Antonio,48,3.1,37.7,ckan_sql,direct_live_endpoint,—,#4A6FA5
 40,Austin,30,2.99,36.07,socrata,direct_live_endpoint,—,#4A6FA5
 41,Omaha,14,2.86,34.43,arcgis,direct_live_endpoint,—,#4A6FA5
@@ -59,8 +59,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 58,Tampa,1,0.24,6.56,arcgis,direct_live_endpoint,—,#4A6FA5
 59,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 60,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-61,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
-62,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
+61,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
+62,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Oklahoma City,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
