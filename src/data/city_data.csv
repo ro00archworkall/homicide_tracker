@@ -1,7 +1,7 @@
 rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 1,St. Louis,75,26.96,100.0,pdf,direct_live_endpoint,—,#C0E4D8
-2,Kansas City,129,24.75,96.72,socrata,direct_live_endpoint,—,#C0E4D8
-3,Cleveland,90,24.75,96.72,arcgis,direct_live_endpoint,—,#C0E4D8
+2,Cleveland,90,24.75,96.72,arcgis,direct_live_endpoint,—,#C0E4D8
+3,Kansas City,129,24.75,96.72,socrata,direct_live_endpoint,—,#C0E4D8
 4,Baton Rouge,40,17.95,95.08,socrata,direct_live_endpoint,—,#C0E4D8
 5,Birmingham,29,14.75,93.44,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
 6,Memphis,87,14.27,91.8,arcgis,direct_live_endpoint,—,#C0E4D8
@@ -26,8 +26,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 25,Oakland,26,5.9,60.66,socrata,direct_live_endpoint,—,#78B0BF
 26,Columbus,55,5.86,59.02,html_count,direct_live_endpoint,—,#6191B2
 27,Tallahassee,11,5.37,57.38,arcgis,direct_live_endpoint,CAD_TOPS,#6191B2
-28,Virginia Beach,24,5.29,54.1,arcgis,direct_live_endpoint,—,#6191B2
-29,Charlotte,51,5.29,54.1,arcgis,direct_live_endpoint,—,#6191B2
+28,Charlotte,51,5.29,54.1,arcgis,direct_live_endpoint,—,#6191B2
+29,Virginia Beach,24,5.29,54.1,arcgis,direct_live_endpoint,—,#6191B2
 30,Pittsburgh,16,5.2,52.46,ckan_sql,direct_live_endpoint,—,#6191B2
 31,Los Angeles,181,4.68,50.82,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-08-07,#6191B2
 32,Rochester,9,4.37,49.18,arcgis,direct_live_endpoint,—,#6191B2
