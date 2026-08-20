@@ -1,13 +1,13 @@
 rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 1,St. Louis,75,26.96,100.0,pdf,direct_live_endpoint,—,#C0E4D8
-2,Cleveland,91,25.03,98.36,arcgis,direct_live_endpoint,—,#C0E4D8
-3,Kansas City,129,24.75,96.72,socrata,direct_live_endpoint,—,#C0E4D8
-4,Baton Rouge,40,17.95,95.08,socrata,direct_live_endpoint,—,#C0E4D8
-5,Birmingham,29,14.75,93.44,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
-6,Memphis,87,14.27,91.8,arcgis,direct_live_endpoint,—,#C0E4D8
-7,Detroit,89,13.71,90.16,arcgis,direct_live_endpoint,—,#C0E4D8
-8,New Orleans,44,12.15,88.52,socrata,direct_live_endpoint,—,#A8D8D1
-9,Norfolk,28,12.12,86.89,socrata,direct_live_endpoint,—,#A8D8D1
+2,Kansas City,129,24.75,98.36,socrata,direct_live_endpoint,—,#C0E4D8
+3,Baton Rouge,40,17.95,96.72,socrata,direct_live_endpoint,—,#C0E4D8
+4,Birmingham,29,14.75,95.08,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
+5,Memphis,87,14.27,93.44,arcgis,direct_live_endpoint,—,#C0E4D8
+6,Detroit,89,13.71,91.8,arcgis,direct_live_endpoint,—,#C0E4D8
+7,New Orleans,44,12.15,90.16,socrata,direct_live_endpoint,—,#C0E4D8
+8,Norfolk,28,12.12,88.52,socrata,direct_live_endpoint,—,#A8D8D1
+9,Cleveland,43,11.83,86.89,arcgis,direct_live_endpoint,—,#A8D8D1
 10,Baltimore,64,11.23,85.25,arcgis,direct_live_endpoint,—,#A8D8D1
 11,Washington DC,71,10.24,83.61,arcgis,direct_live_endpoint,—,#A8D8D1
 12,Atlanta,54,10.21,81.97,arcgis,direct_live_endpoint,—,#A8D8D1
@@ -51,8 +51,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 50,Portland,13,2.05,19.67,incident_csv,live_delayed_modeled,as_of 2026-06-16,#4A6FA5
 51,New York City,161,1.88,18.03,pdf,direct_live_endpoint,—,#4A6FA5
 52,Newark,6,1.85,16.39,tableau_csv,direct_live_endpoint,—,#4A6FA5
-53,Seattle,14,1.78,13.11,socrata,direct_live_endpoint,—,#4A6FA5
-54,Raleigh,9,1.78,13.11,arcgis,direct_live_endpoint,—,#4A6FA5
+53,Raleigh,9,1.78,13.11,arcgis,direct_live_endpoint,—,#4A6FA5
+54,Seattle,14,1.78,13.11,socrata,direct_live_endpoint,—,#4A6FA5
 55,Durham,4,1.31,11.48,arcgis,direct_live_endpoint,—,#4A6FA5
 56,Mesa,5,0.97,9.84,socrata,direct_live_endpoint,—,#4A6FA5
 57,St. Paul,2,0.65,8.2,arcgis,direct_live_endpoint,—,#4A6FA5
