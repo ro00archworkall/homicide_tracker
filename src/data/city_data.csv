@@ -18,8 +18,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 17,Toledo,21,7.97,73.77,html_count,direct_live_endpoint,—,#90CACC
 18,Little Rock,15,7.34,72.13,scraped_event_count,scraped,SCRAPED,#90CACC
 19,Cincinnati,22,7.0,70.49,socrata,direct_live_endpoint,—,#90CACC
-20,Albuquerque,38,6.83,68.85,html_regex,direct_live_endpoint,—,#78B0BF
-21,Indianapolis,61,6.77,67.21,arcgis,direct_live_endpoint,—,#78B0BF
+20,Indianapolis,62,6.88,68.85,arcgis,direct_live_endpoint,—,#78B0BF
+21,Albuquerque,38,6.83,67.21,html_regex,direct_live_endpoint,—,#78B0BF
 22,Colorado Springs,33,6.67,65.57,socrata,direct_live_endpoint,—,#78B0BF
 23,Philadelphia,103,6.54,63.93,carto,direct_live_endpoint,—,#78B0BF
 24,Minneapolis,27,6.27,62.3,arcgis,direct_live_endpoint,—,#78B0BF
