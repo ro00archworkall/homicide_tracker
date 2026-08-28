@@ -1,5 +1,5 @@
 rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
-1,St. Louis,77,27.68,100.0,pdf,direct_live_endpoint,—,#C0E4D8
+1,St. Louis,79,28.4,100.0,pdf,direct_live_endpoint,—,#C0E4D8
 2,Kansas City,129,24.75,98.36,socrata,direct_live_endpoint,—,#C0E4D8
 3,Baton Rouge,42,18.85,96.72,socrata,direct_live_endpoint,—,#C0E4D8
 4,Cleveland,67,18.43,95.08,arcgis,direct_live_endpoint,—,#C0E4D8
@@ -38,9 +38,9 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 37,San Francisco,27,3.27,40.98,socrata,direct_live_endpoint,—,#6191B2
 38,Nashville,23,3.19,39.34,arcgis,direct_live_endpoint,—,#4A6FA5
 39,San Antonio,48,3.1,37.7,ckan_sql,direct_live_endpoint,—,#4A6FA5
-40,Dallas,40,3.01,36.07,socrata,direct_live_endpoint,—,#4A6FA5
-41,Austin,30,2.99,34.43,socrata,direct_live_endpoint,—,#4A6FA5
-42,Omaha,14,2.86,32.79,arcgis,direct_live_endpoint,—,#4A6FA5
+40,Omaha,15,3.07,36.07,arcgis,direct_live_endpoint,—,#4A6FA5
+41,Dallas,40,3.01,34.43,socrata,direct_live_endpoint,—,#4A6FA5
+42,Austin,30,2.99,32.79,socrata,direct_live_endpoint,—,#4A6FA5
 43,Salt Lake City,6,2.75,31.15,arcgis,direct_live_endpoint,—,#4A6FA5
 44,Honolulu,9,2.63,29.51,socrata,direct_live_endpoint,—,#4A6FA5
 45,Riverside,8,2.48,27.87,arcgis,direct_live_endpoint,—,#4A6FA5
@@ -49,8 +49,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 48,San Diego,31,2.2,21.31,incident_csv,direct_live_endpoint,—,#4A6FA5
 49,Portland,14,2.2,21.31,incident_csv,live_delayed_modeled,as_of 2026-07-31,#4A6FA5
 50,Boston,14,2.08,19.67,ckan_sql,direct_live_endpoint,—,#4A6FA5
-51,Durham,6,1.96,16.39,arcgis,direct_live_endpoint,—,#4A6FA5
-52,New York City,168,1.96,16.39,pdf,direct_live_endpoint,—,#4A6FA5
+51,New York City,168,1.96,16.39,pdf,direct_live_endpoint,—,#4A6FA5
+52,Durham,6,1.96,16.39,arcgis,direct_live_endpoint,—,#4A6FA5
 53,Newark,6,1.85,14.75,tableau_csv,direct_live_endpoint,—,#4A6FA5
 54,Seattle,14,1.78,11.48,socrata,direct_live_endpoint,—,#4A6FA5
 55,Raleigh,9,1.78,11.48,arcgis,direct_live_endpoint,—,#4A6FA5
