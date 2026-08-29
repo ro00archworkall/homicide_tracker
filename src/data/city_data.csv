@@ -21,9 +21,9 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 20,Cincinnati,22,7.0,68.85,socrata,direct_live_endpoint,—,#78B0BF
 21,Indianapolis,62,6.88,67.21,arcgis,direct_live_endpoint,—,#78B0BF
 22,Colorado Springs,34,6.87,65.57,socrata,direct_live_endpoint,—,#78B0BF
-23,Oakland,29,6.58,63.93,socrata,direct_live_endpoint,—,#78B0BF
-24,Philadelphia,103,6.54,62.3,carto,direct_live_endpoint,—,#78B0BF
-25,Minneapolis,28,6.51,60.66,arcgis,direct_live_endpoint,—,#78B0BF
+23,Minneapolis,29,6.74,63.93,arcgis,direct_live_endpoint,—,#78B0BF
+24,Oakland,29,6.58,62.3,socrata,direct_live_endpoint,—,#78B0BF
+25,Philadelphia,103,6.54,60.66,carto,direct_live_endpoint,—,#78B0BF
 26,Columbus,54,5.75,59.02,html_count,direct_live_endpoint,—,#6191B2
 27,Charlotte,55,5.7,57.38,arcgis,direct_live_endpoint,—,#6191B2
 28,Virginia Beach,25,5.51,55.74,arcgis,direct_live_endpoint,—,#6191B2
