@@ -55,11 +55,11 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 54,Seattle,14,1.78,13.11,socrata,direct_live_endpoint,—,#4A6FA5
 55,Mesa,5,0.97,11.48,socrata,direct_live_endpoint,—,#4A6FA5
 56,St. Paul,2,0.65,9.84,arcgis,direct_live_endpoint,—,#4A6FA5
-57,Tampa,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-58,Atlanta,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+57,Atlanta,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+58,Tampa,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 59,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-60,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-61,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+60,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+61,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 62,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
