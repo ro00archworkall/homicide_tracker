@@ -1,5 +1,5 @@
 rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
-1,St. Louis,79,28.4,100.0,pdf,direct_live_endpoint,—,#C0E4D8
+1,St. Louis,80,28.76,100.0,pdf,direct_live_endpoint,—,#C0E4D8
 2,Kansas City,129,24.75,98.36,socrata,direct_live_endpoint,—,#C0E4D8
 3,Baton Rouge,44,19.75,96.72,socrata,direct_live_endpoint,—,#C0E4D8
 4,Cleveland,67,18.43,95.08,arcgis,direct_live_endpoint,—,#C0E4D8
@@ -19,9 +19,9 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 18,Little Rock,15,7.34,72.13,scraped_event_count,scraped,SCRAPED,#90CACC
 19,Albuquerque,40,7.19,70.49,html_regex,direct_live_endpoint,—,#90CACC
 20,Cincinnati,22,7.0,68.85,socrata,direct_live_endpoint,—,#78B0BF
-21,Indianapolis,62,6.88,67.21,arcgis,direct_live_endpoint,—,#78B0BF
-22,Colorado Springs,34,6.87,65.57,socrata,direct_live_endpoint,—,#78B0BF
-23,Minneapolis,29,6.74,63.93,arcgis,direct_live_endpoint,—,#78B0BF
+21,Minneapolis,30,6.97,67.21,arcgis,direct_live_endpoint,—,#78B0BF
+22,Indianapolis,62,6.88,65.57,arcgis,direct_live_endpoint,—,#78B0BF
+23,Colorado Springs,34,6.87,63.93,socrata,direct_live_endpoint,—,#78B0BF
 24,Oakland,29,6.58,62.3,socrata,direct_live_endpoint,—,#78B0BF
 25,Philadelphia,103,6.54,60.66,carto,direct_live_endpoint,—,#78B0BF
 26,Pittsburgh,20,6.5,59.02,ckan_sql,direct_live_endpoint,—,#6191B2
@@ -38,8 +38,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 37,San Francisco,27,3.27,40.98,socrata,direct_live_endpoint,—,#6191B2
 38,Nashville,23,3.19,39.34,arcgis,direct_live_endpoint,—,#4A6FA5
 39,San Antonio,48,3.1,37.7,ckan_sql,direct_live_endpoint,—,#4A6FA5
-40,Dallas,40,3.01,36.07,socrata,direct_live_endpoint,—,#4A6FA5
-41,Austin,30,2.99,34.43,socrata,direct_live_endpoint,—,#4A6FA5
+40,Austin,31,3.09,36.07,socrata,direct_live_endpoint,—,#4A6FA5
+41,Dallas,40,3.01,34.43,socrata,direct_live_endpoint,—,#4A6FA5
 42,Omaha,14,2.86,32.79,arcgis,direct_live_endpoint,—,#4A6FA5
 43,Salt Lake City,6,2.75,31.15,arcgis,direct_live_endpoint,—,#4A6FA5
 44,Fort Worth,26,2.53,29.51,arcgis,direct_live_endpoint,—,#4A6FA5
@@ -59,8 +59,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 58,Tampa,1,0.24,6.56,arcgis,direct_live_endpoint,—,#4A6FA5
 59,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 60,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-61,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
-62,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+61,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+62,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Oklahoma City,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
