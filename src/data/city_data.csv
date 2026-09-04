@@ -19,9 +19,9 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 18,Louisville,55,8.57,72.13,arcgis,direct_live_endpoint,—,#90CACC
 19,Little Rock,17,8.32,70.49,scraped_event_count,scraped,SCRAPED,#90CACC
 20,Philadelphia,120,7.62,68.85,carto,direct_live_endpoint,—,#78B0BF
-21,Albuquerque,40,7.19,67.21,html_regex,direct_live_endpoint,—,#78B0BF
-22,Indianapolis,63,6.99,65.57,arcgis,direct_live_endpoint,—,#78B0BF
-23,Minneapolis,30,6.97,63.93,arcgis,direct_live_endpoint,—,#78B0BF
+21,Minneapolis,31,7.2,67.21,arcgis,direct_live_endpoint,—,#78B0BF
+22,Albuquerque,40,7.19,65.57,html_regex,direct_live_endpoint,—,#78B0BF
+23,Indianapolis,63,6.99,63.93,arcgis,direct_live_endpoint,—,#78B0BF
 24,Colorado Springs,34,6.87,62.3,socrata,direct_live_endpoint,—,#78B0BF
 25,Oakland,29,6.58,60.66,socrata,direct_live_endpoint,—,#78B0BF
 26,Pittsburgh,20,6.5,59.02,ckan_sql,direct_live_endpoint,—,#6191B2
@@ -32,14 +32,14 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 31,Rochester,11,5.34,50.82,arcgis,direct_live_endpoint,—,#6191B2
 32,Los Angeles,191,4.94,49.18,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-08-21,#6191B2
 33,Denver,34,4.59,47.54,arcgis,direct_live_endpoint,—,#6191B2
-34,Buffalo,10,3.64,44.26,socrata,direct_live_endpoint,—,#6191B2
-35,Jacksonville,37,3.64,44.26,arcgis,direct_live_endpoint,—,#6191B2
+34,Jacksonville,37,3.64,44.26,arcgis,direct_live_endpoint,—,#6191B2
+35,Buffalo,10,3.64,44.26,socrata,direct_live_endpoint,—,#6191B2
 36,Sacramento,19,3.54,42.62,arcgis,direct_live_endpoint,—,#6191B2
 37,San Antonio,54,3.49,40.98,ckan_sql,direct_live_endpoint,—,#6191B2
 38,San Francisco,27,3.27,39.34,socrata,direct_live_endpoint,—,#4A6FA5
 39,Nashville,23,3.19,37.7,arcgis,direct_live_endpoint,—,#4A6FA5
 40,Austin,31,3.09,36.07,socrata,direct_live_endpoint,—,#4A6FA5
-41,Omaha,14,2.86,32.79,arcgis,direct_live_endpoint,—,#4A6FA5
+41,Omaha,15,3.07,34.43,arcgis,direct_live_endpoint,—,#4A6FA5
 42,Dallas,38,2.86,32.79,socrata,direct_live_endpoint,—,#4A6FA5
 43,Salt Lake City,6,2.75,31.15,arcgis,direct_live_endpoint,—,#4A6FA5
 44,Fort Worth,26,2.53,29.51,arcgis,direct_live_endpoint,—,#4A6FA5
