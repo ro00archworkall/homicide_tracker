@@ -39,7 +39,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 38,San Francisco,27,3.27,39.34,socrata,direct_live_endpoint,—,#4A6FA5
 39,Nashville,23,3.19,37.7,arcgis,direct_live_endpoint,—,#4A6FA5
 40,Austin,31,3.09,36.07,socrata,direct_live_endpoint,—,#4A6FA5
-41,Omaha,14,2.86,34.43,arcgis,direct_live_endpoint,—,#4A6FA5
+41,Omaha,15,3.07,34.43,arcgis,direct_live_endpoint,—,#4A6FA5
 42,Salt Lake City,6,2.75,32.79,arcgis,direct_live_endpoint,—,#4A6FA5
 43,Dallas,36,2.71,31.15,socrata,direct_live_endpoint,—,#4A6FA5
 44,Fort Worth,26,2.53,29.51,arcgis,direct_live_endpoint,—,#4A6FA5
