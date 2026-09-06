@@ -32,7 +32,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 31,Rochester,11,5.34,50.82,arcgis,direct_live_endpoint,—,#6191B2
 32,Los Angeles,192,4.96,49.18,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-08-21,#6191B2
 33,Denver,35,4.73,47.54,arcgis,direct_live_endpoint,—,#6191B2
-34,Jacksonville,37,3.64,44.26,arcgis,direct_live_endpoint,—,#6191B2
+34,Jacksonville,38,3.73,45.9,arcgis,direct_live_endpoint,—,#6191B2
 35,Buffalo,10,3.64,44.26,socrata,direct_live_endpoint,—,#6191B2
 36,Sacramento,19,3.54,42.62,arcgis,direct_live_endpoint,—,#6191B2
 37,San Antonio,54,3.49,40.98,ckan_sql,direct_live_endpoint,—,#6191B2
