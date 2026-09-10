@@ -46,8 +46,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 45,Orlando,8,2.4,26.67,arcgis,direct_live_endpoint,—,#4A6FA5
 46,Honolulu,8,2.34,25.0,socrata,direct_live_endpoint,—,#4A6FA5
 47,Boston,15,2.23,23.33,ckan_sql,direct_live_endpoint,—,#4A6FA5
-48,San Diego,31,2.2,20.0,incident_csv,direct_live_endpoint,—,#4A6FA5
-49,Portland,14,2.2,20.0,incident_csv,live_delayed_modeled,as_of 2026-07-31,#4A6FA5
+48,Portland,14,2.2,20.0,incident_csv,live_delayed_modeled,as_of 2026-07-31,#4A6FA5
+49,San Diego,31,2.2,20.0,incident_csv,direct_live_endpoint,—,#4A6FA5
 50,New York City,175,2.04,16.67,pdf,direct_live_endpoint,—,#4A6FA5
 51,Seattle,16,2.04,16.67,socrata,direct_live_endpoint,—,#4A6FA5
 52,Raleigh,10,1.98,15.0,arcgis,direct_live_endpoint,—,#4A6FA5
