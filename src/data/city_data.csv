@@ -15,7 +15,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 14,Washington DC,73,10.52,77.97,arcgis,direct_live_endpoint,—,#90CACC
 15,Richmond,23,9.69,76.27,html_count,direct_live_endpoint,—,#90CACC
 16,Cincinnati,30,9.54,74.58,socrata,direct_live_endpoint,—,#90CACC
-17,Toledo,24,9.11,72.88,html_count,direct_live_endpoint,—,#90CACC
+17,Toledo,25,9.49,72.88,html_count,direct_live_endpoint,—,#90CACC
 18,Louisville,57,8.88,71.19,arcgis,direct_live_endpoint,—,#90CACC
 19,Little Rock,17,8.32,69.49,scraped_event_count,scraped,SCRAPED,#78B0BF
 20,Albuquerque,44,7.91,67.8,html_regex,direct_live_endpoint,—,#78B0BF
@@ -31,7 +31,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 30,Rochester,11,5.34,50.85,arcgis,direct_live_endpoint,—,#6191B2
 31,Los Angeles,197,5.09,49.15,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-08-21,#6191B2
 32,Denver,35,4.73,47.46,arcgis,direct_live_endpoint,—,#6191B2
-33,Jacksonville,38,3.73,45.76,arcgis,direct_live_endpoint,—,#6191B2
+33,Jacksonville,39,3.83,45.76,arcgis,direct_live_endpoint,—,#6191B2
 34,Buffalo,10,3.64,44.07,socrata,direct_live_endpoint,—,#6191B2
 35,Sacramento,19,3.54,42.37,arcgis,direct_live_endpoint,—,#6191B2
 36,San Antonio,54,3.49,40.68,ckan_sql,direct_live_endpoint,—,#6191B2
