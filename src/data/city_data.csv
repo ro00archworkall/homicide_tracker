@@ -36,17 +36,17 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 35,Sacramento,19,3.54,42.37,arcgis,direct_live_endpoint,—,#6191B2
 36,San Antonio,54,3.49,40.68,ckan_sql,direct_live_endpoint,—,#6191B2
 37,Nashville,25,3.47,38.98,arcgis,direct_live_endpoint,—,#4A6FA5
-38,Omaha,14,2.86,37.29,arcgis,direct_live_endpoint,—,#4A6FA5
-39,Dallas,37,2.78,35.59,socrata,direct_live_endpoint,—,#4A6FA5
-40,Salt Lake City,6,2.75,33.9,arcgis,direct_live_endpoint,—,#4A6FA5
-41,Orlando,9,2.7,32.2,arcgis,direct_live_endpoint,—,#4A6FA5
-42,Austin,27,2.69,30.51,socrata,direct_live_endpoint,—,#4A6FA5
-43,Fort Worth,27,2.63,27.12,arcgis,direct_live_endpoint,—,#4A6FA5
-44,Honolulu,9,2.63,27.12,socrata,direct_live_endpoint,—,#4A6FA5
-45,Riverside,8,2.48,25.42,arcgis,direct_live_endpoint,—,#4A6FA5
-46,Boston,16,2.38,23.73,ckan_sql,direct_live_endpoint,—,#4A6FA5
-47,San Diego,33,2.35,22.03,incident_csv,direct_live_endpoint,—,#4A6FA5
-48,Portland,14,2.2,20.34,incident_csv,live_delayed_modeled,as_of 2026-07-31,#4A6FA5
+38,Portland,22,3.46,37.29,incident_csv,live_delayed_modeled,as_of 2026-08-29,#4A6FA5
+39,Omaha,14,2.86,35.59,arcgis,direct_live_endpoint,—,#4A6FA5
+40,Dallas,37,2.78,33.9,socrata,direct_live_endpoint,—,#4A6FA5
+41,Salt Lake City,6,2.75,32.2,arcgis,direct_live_endpoint,—,#4A6FA5
+42,Orlando,9,2.7,30.51,arcgis,direct_live_endpoint,—,#4A6FA5
+43,Austin,27,2.69,28.81,socrata,direct_live_endpoint,—,#4A6FA5
+44,Fort Worth,27,2.63,25.42,arcgis,direct_live_endpoint,—,#4A6FA5
+45,Honolulu,9,2.63,25.42,socrata,direct_live_endpoint,—,#4A6FA5
+46,Riverside,8,2.48,23.73,arcgis,direct_live_endpoint,—,#4A6FA5
+47,Boston,16,2.38,22.03,ckan_sql,direct_live_endpoint,—,#4A6FA5
+48,San Diego,33,2.35,20.34,incident_csv,direct_live_endpoint,—,#4A6FA5
 49,Seattle,17,2.17,18.64,socrata,direct_live_endpoint,—,#4A6FA5
 50,New York City,184,2.14,16.95,pdf,direct_live_endpoint,—,#4A6FA5
 51,Raleigh,10,1.98,15.25,arcgis,direct_live_endpoint,—,#4A6FA5
@@ -57,8 +57,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 56,Boise,1,0.42,6.78,arcgis,direct_live_endpoint,—,#4A6FA5
 57,Tampa,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 58,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-59,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
-60,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
+59,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
+60,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Oklahoma City,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
