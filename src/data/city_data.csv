@@ -32,12 +32,12 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 31,Los Angeles,203,5.25,49.15,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-09-01,#6191B2
 32,Denver,35,4.73,47.46,arcgis,direct_live_endpoint,—,#6191B2
 33,Jacksonville,39,3.83,45.76,arcgis,direct_live_endpoint,—,#6191B2
-34,Omaha,18,3.68,44.07,arcgis,direct_live_endpoint,—,#6191B2
-35,Buffalo,10,3.64,42.37,socrata,direct_live_endpoint,—,#6191B2
-36,Sacramento,19,3.54,40.68,arcgis,direct_live_endpoint,—,#6191B2
-37,San Antonio,54,3.49,38.98,ckan_sql,direct_live_endpoint,—,#4A6FA5
-38,Nashville,25,3.47,37.29,arcgis,direct_live_endpoint,—,#4A6FA5
-39,Portland,22,3.46,35.59,incident_csv,live_delayed_modeled,as_of 2026-08-29,#4A6FA5
+34,Buffalo,10,3.64,44.07,socrata,direct_live_endpoint,—,#6191B2
+35,Sacramento,19,3.54,42.37,arcgis,direct_live_endpoint,—,#6191B2
+36,San Antonio,54,3.49,40.68,ckan_sql,direct_live_endpoint,—,#6191B2
+37,Nashville,25,3.47,38.98,arcgis,direct_live_endpoint,—,#4A6FA5
+38,Portland,22,3.46,37.29,incident_csv,live_delayed_modeled,as_of 2026-08-29,#4A6FA5
+39,Omaha,14,2.86,35.59,arcgis,direct_live_endpoint,—,#4A6FA5
 40,Dallas,37,2.78,33.9,socrata,direct_live_endpoint,—,#4A6FA5
 41,Salt Lake City,6,2.75,32.2,arcgis,direct_live_endpoint,—,#4A6FA5
 42,Orlando,9,2.7,30.51,arcgis,direct_live_endpoint,—,#4A6FA5
