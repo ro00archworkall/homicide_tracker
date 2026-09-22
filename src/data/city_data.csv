@@ -52,7 +52,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 51,Newark,6,1.85,15.25,tableau_csv,direct_live_endpoint,—,#4A6FA5
 52,Durham,4,1.31,13.56,arcgis,direct_live_endpoint,—,#4A6FA5
 53,Mesa,5,0.97,11.86,socrata,direct_live_endpoint,—,#4A6FA5
-54,Denver,5,0.68,10.17,arcgis,direct_live_endpoint,—,#4A6FA5
+54,Denver,7,0.95,10.17,arcgis,direct_live_endpoint,—,#4A6FA5
 55,St. Paul,2,0.65,8.47,arcgis,direct_live_endpoint,—,#4A6FA5
 56,Boise,1,0.42,6.78,arcgis,direct_live_endpoint,—,#4A6FA5
 57,Tampa,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
