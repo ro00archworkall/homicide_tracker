@@ -54,7 +54,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 53,Raleigh,9,1.78,10.34,arcgis,direct_live_endpoint,—,#4A6FA5
 54,St. Paul,2,0.65,8.62,arcgis,direct_live_endpoint,—,#4A6FA5
 55,Boise,1,0.42,6.9,arcgis,direct_live_endpoint,—,#4A6FA5
-56,Tampa,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
+56,Tampa,1,0.24,5.17,arcgis,direct_live_endpoint,—,#4A6FA5
 57,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 58,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
 59,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
