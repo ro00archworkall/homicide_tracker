@@ -18,9 +18,9 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 17,Louisville,62,9.66,72.88,arcgis,direct_live_endpoint,—,#90CACC
 18,Cincinnati,30,9.54,71.19,socrata,direct_live_endpoint,—,#90CACC
 19,Little Rock,19,9.3,69.49,scraped_event_count,scraped,SCRAPED,#78B0BF
-20,Pittsburgh,25,8.13,67.8,ckan_sql,direct_live_endpoint,—,#78B0BF
-21,Albuquerque,45,8.08,66.1,html_regex,direct_live_endpoint,—,#78B0BF
-22,Philadelphia,125,7.94,64.41,carto,direct_live_endpoint,—,#78B0BF
+20,Philadelphia,130,8.26,67.8,carto,direct_live_endpoint,—,#78B0BF
+21,Pittsburgh,25,8.13,66.1,ckan_sql,direct_live_endpoint,—,#78B0BF
+22,Albuquerque,45,8.08,64.41,html_regex,direct_live_endpoint,—,#78B0BF
 23,Colorado Springs,38,7.68,62.71,socrata,direct_live_endpoint,—,#78B0BF
 24,Minneapolis,33,7.67,61.02,arcgis,direct_live_endpoint,—,#78B0BF
 25,Indianapolis,69,7.66,59.32,arcgis,direct_live_endpoint,—,#6191B2
