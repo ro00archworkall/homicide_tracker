@@ -32,11 +32,11 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 31,Los Angeles,221,5.71,50.0,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-09-17,#6191B2
 32,Virginia Beach,25,5.51,48.33,arcgis,direct_live_endpoint,—,#6191B2
 33,Denver,37,5.0,46.67,arcgis,direct_live_endpoint,—,#6191B2
-34,Jacksonville,40,3.93,45.0,arcgis,direct_live_endpoint,—,#6191B2
-35,Buffalo,10,3.64,43.33,socrata,direct_live_endpoint,—,#6191B2
-36,Nashville,26,3.61,41.67,arcgis,direct_live_endpoint,—,#6191B2
-37,Sacramento,19,3.54,40.0,arcgis,direct_live_endpoint,—,#6191B2
-38,San Antonio,54,3.49,38.33,ckan_sql,direct_live_endpoint,—,#4A6FA5
+34,San Antonio,62,4.0,45.0,ckan_sql,direct_live_endpoint,—,#6191B2
+35,Jacksonville,40,3.93,43.33,arcgis,direct_live_endpoint,—,#6191B2
+36,Buffalo,10,3.64,41.67,socrata,direct_live_endpoint,—,#6191B2
+37,Nashville,26,3.61,40.0,arcgis,direct_live_endpoint,—,#6191B2
+38,Sacramento,19,3.54,38.33,arcgis,direct_live_endpoint,—,#4A6FA5
 39,Portland,22,3.46,36.67,incident_csv,live_delayed_modeled,as_of 2026-08-29,#4A6FA5
 40,San Francisco,27,3.27,35.0,socrata,direct_live_endpoint,—,#4A6FA5
 41,Fort Worth,30,2.92,33.33,arcgis,direct_live_endpoint,—,#4A6FA5
