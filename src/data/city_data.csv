@@ -26,8 +26,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 25,Colorado Springs,38,7.68,60.0,socrata,direct_live_endpoint,—,#78B0BF
 26,Indianapolis,69,7.66,58.33,arcgis,direct_live_endpoint,—,#6191B2
 27,Oakland,31,7.03,56.67,socrata,direct_live_endpoint,—,#6191B2
-28,Columbus,63,6.71,55.0,html_count,direct_live_endpoint,—,#6191B2
-29,Charlotte,64,6.63,53.33,arcgis,direct_live_endpoint,—,#6191B2
+28,Charlotte,65,6.74,55.0,arcgis,direct_live_endpoint,—,#6191B2
+29,Columbus,63,6.71,53.33,html_count,direct_live_endpoint,—,#6191B2
 30,Tallahassee,13,6.34,51.67,arcgis,direct_live_endpoint,CAD_TOPS,#6191B2
 31,Los Angeles,223,5.76,50.0,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-09-17,#6191B2
 32,Virginia Beach,25,5.51,48.33,arcgis,direct_live_endpoint,—,#6191B2
