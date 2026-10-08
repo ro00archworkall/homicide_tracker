@@ -41,21 +41,21 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 40,Fort Worth,31,3.02,35.0,arcgis,direct_live_endpoint,—,#4A6FA5
 41,Austin,30,2.99,33.33,socrata,direct_live_endpoint,—,#4A6FA5
 42,Boston,20,2.97,31.67,ckan_sql,direct_live_endpoint,—,#4A6FA5
-43,Dallas,37,2.78,30.0,socrata,direct_live_endpoint,—,#4A6FA5
-44,Orlando,9,2.7,28.33,arcgis,direct_live_endpoint,—,#4A6FA5
-45,Omaha,13,2.66,26.67,arcgis,direct_live_endpoint,—,#4A6FA5
-46,San Diego,36,2.56,25.0,incident_csv,direct_live_endpoint,—,#4A6FA5
-47,Seattle,20,2.55,23.33,socrata,direct_live_endpoint,—,#4A6FA5
-48,Riverside,8,2.48,21.67,arcgis,direct_live_endpoint,—,#4A6FA5
-49,New York City,206,2.4,20.0,pdf,direct_live_endpoint,—,#4A6FA5
-50,Honolulu,8,2.34,18.33,socrata,direct_live_endpoint,—,#4A6FA5
-51,Durham,7,2.29,16.67,arcgis,direct_live_endpoint,—,#4A6FA5
-52,Newark,6,1.85,15.0,tableau_csv,direct_live_endpoint,—,#4A6FA5
-53,Salt Lake City,4,1.83,13.33,arcgis,direct_live_endpoint,—,#4A6FA5
-54,Raleigh,9,1.78,11.67,arcgis,direct_live_endpoint,—,#4A6FA5
-55,Boise,2,0.84,10.0,arcgis,direct_live_endpoint,—,#4A6FA5
-56,St. Paul,2,0.65,8.33,arcgis,direct_live_endpoint,—,#4A6FA5
-57,Nashville,3,0.42,6.67,arcgis,direct_live_endpoint,—,#4A6FA5
+43,Orlando,9,2.7,30.0,arcgis,direct_live_endpoint,—,#4A6FA5
+44,Omaha,13,2.66,28.33,arcgis,direct_live_endpoint,—,#4A6FA5
+45,San Diego,36,2.56,26.67,incident_csv,direct_live_endpoint,—,#4A6FA5
+46,Seattle,20,2.55,25.0,socrata,direct_live_endpoint,—,#4A6FA5
+47,Riverside,8,2.48,23.33,arcgis,direct_live_endpoint,—,#4A6FA5
+48,New York City,206,2.4,21.67,pdf,direct_live_endpoint,—,#4A6FA5
+49,Honolulu,8,2.34,20.0,socrata,direct_live_endpoint,—,#4A6FA5
+50,Durham,7,2.29,18.33,arcgis,direct_live_endpoint,—,#4A6FA5
+51,Newark,6,1.85,16.67,tableau_csv,direct_live_endpoint,—,#4A6FA5
+52,Salt Lake City,4,1.83,15.0,arcgis,direct_live_endpoint,—,#4A6FA5
+53,Raleigh,9,1.78,13.33,arcgis,direct_live_endpoint,—,#4A6FA5
+54,Boise,2,0.84,11.67,arcgis,direct_live_endpoint,—,#4A6FA5
+55,St. Paul,2,0.65,10.0,arcgis,direct_live_endpoint,—,#4A6FA5
+56,Nashville,3,0.42,8.33,arcgis,direct_live_endpoint,—,#4A6FA5
+57,Dallas,0,0.0,0.0,socrata,direct_live_endpoint,—,#4A6FA5
 58,Tampa,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 59,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 60,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
