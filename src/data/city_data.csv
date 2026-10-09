@@ -20,8 +20,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 19,Little Rock,19,9.3,70.0,scraped_event_count,scraped,SCRAPED,#90CACC
 20,Pittsburgh,26,8.45,68.33,ckan_sql,direct_live_endpoint,—,#78B0BF
 21,Philadelphia,130,8.26,66.67,carto,direct_live_endpoint,—,#78B0BF
-22,Albuquerque,45,8.08,65.0,html_regex,direct_live_endpoint,—,#78B0BF
-23,Minneapolis,34,7.9,63.33,arcgis,direct_live_endpoint,—,#78B0BF
+22,Minneapolis,35,8.13,65.0,arcgis,direct_live_endpoint,—,#78B0BF
+23,Albuquerque,45,8.08,63.33,html_regex,direct_live_endpoint,—,#78B0BF
 24,Colorado Springs,39,7.88,61.67,socrata,direct_live_endpoint,—,#78B0BF
 25,Indianapolis,70,7.77,60.0,arcgis,direct_live_endpoint,—,#78B0BF
 26,Rochester,16,7.76,58.33,arcgis,direct_live_endpoint,—,#6191B2
