@@ -22,8 +22,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 21,Minneapolis,36,8.37,66.1,arcgis,direct_live_endpoint,—,#78B0BF
 22,Philadelphia,130,8.26,64.41,carto,direct_live_endpoint,—,#78B0BF
 23,Albuquerque,45,8.08,62.71,html_regex,direct_live_endpoint,—,#78B0BF
-24,Colorado Springs,39,7.88,59.32,socrata,direct_live_endpoint,—,#6191B2
-25,Indianapolis,71,7.88,59.32,arcgis,direct_live_endpoint,—,#6191B2
+24,Indianapolis,71,7.88,59.32,arcgis,direct_live_endpoint,—,#6191B2
+25,Colorado Springs,39,7.88,59.32,socrata,direct_live_endpoint,—,#6191B2
 26,Rochester,16,7.76,57.63,arcgis,direct_live_endpoint,—,#6191B2
 27,Oakland,31,7.03,55.93,socrata,direct_live_endpoint,—,#6191B2
 28,Charlotte,67,6.94,54.24,arcgis,direct_live_endpoint,—,#6191B2
