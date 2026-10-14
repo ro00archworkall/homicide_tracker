@@ -8,8 +8,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 7,Detroit,108,16.64,89.83,arcgis,direct_live_endpoint,—,#A8D8D1
 8,Baltimore,91,15.96,88.14,arcgis,direct_live_endpoint,—,#A8D8D1
 9,New Orleans,53,14.63,86.44,socrata,direct_live_endpoint,—,#A8D8D1
-10,Atlanta,71,13.42,84.75,arcgis,direct_live_endpoint,—,#A8D8D1
-11,Norfolk,30,12.99,83.05,socrata,direct_live_endpoint,—,#A8D8D1
+10,Atlanta,71,13.42,83.05,arcgis,direct_live_endpoint,—,#A8D8D1
+11,Norfolk,31,13.42,83.05,socrata,direct_live_endpoint,—,#A8D8D1
 12,Chicago,334,12.23,81.36,socrata,direct_live_endpoint,—,#A8D8D1
 13,Las Vegas,80,11.77,79.66,arcgis,direct_live_endpoint,—,#90CACC
 14,Washington DC,80,11.53,77.97,arcgis,direct_live_endpoint,—,#90CACC
@@ -18,8 +18,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 17,Louisville,65,10.13,72.88,arcgis,direct_live_endpoint,—,#90CACC
 18,Little Rock,20,9.78,71.19,scraped_event_count,scraped,SCRAPED,#90CACC
 19,Richmond,23,9.69,69.49,html_count,direct_live_endpoint,—,#78B0BF
-20,Pittsburgh,26,8.45,67.8,ckan_sql,direct_live_endpoint,—,#78B0BF
-21,Minneapolis,36,8.37,66.1,arcgis,direct_live_endpoint,—,#78B0BF
+20,Minneapolis,37,8.6,67.8,arcgis,direct_live_endpoint,—,#78B0BF
+21,Pittsburgh,26,8.45,66.1,ckan_sql,direct_live_endpoint,—,#78B0BF
 22,Philadelphia,130,8.26,64.41,carto,direct_live_endpoint,—,#78B0BF
 23,Indianapolis,73,8.1,62.71,arcgis,direct_live_endpoint,—,#78B0BF
 24,Colorado Springs,40,8.09,61.02,socrata,direct_live_endpoint,—,#78B0BF
@@ -46,8 +46,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 45,San Diego,38,2.7,25.42,incident_csv,direct_live_endpoint,—,#4A6FA5
 46,Seattle,21,2.68,23.73,socrata,direct_live_endpoint,—,#4A6FA5
 47,Omaha,13,2.66,22.03,arcgis,direct_live_endpoint,—,#4A6FA5
-48,New York City,213,2.48,18.64,pdf,direct_live_endpoint,—,#4A6FA5
-49,Riverside,8,2.48,18.64,arcgis,direct_live_endpoint,—,#4A6FA5
+48,Riverside,8,2.48,18.64,arcgis,direct_live_endpoint,—,#4A6FA5
+49,New York City,213,2.48,18.64,pdf,direct_live_endpoint,—,#4A6FA5
 50,Honolulu,8,2.34,16.95,socrata,direct_live_endpoint,—,#4A6FA5
 51,Newark,6,1.85,15.25,tableau_csv,direct_live_endpoint,—,#4A6FA5
 52,Salt Lake City,4,1.83,13.56,arcgis,direct_live_endpoint,—,#4A6FA5
