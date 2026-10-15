@@ -46,8 +46,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 45,Orlando,9,2.7,22.41,arcgis,direct_live_endpoint,—,#4A6FA5
 46,San Diego,38,2.7,22.41,incident_csv,direct_live_endpoint,—,#4A6FA5
 47,Omaha,13,2.66,20.69,arcgis,direct_live_endpoint,—,#4A6FA5
-48,Riverside,8,2.48,17.24,arcgis,direct_live_endpoint,—,#4A6FA5
-49,New York City,213,2.48,17.24,pdf,direct_live_endpoint,—,#4A6FA5
+48,New York City,213,2.48,17.24,pdf,direct_live_endpoint,—,#4A6FA5
+49,Riverside,8,2.48,17.24,arcgis,direct_live_endpoint,—,#4A6FA5
 50,Honolulu,8,2.34,15.52,socrata,direct_live_endpoint,—,#4A6FA5
 51,Newark,6,1.85,13.79,tableau_csv,direct_live_endpoint,—,#4A6FA5
 52,Salt Lake City,4,1.83,12.07,arcgis,direct_live_endpoint,—,#4A6FA5
