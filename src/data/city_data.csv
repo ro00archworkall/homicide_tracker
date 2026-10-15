@@ -27,7 +27,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 26,Charlotte,67,6.94,56.14,arcgis,direct_live_endpoint,—,#6191B2
 27,Tallahassee,14,6.83,54.39,arcgis,direct_live_endpoint,CAD_TOPS,#6191B2
 28,Columbus,64,6.82,52.63,html_count,direct_live_endpoint,—,#6191B2
-29,Los Angeles,237,6.13,50.88,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-10-02,#6191B2
+29,Los Angeles,238,6.15,50.88,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-10-02,#6191B2
 30,Virginia Beach,27,5.95,49.12,arcgis,direct_live_endpoint,—,#6191B2
 31,Denver,36,4.86,47.37,arcgis,direct_live_endpoint,—,#6191B2
 32,Jacksonville,47,4.62,45.61,arcgis,direct_live_endpoint,—,#6191B2
@@ -45,8 +45,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 44,Orlando,9,2.7,22.81,arcgis,direct_live_endpoint,—,#4A6FA5
 45,San Diego,38,2.7,22.81,incident_csv,direct_live_endpoint,—,#4A6FA5
 46,Omaha,13,2.66,21.05,arcgis,direct_live_endpoint,—,#4A6FA5
-47,Riverside,8,2.48,17.54,arcgis,direct_live_endpoint,—,#4A6FA5
-48,New York City,213,2.48,17.54,pdf,direct_live_endpoint,—,#4A6FA5
+47,New York City,213,2.48,17.54,pdf,direct_live_endpoint,—,#4A6FA5
+48,Riverside,8,2.48,17.54,arcgis,direct_live_endpoint,—,#4A6FA5
 49,Honolulu,8,2.34,15.79,socrata,direct_live_endpoint,—,#4A6FA5
 50,Newark,6,1.85,14.04,tableau_csv,direct_live_endpoint,—,#4A6FA5
 51,Salt Lake City,4,1.83,12.28,arcgis,direct_live_endpoint,—,#4A6FA5
@@ -54,8 +54,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 53,Boise,2,0.84,8.77,arcgis,direct_live_endpoint,—,#4A6FA5
 54,St. Paul,2,0.65,7.02,arcgis,direct_live_endpoint,—,#4A6FA5
 55,Tampa,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-56,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-57,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+56,Lincoln,0,0.0,0.0,pdf,direct_live_endpoint,—,#4A6FA5
+57,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 58,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
