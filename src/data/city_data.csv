@@ -14,12 +14,12 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 13,Las Vegas,80,11.77,79.31,arcgis,direct_live_endpoint,—,#90CACC
 14,Washington DC,80,11.53,77.59,arcgis,direct_live_endpoint,—,#90CACC
 15,Toledo,28,10.63,75.86,html_count,direct_live_endpoint,—,#90CACC
-16,Cincinnati,32,10.18,74.14,socrata,direct_live_endpoint,—,#90CACC
-17,Louisville,65,10.13,72.41,arcgis,direct_live_endpoint,—,#90CACC
-18,Little Rock,20,9.78,70.69,scraped_event_count,scraped,SCRAPED,#90CACC
-19,Richmond,23,9.69,68.97,html_count,direct_live_endpoint,—,#78B0BF
-20,Philadelphia,136,8.64,67.24,carto,direct_live_endpoint,—,#78B0BF
-21,Minneapolis,37,8.6,65.52,arcgis,direct_live_endpoint,—,#78B0BF
+16,Louisville,65,10.13,74.14,arcgis,direct_live_endpoint,—,#90CACC
+17,Little Rock,20,9.78,72.41,scraped_event_count,scraped,SCRAPED,#90CACC
+18,Richmond,23,9.69,70.69,html_count,direct_live_endpoint,—,#90CACC
+19,Philadelphia,136,8.64,68.97,carto,direct_live_endpoint,—,#78B0BF
+20,Minneapolis,37,8.6,67.24,arcgis,direct_live_endpoint,—,#78B0BF
+21,Pittsburgh,26,8.45,65.52,ckan_sql,direct_live_endpoint,—,#78B0BF
 22,Indianapolis,74,8.21,63.79,arcgis,direct_live_endpoint,—,#78B0BF
 23,Colorado Springs,40,8.09,62.07,socrata,direct_live_endpoint,—,#78B0BF
 24,Albuquerque,45,8.08,60.34,html_regex,direct_live_endpoint,—,#78B0BF
@@ -46,8 +46,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 45,San Diego,39,2.77,24.14,incident_csv,direct_live_endpoint,—,#4A6FA5
 46,Orlando,9,2.7,22.41,arcgis,direct_live_endpoint,—,#4A6FA5
 47,Omaha,13,2.66,20.69,arcgis,direct_live_endpoint,—,#4A6FA5
-48,New York City,213,2.48,17.24,pdf,direct_live_endpoint,—,#4A6FA5
-49,Riverside,8,2.48,17.24,arcgis,direct_live_endpoint,—,#4A6FA5
+48,Riverside,8,2.48,17.24,arcgis,direct_live_endpoint,—,#4A6FA5
+49,New York City,213,2.48,17.24,pdf,direct_live_endpoint,—,#4A6FA5
 50,Honolulu,8,2.34,15.52,socrata,direct_live_endpoint,—,#4A6FA5
 51,Newark,6,1.85,13.79,tableau_csv,direct_live_endpoint,—,#4A6FA5
 52,Salt Lake City,4,1.83,12.07,arcgis,direct_live_endpoint,—,#4A6FA5
