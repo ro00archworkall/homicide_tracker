@@ -13,20 +13,20 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 12,Las Vegas,80,11.77,80.7,arcgis,direct_live_endpoint,—,#A8D8D1
 13,Washington DC,81,11.68,78.95,arcgis,direct_live_endpoint,—,#90CACC
 14,Toledo,28,10.63,77.19,html_count,direct_live_endpoint,—,#90CACC
-15,Louisville,65,10.13,75.44,arcgis,direct_live_endpoint,—,#90CACC
-16,Richmond,23,9.69,73.68,html_count,direct_live_endpoint,—,#90CACC
-17,Minneapolis,38,8.83,71.93,arcgis,direct_live_endpoint,—,#90CACC
-18,Philadelphia,136,8.64,70.18,carto,direct_live_endpoint,—,#90CACC
-19,Pittsburgh,26,8.45,68.42,ckan_sql,direct_live_endpoint,—,#78B0BF
-20,Colorado Springs,41,8.29,66.67,socrata,direct_live_endpoint,—,#78B0BF
-21,Rochester,17,8.25,64.91,arcgis,direct_live_endpoint,—,#78B0BF
+15,Little Rock,21,10.27,75.44,scraped_event_count,scraped,SCRAPED,#90CACC
+16,Louisville,65,10.13,73.68,arcgis,direct_live_endpoint,—,#90CACC
+17,Richmond,23,9.69,71.93,html_count,direct_live_endpoint,—,#90CACC
+18,Minneapolis,38,8.83,70.18,arcgis,direct_live_endpoint,—,#90CACC
+19,Philadelphia,136,8.64,68.42,carto,direct_live_endpoint,—,#78B0BF
+20,Pittsburgh,26,8.45,66.67,ckan_sql,direct_live_endpoint,—,#78B0BF
+21,Colorado Springs,41,8.29,64.91,socrata,direct_live_endpoint,—,#78B0BF
 22,Indianapolis,74,8.21,63.16,arcgis,direct_live_endpoint,—,#78B0BF
 23,Albuquerque,45,8.08,61.4,html_regex,direct_live_endpoint,—,#78B0BF
 24,Oakland,32,7.26,59.65,socrata,direct_live_endpoint,—,#6191B2
 25,Charlotte,67,6.94,57.89,arcgis,direct_live_endpoint,—,#6191B2
 26,Tallahassee,14,6.83,56.14,arcgis,direct_live_endpoint,CAD_TOPS,#6191B2
 27,Columbus,64,6.82,54.39,html_count,direct_live_endpoint,—,#6191B2
-28,Los Angeles,239,6.18,52.63,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-10-02,#6191B2
+28,Los Angeles,240,6.2,52.63,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-10-02,#6191B2
 29,Virginia Beach,27,5.95,50.88,arcgis,direct_live_endpoint,—,#6191B2
 30,Denver,36,4.86,49.12,arcgis,direct_live_endpoint,—,#6191B2
 31,Jacksonville,47,4.62,47.37,arcgis,direct_live_endpoint,—,#6191B2
@@ -115,7 +115,6 @@ N/A,Yonkers,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Des Moines,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Grand Prairie,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Fayetteville,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
-N/A,Little Rock,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Amarillo,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Overland Park,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Knoxville,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
