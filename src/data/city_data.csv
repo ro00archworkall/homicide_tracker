@@ -6,13 +6,13 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 5,Memphis,111,18.21,93.1,arcgis,direct_live_endpoint,—,#C0E4D8
 6,Birmingham,34,17.29,91.38,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
 7,Detroit,110,16.95,89.66,arcgis,direct_live_endpoint,—,#A8D8D1
-8,Baltimore,91,15.96,87.93,arcgis,direct_live_endpoint,—,#A8D8D1
-9,New Orleans,55,15.19,86.21,socrata,direct_live_endpoint,—,#A8D8D1
-10,Norfolk,32,13.85,84.48,socrata,direct_live_endpoint,—,#A8D8D1
-11,Atlanta,73,13.8,82.76,arcgis,direct_live_endpoint,—,#A8D8D1
-12,Chicago,342,12.52,81.03,socrata,direct_live_endpoint,—,#A8D8D1
-13,Las Vegas,83,12.21,79.31,arcgis,direct_live_endpoint,—,#90CACC
-14,Washington DC,82,11.82,77.59,arcgis,direct_live_endpoint,—,#90CACC
+8,New Orleans,55,15.19,87.93,socrata,direct_live_endpoint,—,#A8D8D1
+9,Norfolk,32,13.85,86.21,socrata,direct_live_endpoint,—,#A8D8D1
+10,Atlanta,73,13.8,84.48,arcgis,direct_live_endpoint,—,#A8D8D1
+11,Chicago,342,12.52,82.76,socrata,direct_live_endpoint,—,#A8D8D1
+12,Las Vegas,83,12.21,81.03,arcgis,direct_live_endpoint,—,#A8D8D1
+13,Washington DC,82,11.82,79.31,arcgis,direct_live_endpoint,—,#90CACC
+14,Baltimore,66,11.58,77.59,arcgis,direct_live_endpoint,—,#90CACC
 15,Toledo,28,10.63,75.86,html_count,direct_live_endpoint,—,#90CACC
 16,Louisville,66,10.28,74.14,arcgis,direct_live_endpoint,—,#90CACC
 17,Little Rock,21,10.27,72.41,scraped_event_count,scraped,SCRAPED,#90CACC
