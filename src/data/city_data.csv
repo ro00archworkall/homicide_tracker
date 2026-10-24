@@ -17,9 +17,9 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 16,Toledo,28,10.63,74.14,html_count,direct_live_endpoint,—,#90CACC
 17,Louisville,66,10.28,72.41,arcgis,direct_live_endpoint,—,#90CACC
 18,Richmond,23,9.69,70.69,html_count,direct_live_endpoint,—,#90CACC
-19,Philadelphia,136,8.64,68.97,carto,direct_live_endpoint,—,#78B0BF
-20,Minneapolis,37,8.6,67.24,arcgis,direct_live_endpoint,—,#78B0BF
-21,Indianapolis,77,8.54,65.52,arcgis,direct_live_endpoint,—,#78B0BF
+19,Indianapolis,78,8.66,68.97,arcgis,direct_live_endpoint,—,#78B0BF
+20,Philadelphia,136,8.64,67.24,carto,direct_live_endpoint,—,#78B0BF
+21,Minneapolis,37,8.6,65.52,arcgis,direct_live_endpoint,—,#78B0BF
 22,Pittsburgh,26,8.45,63.79,ckan_sql,direct_live_endpoint,—,#78B0BF
 23,Colorado Springs,41,8.29,62.07,socrata,direct_live_endpoint,—,#78B0BF
 24,Rochester,17,8.25,60.34,arcgis,direct_live_endpoint,—,#78B0BF
