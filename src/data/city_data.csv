@@ -25,8 +25,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 24,Rochester,17,8.25,60.34,arcgis,direct_live_endpoint,—,#78B0BF
 25,Albuquerque,45,8.08,58.62,html_regex,direct_live_endpoint,—,#6191B2
 26,Oakland,33,7.49,56.9,socrata,direct_live_endpoint,—,#6191B2
-27,Columbus,66,7.03,55.17,html_count,direct_live_endpoint,—,#6191B2
-28,Charlotte,67,6.94,53.45,arcgis,direct_live_endpoint,—,#6191B2
+27,Charlotte,69,7.15,55.17,arcgis,direct_live_endpoint,—,#6191B2
+28,Columbus,66,7.03,53.45,html_count,direct_live_endpoint,—,#6191B2
 29,Tallahassee,14,6.83,51.72,arcgis,direct_live_endpoint,CAD_TOPS,#6191B2
 30,Los Angeles,246,6.36,50.0,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-10-02,#6191B2
 31,Virginia Beach,27,5.95,48.28,arcgis,direct_live_endpoint,—,#6191B2
