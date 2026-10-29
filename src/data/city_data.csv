@@ -18,7 +18,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 17,Louisville,66,10.28,72.41,arcgis,direct_live_endpoint,—,#90CACC
 18,Richmond,23,9.69,70.69,html_count,direct_live_endpoint,—,#90CACC
 19,Philadelphia,146,9.27,68.97,carto,direct_live_endpoint,—,#78B0BF
-20,Indianapolis,79,8.77,67.24,arcgis,direct_live_endpoint,—,#78B0BF
+20,Indianapolis,81,8.99,67.24,arcgis,direct_live_endpoint,—,#78B0BF
 21,Colorado Springs,43,8.69,65.52,socrata,direct_live_endpoint,—,#78B0BF
 22,Minneapolis,37,8.6,63.79,arcgis,direct_live_endpoint,—,#78B0BF
 23,Pittsburgh,26,8.45,62.07,ckan_sql,direct_live_endpoint,—,#78B0BF
