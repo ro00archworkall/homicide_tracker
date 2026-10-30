@@ -12,7 +12,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 11,Norfolk,33,14.28,82.76,socrata,direct_live_endpoint,—,#A8D8D1
 12,Chicago,353,12.92,81.03,socrata,direct_live_endpoint,—,#A8D8D1
 13,Las Vegas,85,12.5,79.31,arcgis,direct_live_endpoint,—,#90CACC
-14,Washington DC,84,12.11,77.59,arcgis,direct_live_endpoint,—,#90CACC
+14,Washington DC,86,12.4,77.59,arcgis,direct_live_endpoint,—,#90CACC
 15,Little Rock,22,10.76,75.86,scraped_event_count,scraped,SCRAPED,#90CACC
 16,Toledo,28,10.63,74.14,html_count,direct_live_endpoint,—,#90CACC
 17,Louisville,66,10.28,72.41,arcgis,direct_live_endpoint,—,#90CACC
