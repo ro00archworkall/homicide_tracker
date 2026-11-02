@@ -7,7 +7,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 6,Baltimore,102,17.89,91.38,arcgis,direct_live_endpoint,—,#C0E4D8
 7,Detroit,116,17.87,89.66,arcgis,direct_live_endpoint,—,#A8D8D1
 8,Birmingham,35,17.8,87.93,ckan_latest_pdf,direct_live_endpoint,—,#A8D8D1
-9,New Orleans,59,16.29,86.21,socrata,direct_live_endpoint,—,#A8D8D1
+9,New Orleans,60,16.57,86.21,socrata,direct_live_endpoint,—,#A8D8D1
 10,Atlanta,78,14.74,84.48,arcgis,direct_live_endpoint,—,#A8D8D1
 11,Norfolk,33,14.28,82.76,socrata,direct_live_endpoint,—,#A8D8D1
 12,Chicago,354,12.96,81.03,socrata,direct_live_endpoint,—,#A8D8D1
