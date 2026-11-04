@@ -4,8 +4,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 3,Cleveland,86,23.65,96.55,arcgis,direct_live_endpoint,—,#C0E4D8
 4,Baton Rouge,49,21.99,94.83,socrata,direct_live_endpoint,—,#C0E4D8
 5,Memphis,122,20.01,93.1,arcgis,direct_live_endpoint,—,#C0E4D8
-6,Baltimore,102,17.89,91.38,arcgis,direct_live_endpoint,—,#C0E4D8
-7,Detroit,116,17.87,89.66,arcgis,direct_live_endpoint,—,#A8D8D1
+6,Detroit,117,18.03,91.38,arcgis,direct_live_endpoint,—,#C0E4D8
+7,Baltimore,102,17.89,89.66,arcgis,direct_live_endpoint,—,#A8D8D1
 8,Birmingham,35,17.8,87.93,ckan_latest_pdf,direct_live_endpoint,—,#A8D8D1
 9,New Orleans,60,16.57,86.21,socrata,direct_live_endpoint,—,#A8D8D1
 10,Atlanta,78,14.74,84.48,arcgis,direct_live_endpoint,—,#A8D8D1
@@ -29,7 +29,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 28,Columbus,69,7.35,53.45,html_count,direct_live_endpoint,—,#6191B2
 29,Tallahassee,15,7.32,51.72,arcgis,direct_live_endpoint,CAD_TOPS,#6191B2
 30,Los Angeles,259,6.69,50.0,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-10-15,#6191B2
-31,Virginia Beach,28,6.17,48.28,arcgis,direct_live_endpoint,—,#6191B2
+31,Virginia Beach,29,6.39,48.28,arcgis,direct_live_endpoint,—,#6191B2
 32,Denver,38,5.13,46.55,arcgis,direct_live_endpoint,—,#6191B2
 33,Jacksonville,48,4.72,44.83,arcgis,direct_live_endpoint,—,#6191B2
 34,Nashville,31,4.3,43.1,arcgis,direct_live_endpoint,—,#6191B2
@@ -50,8 +50,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 49,New York City,229,2.67,17.24,pdf,direct_live_endpoint,—,#4A6FA5
 50,Honolulu,9,2.63,15.52,socrata,direct_live_endpoint,—,#4A6FA5
 51,Omaha,12,2.46,13.79,arcgis,direct_live_endpoint,—,#4A6FA5
-52,Raleigh,11,2.17,12.07,arcgis,direct_live_endpoint,—,#4A6FA5
-53,Salt Lake City,4,1.83,10.34,arcgis,direct_live_endpoint,—,#4A6FA5
+52,Raleigh,12,2.37,12.07,arcgis,direct_live_endpoint,—,#4A6FA5
+53,Salt Lake City,3,1.37,10.34,arcgis,direct_live_endpoint,—,#4A6FA5
 54,Boise,3,1.26,8.62,arcgis,direct_live_endpoint,—,#4A6FA5
 55,St. Paul,2,0.65,6.9,arcgis,direct_live_endpoint,—,#4A6FA5
 56,Lincoln,1,0.33,5.17,pdf,direct_live_endpoint,—,#4A6FA5
