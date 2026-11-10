@@ -12,14 +12,14 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 11,Norfolk,33,14.28,82.46,socrata,direct_live_endpoint,—,#A8D8D1
 12,Chicago,363,13.29,80.7,socrata,direct_live_endpoint,—,#A8D8D1
 13,Washington DC,88,12.69,78.95,arcgis,direct_live_endpoint,—,#90CACC
-14,Las Vegas,85,12.5,77.19,arcgis,direct_live_endpoint,—,#90CACC
-15,Louisville,71,11.06,75.44,arcgis,direct_live_endpoint,—,#90CACC
-16,Little Rock,22,10.76,73.68,scraped_event_count,scraped,SCRAPED,#90CACC
-17,Toledo,28,10.63,71.93,html_count,direct_live_endpoint,—,#90CACC
-18,Philadelphia,156,9.91,70.18,carto,direct_live_endpoint,—,#90CACC
-19,Rochester,20,9.7,68.42,arcgis,direct_live_endpoint,—,#78B0BF
-20,Richmond,23,9.69,66.67,html_count,direct_live_endpoint,—,#78B0BF
-21,Indianapolis,86,9.54,64.91,arcgis,direct_live_endpoint,—,#78B0BF
+14,Louisville,71,11.06,77.19,arcgis,direct_live_endpoint,—,#90CACC
+15,Little Rock,22,10.76,75.44,scraped_event_count,scraped,SCRAPED,#90CACC
+16,Toledo,28,10.63,73.68,html_count,direct_live_endpoint,—,#90CACC
+17,Philadelphia,156,9.91,71.93,carto,direct_live_endpoint,—,#90CACC
+18,Rochester,20,9.7,70.18,arcgis,direct_live_endpoint,—,#90CACC
+19,Richmond,23,9.69,68.42,html_count,direct_live_endpoint,—,#78B0BF
+20,Indianapolis,86,9.54,66.67,arcgis,direct_live_endpoint,—,#78B0BF
+21,Las Vegas,64,9.41,64.91,arcgis,direct_live_endpoint,—,#78B0BF
 22,Albuquerque,50,8.98,63.16,html_regex,direct_live_endpoint,—,#78B0BF
 23,Pittsburgh,27,8.78,61.4,ckan_sql,direct_live_endpoint,—,#78B0BF
 24,Colorado Springs,43,8.69,59.65,socrata,direct_live_endpoint,—,#6191B2
