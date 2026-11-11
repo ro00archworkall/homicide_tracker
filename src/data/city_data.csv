@@ -1,5 +1,5 @@
 rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
-1,St. Louis,99,35.59,100.0,pdf,direct_live_endpoint,—,#C0E4D8
+1,St. Louis,100,35.95,100.0,pdf,direct_live_endpoint,—,#C0E4D8
 2,Kansas City,158,30.31,98.28,socrata,direct_live_endpoint,—,#C0E4D8
 3,Cleveland,87,23.93,96.55,arcgis,direct_live_endpoint,—,#C0E4D8
 4,Baton Rouge,49,21.99,94.83,socrata,direct_live_endpoint,—,#C0E4D8
@@ -31,7 +31,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 30,Los Angeles,264,6.82,50.0,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-10-26,#6191B2
 31,Virginia Beach,30,6.61,48.28,arcgis,direct_live_endpoint,—,#6191B2
 32,Denver,38,5.13,46.55,arcgis,direct_live_endpoint,—,#6191B2
-33,Jacksonville,49,4.81,44.83,arcgis,direct_live_endpoint,—,#6191B2
+33,Jacksonville,51,5.01,44.83,arcgis,direct_live_endpoint,—,#6191B2
 34,Nashville,31,4.3,43.1,arcgis,direct_live_endpoint,—,#6191B2
 35,San Antonio,64,4.13,41.38,ckan_sql,direct_live_endpoint,—,#6191B2
 36,Sacramento,22,4.1,39.66,arcgis,direct_live_endpoint,—,#4A6FA5
