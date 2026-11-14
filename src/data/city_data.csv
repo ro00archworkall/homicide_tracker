@@ -28,7 +28,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 27,Charlotte,76,7.88,55.17,arcgis,direct_live_endpoint,—,#6191B2
 28,Columbus,73,7.78,53.45,html_count,direct_live_endpoint,—,#6191B2
 29,Tallahassee,15,7.32,51.72,arcgis,direct_live_endpoint,CAD_TOPS,#6191B2
-30,Los Angeles,266,6.88,50.0,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-10-26,#6191B2
+30,Los Angeles,267,6.9,50.0,socrata,live_delayed_modeled,NOT MATCHING | as_of 2026-10-26,#6191B2
 31,Virginia Beach,29,6.39,48.28,arcgis,direct_live_endpoint,—,#6191B2
 32,Denver,38,5.13,46.55,arcgis,direct_live_endpoint,—,#6191B2
 33,Jacksonville,51,5.01,44.83,arcgis,direct_live_endpoint,—,#6191B2
