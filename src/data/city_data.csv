@@ -52,10 +52,10 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 51,Honolulu,9,2.63,13.79,socrata,direct_live_endpoint,—,#4A6FA5
 52,Raleigh,11,2.17,12.07,arcgis,direct_live_endpoint,—,#4A6FA5
 53,Salt Lake City,3,1.37,10.34,arcgis,direct_live_endpoint,—,#4A6FA5
-54,Boise,3,1.26,8.62,arcgis,direct_live_endpoint,—,#4A6FA5
-55,St. Paul,2,0.65,6.9,arcgis,direct_live_endpoint,—,#4A6FA5
-56,Lincoln,1,0.33,5.17,pdf,direct_live_endpoint,—,#4A6FA5
-57,Tampa,1,0.24,3.45,arcgis,direct_live_endpoint,—,#4A6FA5
+54,St. Paul,2,0.65,8.62,arcgis,direct_live_endpoint,—,#4A6FA5
+55,Lincoln,1,0.33,6.9,pdf,direct_live_endpoint,—,#4A6FA5
+56,Tampa,1,0.24,5.17,arcgis,direct_live_endpoint,—,#4A6FA5
+57,Boise,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 58,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 59,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
