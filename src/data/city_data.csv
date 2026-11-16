@@ -1,15 +1,15 @@
 rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 1,St. Louis,100,35.95,100.0,pdf,direct_live_endpoint,—,#C0E4D8
 2,Kansas City,158,30.31,98.28,socrata,direct_live_endpoint,—,#C0E4D8
-3,Baton Rouge,49,21.99,96.55,socrata,direct_live_endpoint,—,#C0E4D8
-4,Memphis,130,21.32,94.83,arcgis,direct_live_endpoint,—,#C0E4D8
-5,Detroit,122,18.8,93.1,arcgis,direct_live_endpoint,—,#C0E4D8
-6,Baltimore,103,18.07,91.38,arcgis,direct_live_endpoint,—,#C0E4D8
-7,Birmingham,35,17.8,89.66,ckan_latest_pdf,direct_live_endpoint,—,#A8D8D1
-8,New Orleans,63,17.4,87.93,socrata,direct_live_endpoint,—,#A8D8D1
-9,Atlanta,83,15.69,86.21,arcgis,direct_live_endpoint,—,#A8D8D1
-10,Norfolk,33,14.28,84.48,socrata,direct_live_endpoint,—,#A8D8D1
-11,Cleveland,50,13.75,82.76,arcgis,direct_live_endpoint,—,#A8D8D1
+3,Cleveland,86,23.65,96.55,arcgis,direct_live_endpoint,—,#C0E4D8
+4,Baton Rouge,49,21.99,94.83,socrata,direct_live_endpoint,—,#C0E4D8
+5,Memphis,130,21.32,93.1,arcgis,direct_live_endpoint,—,#C0E4D8
+6,Detroit,122,18.8,91.38,arcgis,direct_live_endpoint,—,#C0E4D8
+7,Baltimore,103,18.07,89.66,arcgis,direct_live_endpoint,—,#A8D8D1
+8,Birmingham,35,17.8,87.93,ckan_latest_pdf,direct_live_endpoint,—,#A8D8D1
+9,New Orleans,63,17.4,86.21,socrata,direct_live_endpoint,—,#A8D8D1
+10,Atlanta,83,15.69,84.48,arcgis,direct_live_endpoint,—,#A8D8D1
+11,Norfolk,33,14.28,82.76,socrata,direct_live_endpoint,—,#A8D8D1
 12,Chicago,369,13.51,81.03,socrata,direct_live_endpoint,—,#A8D8D1
 13,Washington DC,89,12.83,79.31,arcgis,direct_live_endpoint,—,#90CACC
 14,Las Vegas,86,12.65,77.59,arcgis,direct_live_endpoint,—,#90CACC
