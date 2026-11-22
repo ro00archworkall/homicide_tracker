@@ -1,5 +1,5 @@
 rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
-1,St. Louis,101,36.31,100.0,pdf,direct_live_endpoint,—,#C0E4D8
+1,St. Louis,102,36.67,100.0,pdf,direct_live_endpoint,—,#C0E4D8
 2,Baton Rouge,77,34.56,98.28,socrata,direct_live_endpoint,—,#C0E4D8
 3,Kansas City,159,30.51,96.55,socrata,direct_live_endpoint,—,#C0E4D8
 4,Memphis,133,21.82,94.83,arcgis,direct_live_endpoint,—,#C0E4D8
