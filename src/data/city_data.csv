@@ -1,14 +1,14 @@
 rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 1,St. Louis,103,37.03,100.0,pdf,direct_live_endpoint,—,#C0E4D8
 2,Baton Rouge,77,34.56,98.28,socrata,direct_live_endpoint,—,#C0E4D8
-3,Kansas City,159,30.51,96.55,socrata,direct_live_endpoint,—,#C0E4D8
+3,Kansas City,160,30.7,96.55,socrata,direct_live_endpoint,—,#C0E4D8
 4,Cleveland,88,24.2,94.83,arcgis,direct_live_endpoint,—,#C0E4D8
 5,Memphis,134,21.98,93.1,arcgis,direct_live_endpoint,—,#C0E4D8
 6,Birmingham,41,20.85,91.38,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
 7,Detroit,126,19.41,89.66,arcgis,direct_live_endpoint,—,#A8D8D1
 8,Baltimore,105,18.42,87.93,arcgis,direct_live_endpoint,—,#A8D8D1
 9,New Orleans,66,18.22,86.21,socrata,direct_live_endpoint,—,#A8D8D1
-10,Atlanta,84,15.88,84.48,arcgis,direct_live_endpoint,—,#A8D8D1
+10,Atlanta,83,15.69,84.48,arcgis,direct_live_endpoint,—,#A8D8D1
 11,Norfolk,33,14.28,82.76,socrata,direct_live_endpoint,—,#A8D8D1
 12,Chicago,373,13.66,81.03,socrata,direct_live_endpoint,—,#A8D8D1
 13,Washington DC,90,12.97,79.31,arcgis,direct_live_endpoint,—,#90CACC
