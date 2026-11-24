@@ -2,7 +2,7 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 1,St. Louis,103,37.03,100.0,pdf,direct_live_endpoint,—,#C0E4D8
 2,Baton Rouge,77,34.56,98.28,socrata,direct_live_endpoint,—,#C0E4D8
 3,Kansas City,160,30.7,96.55,socrata,direct_live_endpoint,—,#C0E4D8
-4,Cleveland,88,24.2,94.83,arcgis,direct_live_endpoint,—,#C0E4D8
+4,Cleveland,89,24.48,94.83,arcgis,direct_live_endpoint,—,#C0E4D8
 5,Memphis,135,22.14,93.1,arcgis,direct_live_endpoint,—,#C0E4D8
 6,Birmingham,41,20.85,91.38,ckan_latest_pdf,direct_live_endpoint,—,#C0E4D8
 7,Detroit,126,19.41,89.66,arcgis,direct_live_endpoint,—,#A8D8D1
@@ -14,8 +14,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 13,Washington DC,90,12.97,79.31,arcgis,direct_live_endpoint,—,#90CACC
 14,Las Vegas,87,12.8,77.59,arcgis,direct_live_endpoint,—,#90CACC
 15,Louisville,73,11.37,75.86,arcgis,direct_live_endpoint,—,#90CACC
-16,Little Rock,22,10.76,74.14,scraped_event_count,scraped,SCRAPED,#90CACC
-17,Rochester,22,10.67,72.41,arcgis,direct_live_endpoint,—,#90CACC
+16,Rochester,23,11.16,74.14,arcgis,direct_live_endpoint,—,#90CACC
+17,Little Rock,22,10.76,72.41,scraped_event_count,scraped,SCRAPED,#90CACC
 18,Toledo,28,10.63,70.69,html_count,direct_live_endpoint,—,#90CACC
 19,Philadelphia,161,10.23,68.97,carto,direct_live_endpoint,—,#78B0BF
 20,Indianapolis,90,9.99,67.24,arcgis,direct_live_endpoint,—,#78B0BF
@@ -56,8 +56,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 55,St. Paul,2,0.65,6.9,arcgis,direct_live_endpoint,—,#4A6FA5
 56,Lincoln,1,0.33,5.17,pdf,direct_live_endpoint,—,#4A6FA5
 57,Tampa,1,0.24,3.45,arcgis,direct_live_endpoint,—,#4A6FA5
-58,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
-59,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
+58,Houston,0,0.0,0.0,incident_csv,live_delayed_modeled,NOT MATCHING,#4A6FA5
+59,Greensboro,0,0.0,0.0,arcgis,direct_live_endpoint,—,#4A6FA5
 N/A,Phoenix,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,San Jose,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
 N/A,Oklahoma City,N/A,N/A,N/A,NOT_WIRED,NOT_WIRED,NOT_WIRED,N/A
