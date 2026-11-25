@@ -14,8 +14,8 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 13,Washington DC,90,12.97,79.31,arcgis,direct_live_endpoint,—,#90CACC
 14,Louisville,73,11.37,77.59,arcgis,direct_live_endpoint,—,#90CACC
 15,Rochester,23,11.16,75.86,arcgis,direct_live_endpoint,—,#90CACC
-16,Little Rock,22,10.76,74.14,scraped_event_count,scraped,SCRAPED,#90CACC
-17,Toledo,28,10.63,72.41,html_count,direct_live_endpoint,—,#90CACC
+16,Toledo,29,11.01,74.14,html_count,direct_live_endpoint,—,#90CACC
+17,Little Rock,22,10.76,72.41,scraped_event_count,scraped,SCRAPED,#90CACC
 18,Philadelphia,161,10.23,70.69,carto,direct_live_endpoint,—,#90CACC
 19,Indianapolis,90,9.99,68.97,arcgis,direct_live_endpoint,—,#78B0BF
 20,Richmond,23,9.69,67.24,html_count,direct_live_endpoint,—,#78B0BF
@@ -32,13 +32,13 @@ rank,city,homicides,rate_per_100k,rate_percentile,data_source,model,flag,color
 31,Denver,41,5.54,48.28,arcgis,direct_live_endpoint,—,#6191B2
 32,Jacksonville,55,5.4,46.55,arcgis,direct_live_endpoint,—,#6191B2
 33,Nashville,33,4.58,44.83,arcgis,direct_live_endpoint,—,#6191B2
-34,Portland,27,4.25,43.1,incident_csv,live_delayed_modeled,as_of 2026-10-05,#6191B2
-35,San Antonio,64,4.13,41.38,ckan_sql,direct_live_endpoint,—,#6191B2
-36,San Francisco,34,4.12,39.66,socrata,direct_live_endpoint,—,#4A6FA5
-37,Sacramento,22,4.1,37.93,arcgis,direct_live_endpoint,—,#4A6FA5
+34,Sacramento,23,4.29,43.1,arcgis,direct_live_endpoint,—,#6191B2
+35,Portland,27,4.25,41.38,incident_csv,live_delayed_modeled,as_of 2026-10-05,#6191B2
+36,San Antonio,64,4.13,39.66,ckan_sql,direct_live_endpoint,—,#4A6FA5
+37,San Francisco,34,4.12,37.93,socrata,direct_live_endpoint,—,#4A6FA5
 38,Buffalo,10,3.64,36.21,socrata,direct_live_endpoint,—,#4A6FA5
 39,Orlando,12,3.59,34.48,arcgis,direct_live_endpoint,—,#4A6FA5
-40,Dallas,45,3.38,32.76,socrata,direct_live_endpoint,—,#4A6FA5
+40,Dallas,46,3.46,32.76,socrata,direct_live_endpoint,—,#4A6FA5
 41,Fort Worth,34,3.31,31.03,arcgis,direct_live_endpoint,—,#4A6FA5
 42,Austin,32,3.19,29.31,socrata,direct_live_endpoint,—,#4A6FA5
 43,Boston,21,3.12,27.59,ckan_sql,direct_live_endpoint,—,#4A6FA5
